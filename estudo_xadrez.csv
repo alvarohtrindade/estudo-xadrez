@@ -1,0 +1,2001 @@
+Identificador do Aluno,Nome do Aluno,Idade,Gênero,Ano Escolar,Você pratica xadrez regularmente?,Há quanto tempo você joga xadrez?,Qual foi sua média geral nas últimas três avaliações escolares?,Qual foi sua nota na última prova de Matemática?,Qual foi sua nota na última prova de Língua Portuguesa?
+0001,Tiago Pereira,7,Masculino,2º Ano,Não,Nunca,6.54,9.59,8.34
+0002,Diego Costa,14,Masculino,9º Ano,Não,Nunca,6.4,5.56,8.69
+0003,Elisa Dias,17,Feminino,7º Ano,Não,Nunca,7.48,5.85,8.11
+0004,Rafael Dias,10,Masculino,5º Ano,Não,Nunca,9.91,9.41,6.45
+0005,Laura Júnior,8,Feminino,3º Ano,Sim,mais de 1 ano,5.58,8.63,7.6
+0006,Zeca Almeida,9,Masculino,4º Ano,Não,Nunca,9.23,5.58,9.63
+0007,Henrique Vieira,11,Masculino,6º Ano,Não,Nunca,8.36,6.33,5.25
+0008,Isabela Almeida,10,Feminino,5º Ano,Sim,mais de 1 ano,5.85,8.34,5.48
+0009,Tiago Silva,18,Masculino,8º Ano,Não,Nunca,5.71,7.54,9.97
+0010,Fernando Costa,17,Masculino,7º Ano,Sim,mais de 1 ano,5.83,7.51,8.11
+0011,Laura Martins,7,Feminino,2º Ano,Sim,Nunca,7.94,8.34,7.55
+0012,Tiago Teixeira,18,Masculino,8º Ano,Não,Nunca,6.24,9.29,8.17
+0013,Gabriela Vieira,10,Feminino,5º Ano,Sim,mais de 1 ano,8.26,9.51,9.37
+0014,Laura Queiroz,10,Feminino,5º Ano,Não,Nunca,5.58,9.18,9.39
+0015,Natália Queiroz,8,Feminino,3º Ano,Não,Nunca,9.5,7.36,6.57
+0016,Ana Júnior,10,Feminino,5º Ano,Não,Nunca,7.99,7.37,5.91
+0017,Gabriela Júnior,14,Feminino,9º Ano,Não,Nunca,7.44,7.42,8.15
+0018,Gabriela Henrique,7,Feminino,2º Ano,Não,Nunca,9.84,8.2,6.99
+0019,Zeca Costa,9,Masculino,4º Ano,Não,Nunca,8.01,9.12,7.57
+0020,Sofia Nogueira,11,Feminino,6º Ano,Não,Nunca,6.38,8.46,7.59
+0021,Marcos Costa,18,Masculino,8º Ano,Sim,mais de 1 ano,9.14,9.67,6.43
+0022,Patrícia Barbosa,16,Feminino,6º Ano,Não,Nunca,6.01,9.87,5.94
+0023,Gabriela Zanetti,16,Feminino,6º Ano,Sim,mais de 1 ano,7.81,5.14,9.95
+0024,Sofia Júnior,6,Feminino,1º Ano,Não,Nunca,6.23,9.15,7.67
+0025,Vivian Barbosa,18,Feminino,8º Ano,Não,Nunca,8.59,9.01,6.36
+0026,Otávio Gomes,17,Masculino,7º Ano,Não,Nunca,5.27,7.29,8.27
+0027,Laura Pereira,18,Feminino,8º Ano,Não,Nunca,6.58,6.05,8.07
+0028,João Barbosa,13,Masculino,8º Ano,Não,Nunca,6.52,7.7,7.79
+0029,Marcos Júnior,8,Masculino,3º Ano,Sim,mais de 1 ano,5.88,5.42,8.02
+0030,Vivian Oliveira,13,Feminino,8º Ano,Não,Nunca,9.51,7.47,5.64
+0031,Carla Almeida,7,Feminino,2º Ano,Sim,Nunca,5.11,8.0,9.52
+0032,Elisa Teixeira,8,Feminino,3º Ano,Não,Nunca,6.62,5.09,8.1
+0033,Isabela Costa,11,Feminino,6º Ano,Não,Nunca,7.5,5.08,8.06
+0034,Vivian Ramos,18,Feminino,8º Ano,Não,Nunca,9.63,9.96,5.58
+0035,Carla Júnior,16,Feminino,6º Ano,Sim,Nunca,8.4,6.04,6.98
+0036,Isabela Oliveira,14,Feminino,9º Ano,Sim,Nunca,5.7,7.52,6.3
+0037,Ana Silva,15,Feminino,10º Ano,Não,Nunca,8.74,8.45,6.56
+0038,Fernando Ibarra,6,Masculino,1º Ano,Não,Nunca,9.85,7.92,8.26
+0039,Ana Barbosa,6,Feminino,1º Ano,Sim,mais de 1 ano,9.9,8.91,9.13
+0040,Natália Teixeira,17,Feminino,7º Ano,Sim,mais de 1 ano,5.7,7.54,6.46
+0041,Carla Nogueira,15,Feminino,10º Ano,Não,Nunca,6.37,9.37,9.96
+0042,Marcos Vieira,13,Masculino,8º Ano,Não,Nunca,6.15,9.82,5.75
+0043,Laura Queiroz,8,Feminino,3º Ano,Não,Nunca,9.22,7.32,6.54
+0044,Zeca Zanetti,18,Masculino,8º Ano,Não,Nunca,7.48,9.72,9.79
+0045,Sofia Silva,17,Feminino,7º Ano,Não,Nunca,6.17,8.88,7.78
+0046,Rafael Teixeira,16,Masculino,6º Ano,Não,Nunca,5.46,9.18,8.57
+0047,Gabriela Vieira,13,Feminino,8º Ano,Não,Nunca,9.15,6.91,8.85
+0048,Diego Martins,18,Masculino,8º Ano,Sim,mais de 1 ano,7.44,8.84,7.68
+0049,Bruno Ramos,6,Masculino,1º Ano,Sim,Nunca,9.16,7.06,7.19
+0050,Fernando Júnior,7,Masculino,2º Ano,Não,Nunca,5.19,5.17,8.41
+0051,Rafael Queiroz,14,Masculino,9º Ano,Não,Nunca,7.1,7.27,9.7
+0052,Ana Fernandes,10,Feminino,5º Ano,Não,Nunca,5.37,6.74,5.55
+0053,Ana Vieira,6,Feminino,1º Ano,Não,Nunca,5.95,9.84,9.73
+0054,Carla Martins,9,Feminino,4º Ano,Não,Nunca,5.8,7.27,7.05
+0055,Zeca Vieira,6,Masculino,1º Ano,Não,Nunca,6.15,6.12,6.68
+0056,Natália Fernandes,15,Feminino,10º Ano,Não,Nunca,8.88,8.94,9.36
+0057,Elisa Martins,10,Feminino,5º Ano,Não,Nunca,5.18,7.49,7.2
+0058,Tiago Pereira,18,Masculino,8º Ano,Não,Nunca,6.37,8.44,6.57
+0059,Natália Pereira,6,Feminino,1º Ano,Não,Nunca,7.93,8.62,8.37
+0060,Patrícia Gomes,12,Feminino,7º Ano,Não,Nunca,9.51,6.31,7.71
+0061,Natália Costa,9,Feminino,4º Ano,Não,Nunca,6.04,7.67,5.12
+0062,Vivian Gomes,7,Feminino,2º Ano,Não,Nunca,8.4,5.19,8.68
+0063,Ana Costa,6,Feminino,1º Ano,Não,Nunca,8.94,5.51,8.25
+0064,Zeca Zanetti,16,Masculino,6º Ano,Sim,mais de 1 ano,7.21,9.41,7.19
+0065,Gabriela Júnior,6,Feminino,1º Ano,Não,Nunca,8.16,8.7,6.03
+0066,Diego Ramos,6,Masculino,1º Ano,Sim,mais de 1 ano,7.79,7.46,5.37
+0067,Bruno Ramos,17,Masculino,7º Ano,Não,Nunca,7.39,8.73,9.62
+0068,Vivian Júnior,15,Feminino,10º Ano,Não,Nunca,6.26,7.37,9.4
+0069,Natália Martins,7,Feminino,2º Ano,Não,Nunca,5.34,5.32,8.08
+0070,Ana Ramos,7,Feminino,2º Ano,Não,Nunca,8.65,5.33,7.68
+0071,Rafael Henrique,11,Masculino,6º Ano,Não,Nunca,9.07,9.64,6.77
+0072,Vivian Pereira,18,Feminino,8º Ano,Não,Nunca,5.15,8.49,9.12
+0073,Rafael Nogueira,17,Masculino,7º Ano,Não,Nunca,8.91,8.93,9.61
+0074,Zeca Almeida,18,Masculino,8º Ano,Não,Nunca,6.79,5.1,8.09
+0075,Rafael Ibarra,15,Masculino,10º Ano,Não,Nunca,9.35,8.97,9.34
+0076,Bruno Silva,12,Masculino,7º Ano,Não,Nunca,5.38,6.08,8.46
+0077,Carla Silva,18,Feminino,8º Ano,Não,Nunca,5.85,6.0,7.53
+0078,Gabriela Nogueira,16,Feminino,6º Ano,Não,Nunca,6.92,6.33,7.56
+0079,Patrícia Ramos,8,Feminino,3º Ano,Não,Nunca,9.17,8.55,6.78
+0080,Isabela Nogueira,18,Feminino,8º Ano,Não,Nunca,8.7,9.05,7.62
+0081,Patrícia Almeida,11,Feminino,6º Ano,Não,Nunca,5.35,7.4,5.1
+0082,João Gomes,7,Masculino,2º Ano,Não,Nunca,6.33,9.44,5.36
+0083,Bruno Lima,11,Masculino,6º Ano,Não,Nunca,9.7,6.63,5.64
+0084,Patrícia Henrique,17,Feminino,7º Ano,Não,Nunca,8.1,6.03,5.05
+0085,Zeca Almeida,14,Masculino,9º Ano,Não,Nunca,5.31,5.73,5.55
+0086,Isabela Nogueira,16,Feminino,6º Ano,Não,Nunca,6.7,5.53,5.53
+0087,Vivian Henrique,17,Feminino,7º Ano,Sim,mais de 1 ano,8.06,7.07,8.95
+0088,Elisa Teixeira,17,Feminino,7º Ano,Não,Nunca,7.37,7.08,6.53
+0089,Otávio Ramos,13,Masculino,8º Ano,Sim,mais de 1 ano,5.74,8.4,5.44
+0090,Gabriela Martins,14,Feminino,9º Ano,Não,Nunca,8.42,6.49,5.71
+0091,Diego Teixeira,10,Masculino,5º Ano,Não,Nunca,7.57,8.55,8.47
+0092,Fernando Zanetti,14,Masculino,9º Ano,Não,Nunca,7.72,8.96,8.02
+0093,Rafael Fernandes,17,Masculino,7º Ano,Sim,mais de 1 ano,7.84,9.52,7.96
+0094,Fernando Pereira,7,Masculino,2º Ano,Não,Nunca,7.1,7.92,7.97
+0095,Rafael Vieira,18,Masculino,8º Ano,Não,Nunca,9.22,9.56,6.04
+0096,Elisa Oliveira,17,Feminino,7º Ano,Não,Nunca,7.66,5.38,7.56
+0097,Elisa Silva,18,Feminino,8º Ano,Não,Nunca,9.13,5.3,9.96
+0098,Carla Martins,9,Feminino,4º Ano,Sim,mais de 1 ano,7.18,6.75,8.9
+0099,Henrique Fernandes,17,Masculino,7º Ano,Não,Nunca,6.35,5.94,5.46
+0100,Carla Vieira,8,Feminino,3º Ano,Não,Nunca,9.75,8.19,8.36
+0101,Carla Ramos,17,Feminino,7º Ano,Não,Nunca,7.67,8.98,5.38
+0102,Diego Nogueira,10,Masculino,5º Ano,Não,Nunca,5.1,9.23,6.02
+0103,Tiago Fernandes,10,Masculino,5º Ano,Não,Nunca,8.16,9.39,8.67
+0104,João Vieira,16,Masculino,6º Ano,Não,Nunca,5.74,7.15,7.87
+0105,Gabriela Vieira,10,Feminino,5º Ano,Não,Nunca,5.32,7.18,5.52
+0106,Diego Barbosa,12,Masculino,7º Ano,Não,Nunca,7.75,9.44,6.96
+0107,Ana Ramos,18,Feminino,8º Ano,Não,Nunca,5.05,6.95,6.52
+0108,Elisa Gomes,18,Feminino,8º Ano,Não,Nunca,6.06,6.21,7.35
+0109,Henrique Barbosa,12,Masculino,7º Ano,Não,Nunca,7.75,6.55,7.1
+0110,Marcos Almeida,12,Masculino,7º Ano,Não,Nunca,5.96,7.57,7.68
+0111,Rafael Nogueira,15,Masculino,10º Ano,Não,Nunca,8.13,6.77,6.19
+0112,Ana Gomes,15,Feminino,10º Ano,Não,Nunca,9.38,8.4,6.61
+0113,Fernando Nogueira,10,Masculino,5º Ano,Não,Nunca,5.45,7.43,7.57
+0114,Zeca Oliveira,9,Masculino,4º Ano,Não,Nunca,6.52,8.23,8.79
+0115,Zeca Pereira,17,Masculino,7º Ano,Não,Nunca,5.77,7.75,7.27
+0116,Fernando Teixeira,8,Masculino,3º Ano,Não,Nunca,8.25,8.96,7.47
+0117,Elisa Henrique,12,Feminino,7º Ano,Não,Nunca,9.92,5.09,7.72
+0118,Elisa Júnior,14,Feminino,9º Ano,Não,Nunca,7.84,6.89,5.56
+0119,Natália Teixeira,7,Feminino,2º Ano,Sim,mais de 1 ano,5.82,9.63,8.47
+0120,Natália Pereira,18,Feminino,8º Ano,Sim,mais de 1 ano,6.36,8.96,7.72
+0121,Elisa Lima,7,Feminino,2º Ano,Não,Nunca,8.37,5.54,7.94
+0122,João Zanetti,11,Masculino,6º Ano,Não,Nunca,9.68,5.91,8.95
+0123,João Lima,16,Masculino,6º Ano,Não,Nunca,6.84,6.27,6.84
+0124,Ana Martins,18,Feminino,8º Ano,Não,Nunca,9.57,9.67,8.17
+0125,João Costa,9,Masculino,4º Ano,Sim,mais de 1 ano,6.45,9.7,6.26
+0126,Marcos Zanetti,10,Masculino,5º Ano,Não,Nunca,9.86,7.15,9.98
+0127,Patrícia Zanetti,17,Feminino,7º Ano,Não,Nunca,8.63,7.16,9.11
+0128,Diego Nogueira,15,Masculino,10º Ano,Não,Nunca,5.02,9.56,9.84
+0129,João Ibarra,17,Masculino,7º Ano,Não,Nunca,8.28,7.07,6.35
+0130,Fernando Ibarra,9,Masculino,4º Ano,Sim,Nunca,7.17,8.31,9.82
+0131,Gabriela Vieira,9,Feminino,4º Ano,Não,Nunca,6.98,8.47,8.9
+0132,Elisa Pereira,17,Feminino,7º Ano,Não,Nunca,7.19,6.04,7.19
+0133,Tiago Gomes,11,Masculino,6º Ano,Não,Nunca,9.12,6.11,8.77
+0134,Marcos Ibarra,16,Masculino,6º Ano,Não,Nunca,9.71,9.0,8.89
+0135,João Júnior,14,Masculino,9º Ano,Não,Nunca,8.1,9.17,8.32
+0136,Isabela Henrique,10,Feminino,5º Ano,Não,Nunca,9.07,6.67,5.98
+0137,Elisa Silva,7,Feminino,2º Ano,Não,Nunca,5.8,9.82,8.4
+0138,Bruno Lima,10,Masculino,5º Ano,Sim,mais de 1 ano,5.97,7.87,7.53
+0139,João Oliveira,7,Masculino,2º Ano,Sim,Nunca,6.68,5.43,6.33
+0140,Fernando Dias,10,Masculino,5º Ano,Não,Nunca,5.02,9.92,8.02
+0141,João Costa,14,Masculino,9º Ano,Sim,mais de 1 ano,9.81,5.06,7.27
+0142,Elisa Almeida,7,Feminino,2º Ano,Sim,mais de 1 ano,7.01,8.75,7.5
+0143,Vivian Fernandes,15,Feminino,10º Ano,Sim,Nunca,9.43,9.93,7.66
+0144,João Costa,18,Masculino,8º Ano,Não,Nunca,7.52,7.0,5.06
+0145,Natália Teixeira,16,Feminino,6º Ano,Não,Nunca,8.04,8.17,5.09
+0146,Rafael Barbosa,15,Masculino,10º Ano,Não,Nunca,7.55,6.61,7.35
+0147,Sofia Ibarra,18,Feminino,8º Ano,Não,Nunca,8.94,6.1,7.87
+0148,Zeca Nogueira,13,Masculino,8º Ano,Não,Nunca,7.2,6.9,6.88
+0149,Isabela Ramos,9,Feminino,4º Ano,Não,Nunca,6.96,9.11,6.82
+0150,Marcos Fernandes,18,Masculino,8º Ano,Não,Nunca,7.05,8.54,7.43
+0151,Natália Barbosa,10,Feminino,5º Ano,Não,Nunca,7.78,9.52,8.38
+0152,Fernando Lima,14,Masculino,9º Ano,Não,Nunca,9.63,8.08,6.56
+0153,Marcos Barbosa,16,Masculino,6º Ano,Não,Nunca,9.05,5.36,6.89
+0154,Patrícia Júnior,13,Feminino,8º Ano,Não,Nunca,8.23,9.24,9.14
+0155,Henrique Ibarra,10,Masculino,5º Ano,Não,Nunca,5.29,6.33,9.47
+0156,Tiago Pereira,9,Masculino,4º Ano,Não,Nunca,7.11,8.39,5.21
+0157,Ana Teixeira,9,Feminino,4º Ano,Sim,mais de 1 ano,8.17,7.96,7.08
+0158,Patrícia Nogueira,14,Feminino,9º Ano,Não,Nunca,9.06,9.25,5.34
+0159,Otávio Dias,16,Masculino,6º Ano,Não,Nunca,7.94,6.71,6.85
+0160,Ana Pereira,15,Feminino,10º Ano,Sim,Nunca,8.58,9.11,6.1
+0161,Elisa Oliveira,7,Feminino,2º Ano,Não,Nunca,6.42,7.03,6.12
+0162,Otávio Martins,18,Masculino,8º Ano,Sim,mais de 1 ano,8.0,5.12,7.23
+0163,Natália Henrique,12,Feminino,7º Ano,Não,Nunca,6.61,9.23,9.61
+0164,Vivian Almeida,6,Feminino,1º Ano,Não,Nunca,9.27,6.35,8.1
+0165,Bruno Zanetti,15,Masculino,10º Ano,Sim,mais de 1 ano,6.58,7.97,9.18
+0166,Tiago Gomes,14,Masculino,9º Ano,Sim,mais de 1 ano,8.8,6.88,5.93
+0167,Vivian Queiroz,11,Feminino,6º Ano,Não,Nunca,5.2,9.84,9.5
+0168,Laura Oliveira,13,Feminino,8º Ano,Não,Nunca,7.99,8.54,9.32
+0169,Fernando Dias,17,Masculino,7º Ano,Sim,mais de 1 ano,9.05,7.94,7.98
+0170,Gabriela Fernandes,13,Feminino,8º Ano,Não,Nunca,9.24,6.35,7.63
+0171,Fernando Ibarra,12,Masculino,7º Ano,Não,Nunca,8.21,8.09,6.98
+0172,Ana Zanetti,16,Feminino,6º Ano,Sim,mais de 1 ano,7.06,7.27,7.16
+0173,Zeca Ibarra,15,Masculino,10º Ano,Não,Nunca,5.9,8.23,8.83
+0174,Vivian Costa,14,Feminino,9º Ano,Não,Nunca,9.4,9.25,9.28
+0175,Natália Gomes,18,Feminino,8º Ano,Não,Nunca,6.31,9.18,6.87
+0176,Ana Almeida,6,Feminino,1º Ano,Sim,mais de 1 ano,6.03,6.59,8.22
+0177,Ana Nogueira,7,Feminino,2º Ano,Não,Nunca,6.01,8.74,9.07
+0178,Tiago Almeida,17,Masculino,7º Ano,Não,Nunca,7.01,5.28,8.11
+0179,Natália Henrique,18,Feminino,8º Ano,Não,Nunca,8.94,9.66,7.0
+0180,Tiago Queiroz,16,Masculino,6º Ano,Não,Nunca,9.46,6.62,5.84
+0181,Elisa Martins,12,Feminino,7º Ano,Sim,Nunca,7.18,7.86,6.35
+0182,Zeca Oliveira,12,Masculino,7º Ano,Não,Nunca,5.41,9.51,8.1
+0183,Patrícia Fernandes,6,Feminino,1º Ano,Não,Nunca,7.73,7.58,6.21
+0184,Tiago Vieira,11,Masculino,6º Ano,Não,Nunca,5.76,5.13,9.76
+0185,Elisa Pereira,15,Feminino,10º Ano,Não,Nunca,7.01,7.81,5.24
+0186,Laura Oliveira,10,Feminino,5º Ano,Não,Nunca,6.45,9.37,7.02
+0187,Marcos Oliveira,18,Masculino,8º Ano,Não,Nunca,9.46,8.32,6.43
+0188,Marcos Gomes,16,Masculino,6º Ano,Sim,Nunca,6.36,6.24,8.77
+0189,Ana Oliveira,12,Feminino,7º Ano,Não,Nunca,6.94,7.31,8.22
+0190,Rafael Ibarra,12,Masculino,7º Ano,Sim,Nunca,5.36,6.0,7.06
+0191,Zeca Martins,15,Masculino,10º Ano,Sim,mais de 1 ano,5.07,5.51,9.2
+0192,Tiago Ibarra,6,Masculino,1º Ano,Não,Nunca,6.59,6.89,6.89
+0193,Rafael Pereira,16,Masculino,6º Ano,Sim,mais de 1 ano,9.65,5.18,5.07
+0194,Tiago Lima,7,Masculino,2º Ano,Não,Nunca,7.12,5.83,6.74
+0195,Natália Henrique,8,Feminino,3º Ano,Sim,mais de 1 ano,7.09,5.88,7.2
+0196,Carla Vieira,14,Feminino,9º Ano,Sim,mais de 1 ano,6.52,9.58,7.71
+0197,Marcos Lima,12,Masculino,7º Ano,Sim,Nunca,6.11,7.55,7.35
+0198,Carla Martins,18,Feminino,8º Ano,Não,Nunca,8.69,7.66,7.03
+0199,Otávio Ibarra,18,Masculino,8º Ano,Não,Nunca,9.27,8.52,8.65
+0200,Fernando Costa,15,Masculino,10º Ano,Não,Nunca,7.8,7.4,7.72
+0201,Ana Oliveira,11,Feminino,6º Ano,Não,Nunca,8.78,5.04,7.7
+0202,Natália Queiroz,18,Feminino,8º Ano,Não,Nunca,6.18,7.45,8.12
+0203,Tiago Gomes,15,Masculino,10º Ano,Não,Nunca,9.01,6.01,6.98
+0204,Marcos Teixeira,16,Masculino,6º Ano,Não,Nunca,8.64,9.89,7.72
+0205,Ana Vieira,12,Feminino,7º Ano,Não,Nunca,5.73,9.29,8.02
+0206,Natália Zanetti,13,Feminino,8º Ano,Não,Nunca,5.66,9.46,9.34
+0207,Gabriela Barbosa,18,Feminino,8º Ano,Não,Nunca,8.07,7.13,9.47
+0208,Elisa Pereira,17,Feminino,7º Ano,Não,Nunca,7.24,9.92,8.13
+0209,Tiago Martins,14,Masculino,9º Ano,Sim,Nunca,9.84,9.58,6.52
+0210,Patrícia Lima,11,Feminino,6º Ano,Não,Nunca,7.71,8.83,6.06
+0211,Marcos Oliveira,11,Masculino,6º Ano,Não,Nunca,9.13,7.02,7.2
+0212,Rafael Oliveira,6,Masculino,1º Ano,Não,Nunca,8.34,7.59,5.42
+0213,Patrícia Lima,14,Feminino,9º Ano,Não,Nunca,8.42,9.69,7.96
+0214,Henrique Henrique,16,Masculino,6º Ano,Não,Nunca,9.76,8.21,5.27
+0215,Henrique Henrique,6,Masculino,1º Ano,Não,Nunca,8.66,9.09,5.03
+0216,Vivian Silva,9,Feminino,4º Ano,Não,Nunca,6.44,6.21,7.63
+0217,Rafael Gomes,17,Masculino,7º Ano,Não,Nunca,5.93,7.09,9.8
+0218,Otávio Lima,17,Masculino,7º Ano,Não,Nunca,8.21,8.09,5.51
+0219,Diego Silva,17,Masculino,7º Ano,Não,Nunca,9.25,9.7,5.29
+0220,Ana Henrique,17,Feminino,7º Ano,Não,Nunca,7.48,9.1,6.17
+0221,Ana Vieira,13,Feminino,8º Ano,Não,Nunca,5.61,5.69,8.22
+0222,Fernando Fernandes,6,Masculino,1º Ano,Não,Nunca,7.5,6.69,5.25
+0223,Carla Gomes,15,Feminino,10º Ano,Não,Nunca,6.19,8.58,7.97
+0224,Ana Henrique,9,Feminino,4º Ano,Não,Nunca,8.27,5.42,8.03
+0225,Henrique Martins,18,Masculino,8º Ano,Não,Nunca,7.27,7.51,7.99
+0226,Bruno Pereira,11,Masculino,6º Ano,Sim,Nunca,8.26,8.69,5.07
+0227,Laura Queiroz,6,Feminino,1º Ano,Sim,Nunca,6.65,6.92,7.58
+0228,Carla Ramos,17,Feminino,7º Ano,Não,Nunca,8.65,7.51,6.57
+0229,Elisa Queiroz,14,Feminino,9º Ano,Não,Nunca,9.12,9.05,6.02
+0230,Bruno Oliveira,12,Masculino,7º Ano,Sim,mais de 1 ano,5.89,9.15,9.37
+0231,Sofia Zanetti,11,Feminino,6º Ano,Não,Nunca,8.6,8.23,6.4
+0232,Natália Almeida,10,Feminino,5º Ano,Não,Nunca,9.44,5.95,8.08
+0233,Diego Dias,10,Masculino,5º Ano,Não,Nunca,6.0,8.83,7.66
+0234,Marcos Ibarra,8,Masculino,3º Ano,Não,Nunca,5.2,9.98,9.49
+0235,Henrique Lima,15,Masculino,10º Ano,Não,Nunca,9.94,8.7,6.42
+0236,Sofia Vieira,8,Feminino,3º Ano,Não,Nunca,8.18,9.0,5.09
+0237,Carla Martins,11,Feminino,6º Ano,Não,Nunca,6.68,6.89,7.03
+0238,Carla Barbosa,15,Feminino,10º Ano,Não,Nunca,7.05,9.49,9.68
+0239,Vivian Lima,8,Feminino,3º Ano,Sim,Nunca,8.18,6.0,6.42
+0240,Marcos Barbosa,13,Masculino,8º Ano,Não,Nunca,9.24,8.41,5.68
+0241,Sofia Ibarra,6,Feminino,1º Ano,Não,Nunca,8.94,7.48,5.85
+0242,Elisa Ramos,7,Feminino,2º Ano,Não,Nunca,6.91,7.38,9.45
+0243,Otávio Lima,9,Masculino,4º Ano,Sim,mais de 1 ano,6.11,7.61,9.64
+0244,Rafael Zanetti,12,Masculino,7º Ano,Não,Nunca,6.73,6.11,9.77
+0245,Vivian Almeida,15,Feminino,10º Ano,Sim,Nunca,6.69,6.93,9.38
+0246,Natália Oliveira,8,Feminino,3º Ano,Não,Nunca,6.18,8.14,7.49
+0247,Patrícia Henrique,13,Feminino,8º Ano,Não,Nunca,8.76,7.72,5.99
+0248,Ana Ramos,14,Feminino,9º Ano,Não,Nunca,6.88,6.54,5.26
+0249,Gabriela Oliveira,8,Feminino,3º Ano,Não,Nunca,8.29,6.22,8.26
+0250,Fernando Nogueira,6,Masculino,1º Ano,Não,Nunca,8.45,5.77,6.46
+0251,Sofia Barbosa,13,Feminino,8º Ano,Não,Nunca,9.44,7.53,9.52
+0252,Diego Oliveira,15,Masculino,10º Ano,Não,Nunca,8.27,8.48,8.94
+0253,Zeca Teixeira,7,Masculino,2º Ano,Não,Nunca,8.7,5.59,5.83
+0254,Ana Ibarra,11,Feminino,6º Ano,Não,Nunca,5.46,9.56,5.02
+0255,Diego Vieira,11,Masculino,6º Ano,Não,Nunca,8.81,7.65,5.32
+0256,Rafael Fernandes,15,Masculino,10º Ano,Não,Nunca,9.98,9.7,8.97
+0257,Carla Vieira,6,Feminino,1º Ano,Não,Nunca,5.35,7.13,5.21
+0258,Ana Henrique,11,Feminino,6º Ano,Não,Nunca,8.4,7.28,7.39
+0259,Patrícia Henrique,10,Feminino,5º Ano,Não,Nunca,5.88,8.05,7.41
+0260,Sofia Oliveira,14,Feminino,9º Ano,Não,Nunca,5.43,9.33,8.41
+0261,Sofia Queiroz,8,Feminino,3º Ano,Não,Nunca,7.2,7.18,5.96
+0262,Bruno Vieira,8,Masculino,3º Ano,Não,Nunca,8.15,8.41,9.86
+0263,Zeca Teixeira,13,Masculino,8º Ano,Não,Nunca,8.06,6.36,9.98
+0264,João Fernandes,8,Masculino,3º Ano,Sim,Nunca,5.64,9.67,9.78
+0265,Marcos Vieira,8,Masculino,3º Ano,Não,Nunca,6.82,7.07,5.36
+0266,Henrique Lima,7,Masculino,2º Ano,Não,Nunca,7.92,8.49,9.33
+0267,Henrique Costa,9,Masculino,4º Ano,Não,Nunca,9.17,5.76,6.01
+0268,Fernando Henrique,14,Masculino,9º Ano,Não,Nunca,9.54,8.78,7.54
+0269,Zeca Ibarra,16,Masculino,6º Ano,Sim,mais de 1 ano,8.34,9.24,5.19
+0270,Henrique Zanetti,8,Masculino,3º Ano,Não,Nunca,5.69,8.78,5.28
+0271,João Silva,15,Masculino,10º Ano,Não,Nunca,5.33,8.02,7.98
+0272,Elisa Pereira,6,Feminino,1º Ano,Não,Nunca,8.16,8.16,6.36
+0273,Carla Zanetti,9,Feminino,4º Ano,Não,Nunca,6.37,8.03,5.76
+0274,Patrícia Fernandes,7,Feminino,2º Ano,Não,Nunca,5.17,7.16,9.88
+0275,Tiago Martins,14,Masculino,9º Ano,Sim,mais de 1 ano,5.47,6.41,8.55
+0276,Vivian Júnior,15,Feminino,10º Ano,Não,Nunca,7.6,6.42,8.58
+0277,Rafael Oliveira,16,Masculino,6º Ano,Sim,mais de 1 ano,9.26,9.5,8.32
+0278,Ana Zanetti,7,Feminino,2º Ano,Não,Nunca,5.91,6.21,9.06
+0279,Diego Zanetti,17,Masculino,7º Ano,Não,Nunca,9.7,5.24,9.12
+0280,Marcos Barbosa,16,Masculino,6º Ano,Sim,mais de 1 ano,9.44,5.82,8.46
+0281,João Oliveira,9,Masculino,4º Ano,Sim,mais de 1 ano,6.62,6.08,6.05
+0282,Tiago Júnior,16,Masculino,6º Ano,Não,Nunca,6.5,5.98,7.14
+0283,Elisa Vieira,13,Feminino,8º Ano,Não,Nunca,6.62,8.99,8.83
+0284,João Henrique,13,Masculino,8º Ano,Não,Nunca,9.91,9.81,9.35
+0285,João Zanetti,10,Masculino,5º Ano,Não,Nunca,7.53,9.94,7.62
+0286,Vivian Vieira,14,Feminino,9º Ano,Sim,mais de 1 ano,6.08,7.88,9.29
+0287,Isabela Pereira,15,Feminino,10º Ano,Sim,mais de 1 ano,5.43,9.04,9.46
+0288,Natália Lima,13,Feminino,8º Ano,Não,Nunca,7.43,7.11,9.53
+0289,Patrícia Teixeira,7,Feminino,2º Ano,Não,Nunca,5.16,8.94,7.69
+0290,Rafael Ibarra,17,Masculino,7º Ano,Não,Nunca,6.59,6.48,9.34
+0291,Elisa Fernandes,17,Feminino,7º Ano,Não,Nunca,6.2,7.92,7.27
+0292,Carla Almeida,13,Feminino,8º Ano,Não,Nunca,9.53,5.77,9.28
+0293,Bruno Gomes,14,Masculino,9º Ano,Não,Nunca,9.5,6.18,8.31
+0294,Tiago Pereira,18,Masculino,8º Ano,Não,Nunca,9.71,8.93,7.69
+0295,Otávio Zanetti,16,Masculino,6º Ano,Não,Nunca,5.03,5.35,5.51
+0296,Otávio Fernandes,9,Masculino,4º Ano,Não,Nunca,5.42,9.88,7.95
+0297,Marcos Zanetti,6,Masculino,1º Ano,Não,Nunca,8.5,8.55,9.61
+0298,Bruno Pereira,18,Masculino,8º Ano,Não,Nunca,6.25,9.77,5.44
+0299,Henrique Gomes,8,Masculino,3º Ano,Não,Nunca,9.7,9.64,6.8
+0300,Diego Pereira,16,Masculino,6º Ano,Não,Nunca,6.47,6.93,7.96
+0301,Zeca Fernandes,9,Masculino,4º Ano,Sim,mais de 1 ano,5.88,8.47,9.19
+0302,Carla Nogueira,11,Feminino,6º Ano,Não,Nunca,9.65,7.24,7.61
+0303,Natália Nogueira,6,Feminino,1º Ano,Sim,Nunca,7.9,8.93,5.12
+0304,João Lima,9,Masculino,4º Ano,Sim,Nunca,9.86,7.0,9.48
+0305,Rafael Vieira,12,Masculino,7º Ano,Não,Nunca,7.95,7.09,5.34
+0306,Ana Júnior,18,Feminino,8º Ano,Não,Nunca,7.75,8.85,6.86
+0307,Elisa Gomes,13,Feminino,8º Ano,Não,Nunca,7.51,6.95,6.18
+0308,Natália Pereira,10,Feminino,5º Ano,Não,Nunca,6.37,9.0,9.92
+0309,Fernando Henrique,17,Masculino,7º Ano,Sim,mais de 1 ano,5.34,7.84,9.45
+0310,Vivian Vieira,17,Feminino,7º Ano,Não,Nunca,7.94,8.21,5.89
+0311,Bruno Ibarra,14,Masculino,9º Ano,Não,Nunca,5.01,5.28,8.04
+0312,Fernando Zanetti,6,Masculino,1º Ano,Não,Nunca,5.08,6.67,9.07
+0313,Vivian Lima,12,Feminino,7º Ano,Não,Nunca,5.51,6.1,9.44
+0314,Rafael Fernandes,8,Masculino,3º Ano,Não,Nunca,5.51,7.8,8.34
+0315,Otávio Vieira,12,Masculino,7º Ano,Não,Nunca,7.45,9.3,6.51
+0316,Gabriela Dias,14,Feminino,9º Ano,Não,Nunca,6.48,9.32,8.24
+0317,João Lima,9,Masculino,4º Ano,Não,Nunca,5.23,9.01,6.07
+0318,Carla Barbosa,11,Feminino,6º Ano,Não,Nunca,5.89,9.78,9.5
+0319,Patrícia Vieira,12,Feminino,7º Ano,Não,Nunca,7.76,6.86,8.66
+0320,Rafael Gomes,17,Masculino,7º Ano,Sim,Nunca,6.16,7.42,6.0
+0321,Bruno Gomes,9,Masculino,4º Ano,Não,Nunca,6.46,8.81,6.34
+0322,Rafael Júnior,13,Masculino,8º Ano,Sim,Nunca,6.49,8.08,9.02
+0323,Henrique Almeida,13,Masculino,8º Ano,Não,Nunca,9.88,9.47,8.33
+0324,Patrícia Martins,16,Feminino,6º Ano,Não,Nunca,5.07,8.1,5.7
+0325,Zeca Júnior,9,Masculino,4º Ano,Não,Nunca,8.31,7.91,5.45
+0326,Otávio Barbosa,18,Masculino,8º Ano,Não,Nunca,7.3,9.31,8.92
+0327,Sofia Almeida,17,Feminino,7º Ano,Não,Nunca,5.45,5.79,8.87
+0328,Carla Teixeira,17,Feminino,7º Ano,Sim,Nunca,8.0,8.54,8.19
+0329,Otávio Gomes,10,Masculino,5º Ano,Sim,mais de 1 ano,8.43,7.01,8.81
+0330,Patrícia Costa,15,Feminino,10º Ano,Sim,mais de 1 ano,9.45,7.25,8.73
+0331,Otávio Zanetti,8,Masculino,3º Ano,Não,Nunca,8.71,8.76,5.84
+0332,Tiago Pereira,16,Masculino,6º Ano,Não,Nunca,8.5,7.4,7.84
+0333,João Ibarra,14,Masculino,9º Ano,Não,Nunca,9.2,8.64,6.9
+0334,Natália Vieira,16,Feminino,6º Ano,Sim,mais de 1 ano,5.71,8.2,6.4
+0335,Marcos Nogueira,13,Masculino,8º Ano,Não,Nunca,7.03,7.46,5.23
+0336,Rafael Lima,11,Masculino,6º Ano,Não,Nunca,7.25,9.3,6.98
+0337,Ana Ramos,11,Feminino,6º Ano,Não,Nunca,8.09,7.15,6.34
+0338,Rafael Gomes,6,Masculino,1º Ano,Não,Nunca,5.16,7.32,5.33
+0339,Bruno Pereira,11,Masculino,6º Ano,Não,Nunca,5.79,7.46,8.22
+0340,Elisa Costa,12,Feminino,7º Ano,Não,Nunca,6.42,8.26,7.4
+0341,Fernando Barbosa,16,Masculino,6º Ano,Não,Nunca,5.08,7.14,6.57
+0342,Vivian Queiroz,13,Feminino,8º Ano,Não,Nunca,7.81,6.21,6.92
+0343,Laura Barbosa,9,Feminino,4º Ano,Não,Nunca,7.94,5.6,6.65
+0344,Zeca Costa,18,Masculino,8º Ano,Não,Nunca,7.74,9.34,6.47
+0345,Ana Gomes,6,Feminino,1º Ano,Sim,mais de 1 ano,7.11,8.2,6.38
+0346,Carla Henrique,16,Feminino,6º Ano,Não,Nunca,8.59,8.52,5.17
+0347,Patrícia Almeida,8,Feminino,3º Ano,Não,Nunca,8.3,6.08,9.0
+0348,Rafael Lima,15,Masculino,10º Ano,Não,Nunca,6.42,6.89,6.59
+0349,Diego Barbosa,18,Masculino,8º Ano,Não,Nunca,7.8,8.38,6.01
+0350,Gabriela Júnior,6,Feminino,1º Ano,Não,Nunca,9.51,6.49,6.32
+0351,Gabriela Costa,15,Feminino,10º Ano,Não,Nunca,8.56,8.08,8.92
+0352,Patrícia Martins,17,Feminino,7º Ano,Não,Nunca,5.72,6.02,5.54
+0353,Natália Ramos,13,Feminino,8º Ano,Não,Nunca,9.04,5.37,9.54
+0354,João Zanetti,8,Masculino,3º Ano,Não,Nunca,8.19,5.94,6.21
+0355,Rafael Martins,16,Masculino,6º Ano,Não,Nunca,5.73,8.77,6.12
+0356,Vivian Dias,18,Feminino,8º Ano,Sim,mais de 1 ano,8.08,9.71,6.28
+0357,Diego Barbosa,10,Masculino,5º Ano,Sim,mais de 1 ano,8.23,9.52,7.08
+0358,Ana Queiroz,16,Feminino,6º Ano,Não,Nunca,9.34,9.24,7.88
+0359,Isabela Dias,18,Feminino,8º Ano,Não,Nunca,7.74,7.37,7.33
+0360,Gabriela Dias,17,Feminino,7º Ano,Sim,mais de 1 ano,6.0,9.8,6.5
+0361,Carla Ibarra,11,Feminino,6º Ano,Não,Nunca,6.19,5.18,9.64
+0362,Otávio Vieira,7,Masculino,2º Ano,Não,Nunca,7.78,7.76,7.14
+0363,Carla Lima,16,Feminino,6º Ano,Não,Nunca,8.93,7.58,8.1
+0364,Tiago Ramos,6,Masculino,1º Ano,Não,Nunca,9.14,6.44,9.88
+0365,Otávio Vieira,17,Masculino,7º Ano,Não,Nunca,8.55,9.59,7.29
+0366,Natália Oliveira,18,Feminino,8º Ano,Não,Nunca,9.86,6.77,6.18
+0367,Marcos Nogueira,8,Masculino,3º Ano,Não,Nunca,7.42,9.39,9.34
+0368,Sofia Zanetti,11,Feminino,6º Ano,Não,Nunca,9.75,5.34,9.17
+0369,Gabriela Pereira,13,Feminino,8º Ano,Não,Nunca,7.99,6.78,8.63
+0370,Henrique Nogueira,7,Masculino,2º Ano,Não,Nunca,8.35,8.64,5.45
+0371,Elisa Martins,6,Feminino,1º Ano,Sim,mais de 1 ano,7.99,8.86,9.56
+0372,Laura Ibarra,14,Feminino,9º Ano,Sim,mais de 1 ano,5.75,6.05,5.12
+0373,Diego Dias,11,Masculino,6º Ano,Não,Nunca,5.17,8.29,9.95
+0374,Marcos Ibarra,6,Masculino,1º Ano,Não,Nunca,9.21,9.86,9.85
+0375,Diego Fernandes,10,Masculino,5º Ano,Não,Nunca,8.4,7.49,8.75
+0376,Gabriela Barbosa,18,Feminino,8º Ano,Não,Nunca,9.9,7.48,9.62
+0377,Henrique Nogueira,9,Masculino,4º Ano,Não,Nunca,9.16,8.78,6.53
+0378,Otávio Nogueira,17,Masculino,7º Ano,Sim,mais de 1 ano,8.24,5.58,6.89
+0379,Marcos Teixeira,11,Masculino,6º Ano,Não,Nunca,6.32,9.5,7.45
+0380,Gabriela Fernandes,18,Feminino,8º Ano,Não,Nunca,8.46,7.7,5.74
+0381,Bruno Dias,9,Masculino,4º Ano,Sim,Nunca,9.01,8.98,9.23
+0382,Gabriela Fernandes,12,Feminino,7º Ano,Não,Nunca,8.44,8.26,9.47
+0383,Otávio Almeida,13,Masculino,8º Ano,Não,Nunca,6.77,7.0,6.13
+0384,Diego Zanetti,12,Masculino,7º Ano,Não,Nunca,5.23,7.79,9.15
+0385,Zeca Ibarra,10,Masculino,5º Ano,Não,Nunca,5.43,6.07,7.52
+0386,Vivian Pereira,14,Feminino,9º Ano,Não,Nunca,7.82,8.28,6.08
+0387,Marcos Costa,9,Masculino,4º Ano,Não,Nunca,6.6,8.14,8.25
+0388,Sofia Almeida,14,Feminino,9º Ano,Não,Nunca,5.67,6.09,8.44
+0389,Ana Nogueira,17,Feminino,7º Ano,Sim,mais de 1 ano,6.72,9.75,5.56
+0390,Ana Dias,15,Feminino,10º Ano,Não,Nunca,7.21,8.96,5.7
+0391,Henrique Dias,9,Masculino,4º Ano,Não,Nunca,5.49,8.23,6.0
+0392,Patrícia Júnior,11,Feminino,6º Ano,Não,Nunca,7.26,8.16,5.73
+0393,Sofia Nogueira,6,Feminino,1º Ano,Não,Nunca,7.37,5.22,7.62
+0394,Bruno Fernandes,10,Masculino,5º Ano,Não,Nunca,5.35,7.04,6.04
+0395,Ana Queiroz,14,Feminino,9º Ano,Não,Nunca,7.66,7.24,5.12
+0396,Laura Silva,14,Feminino,9º Ano,Não,Nunca,5.09,9.54,7.87
+0397,Otávio Fernandes,18,Masculino,8º Ano,Não,Nunca,6.61,7.1,5.99
+0398,Marcos Silva,10,Masculino,5º Ano,Não,Nunca,6.0,7.3,5.05
+0399,Vivian Nogueira,9,Feminino,4º Ano,Não,Nunca,6.34,5.83,7.38
+0400,Vivian Nogueira,11,Feminino,6º Ano,Não,Nunca,6.08,9.52,9.65
+0401,Otávio Dias,7,Masculino,2º Ano,Não,Nunca,6.91,7.41,8.41
+0402,Sofia Júnior,13,Feminino,8º Ano,Sim,mais de 1 ano,8.42,6.88,6.64
+0403,Marcos Ramos,7,Masculino,2º Ano,Não,Nunca,9.58,7.47,7.53
+0404,Gabriela Silva,7,Feminino,2º Ano,Não,Nunca,6.45,9.8,9.23
+0405,Gabriela Costa,8,Feminino,3º Ano,Não,Nunca,7.43,5.58,7.48
+0406,Gabriela Queiroz,9,Feminino,4º Ano,Não,Nunca,9.17,8.63,5.39
+0407,Fernando Gomes,16,Masculino,6º Ano,Não,Nunca,5.32,8.54,7.92
+0408,Laura Barbosa,12,Feminino,7º Ano,Não,Nunca,7.08,7.04,7.32
+0409,Elisa Pereira,17,Feminino,7º Ano,Não,Nunca,6.41,7.7,5.98
+0410,Zeca Pereira,7,Masculino,2º Ano,Sim,Nunca,9.75,5.65,6.22
+0411,Isabela Oliveira,14,Feminino,9º Ano,Não,Nunca,7.08,9.85,6.08
+0412,Sofia Gomes,9,Feminino,4º Ano,Sim,Nunca,7.73,9.42,9.45
+0413,Marcos Ramos,10,Masculino,5º Ano,Não,Nunca,6.22,9.23,7.89
+0414,Fernando Barbosa,9,Masculino,4º Ano,Não,Nunca,6.75,8.44,9.77
+0415,Zeca Júnior,7,Masculino,2º Ano,Não,Nunca,8.39,9.53,6.41
+0416,Diego Barbosa,17,Masculino,7º Ano,Sim,mais de 1 ano,9.38,6.93,5.79
+0417,Patrícia Júnior,11,Feminino,6º Ano,Não,Nunca,5.05,5.6,9.56
+0418,Vivian Oliveira,8,Feminino,3º Ano,Não,Nunca,9.12,6.58,9.81
+0419,Laura Oliveira,8,Feminino,3º Ano,Sim,Nunca,8.35,8.19,6.57
+0420,Laura Costa,16,Feminino,6º Ano,Não,Nunca,8.47,5.95,9.31
+0421,Zeca Zanetti,18,Masculino,8º Ano,Não,Nunca,7.6,5.85,9.34
+0422,Gabriela Lima,18,Feminino,8º Ano,Não,Nunca,5.21,6.53,7.72
+0423,João Júnior,16,Masculino,6º Ano,Não,Nunca,8.51,5.88,7.65
+0424,Sofia Henrique,12,Feminino,7º Ano,Não,Nunca,5.45,9.69,8.15
+0425,Elisa Gomes,12,Feminino,7º Ano,Não,Nunca,7.9,6.55,8.52
+0426,Patrícia Ramos,8,Feminino,3º Ano,Não,Nunca,6.85,5.35,6.64
+0427,João Teixeira,14,Masculino,9º Ano,Não,Nunca,7.69,6.1,9.76
+0428,Otávio Fernandes,15,Masculino,10º Ano,Não,Nunca,6.75,9.68,9.38
+0429,Rafael Queiroz,18,Masculino,8º Ano,Sim,Nunca,7.8,6.8,8.72
+0430,Tiago Martins,15,Masculino,10º Ano,Sim,mais de 1 ano,5.22,7.28,5.61
+0431,Carla Ibarra,8,Feminino,3º Ano,Não,Nunca,7.94,8.7,8.35
+0432,João Barbosa,13,Masculino,8º Ano,Sim,mais de 1 ano,6.6,9.14,7.07
+0433,Fernando Pereira,6,Masculino,1º Ano,Não,Nunca,9.32,9.29,7.56
+0434,Carla Costa,12,Feminino,7º Ano,Não,Nunca,6.56,6.61,9.06
+0435,Natália Vieira,13,Feminino,8º Ano,Não,Nunca,7.44,5.43,8.89
+0436,Vivian Nogueira,12,Feminino,7º Ano,Não,Nunca,8.97,9.63,9.18
+0437,Natália Ramos,8,Feminino,3º Ano,Sim,mais de 1 ano,7.5,5.98,9.31
+0438,Marcos Henrique,17,Masculino,7º Ano,Sim,mais de 1 ano,5.41,8.35,9.54
+0439,Isabela Martins,12,Feminino,7º Ano,Não,Nunca,9.99,6.01,6.86
+0440,Elisa Lima,11,Feminino,6º Ano,Sim,mais de 1 ano,5.44,9.65,5.07
+0441,Elisa Lima,10,Feminino,5º Ano,Não,Nunca,8.83,7.63,6.22
+0442,Carla Queiroz,14,Feminino,9º Ano,Sim,mais de 1 ano,6.4,7.99,9.89
+0443,Fernando Nogueira,8,Masculino,3º Ano,Não,Nunca,6.46,8.6,9.52
+0444,Henrique Ramos,14,Masculino,9º Ano,Não,Nunca,6.93,7.21,7.53
+0445,Patrícia Vieira,16,Feminino,6º Ano,Não,Nunca,5.9,5.7,5.58
+0446,Diego Dias,11,Masculino,6º Ano,Não,Nunca,9.52,9.31,9.98
+0447,Fernando Fernandes,18,Masculino,8º Ano,Não,Nunca,6.15,6.52,6.72
+0448,Patrícia Barbosa,18,Feminino,8º Ano,Não,Nunca,5.28,5.18,5.91
+0449,Isabela Barbosa,7,Feminino,2º Ano,Não,Nunca,7.51,8.29,8.04
+0450,Patrícia Zanetti,11,Feminino,6º Ano,Não,Nunca,6.55,8.23,8.51
+0451,Rafael Almeida,15,Masculino,10º Ano,Sim,Nunca,9.04,9.21,9.08
+0452,Ana Gomes,9,Feminino,4º Ano,Não,Nunca,5.64,7.61,6.11
+0453,Gabriela Lima,12,Feminino,7º Ano,Sim,mais de 1 ano,5.08,7.6,6.79
+0454,Laura Silva,17,Feminino,7º Ano,Não,Nunca,9.09,6.71,6.64
+0455,Diego Queiroz,17,Masculino,7º Ano,Não,Nunca,7.12,9.58,5.09
+0456,Elisa Queiroz,15,Feminino,10º Ano,Não,Nunca,5.47,8.63,7.08
+0457,Gabriela Queiroz,12,Feminino,7º Ano,Não,Nunca,7.44,9.59,7.55
+0458,Elisa Pereira,18,Feminino,8º Ano,Não,Nunca,7.93,5.87,7.84
+0459,Ana Henrique,10,Feminino,5º Ano,Não,Nunca,5.78,7.83,9.24
+0460,João Lima,6,Masculino,1º Ano,Não,Nunca,6.56,5.24,8.76
+0461,Tiago Vieira,17,Masculino,7º Ano,Não,Nunca,7.79,9.73,8.07
+0462,Ana Fernandes,11,Feminino,6º Ano,Não,Nunca,7.22,7.6,6.9
+0463,Vivian Henrique,17,Feminino,7º Ano,Não,Nunca,7.82,8.04,8.62
+0464,Isabela Fernandes,10,Feminino,5º Ano,Sim,mais de 1 ano,5.62,7.33,9.67
+0465,Fernando Lima,15,Masculino,10º Ano,Não,Nunca,9.26,5.53,6.8
+0466,Laura Dias,11,Feminino,6º Ano,Não,Nunca,7.43,7.1,5.12
+0467,Rafael Ramos,7,Masculino,2º Ano,Não,Nunca,9.42,6.64,5.69
+0468,Carla Zanetti,11,Feminino,6º Ano,Não,Nunca,8.47,8.03,6.92
+0469,Tiago Martins,6,Masculino,1º Ano,Não,Nunca,5.01,8.49,9.27
+0470,Sofia Pereira,10,Feminino,5º Ano,Não,Nunca,5.02,8.15,8.64
+0471,Henrique Gomes,6,Masculino,1º Ano,Não,Nunca,8.69,5.74,9.35
+0472,Fernando Zanetti,14,Masculino,9º Ano,Não,Nunca,5.71,9.33,8.87
+0473,Carla Zanetti,14,Feminino,9º Ano,Não,Nunca,9.23,7.89,9.75
+0474,Elisa Ibarra,15,Feminino,10º Ano,Não,Nunca,7.81,8.75,5.33
+0475,Fernando Dias,18,Masculino,8º Ano,Não,Nunca,5.14,7.36,5.1
+0476,João Lima,17,Masculino,7º Ano,Não,Nunca,7.33,7.05,5.19
+0477,João Martins,15,Masculino,10º Ano,Não,Nunca,9.02,8.94,8.2
+0478,Otávio Costa,14,Masculino,9º Ano,Não,Nunca,6.12,9.8,6.58
+0479,Natália Dias,11,Feminino,6º Ano,Não,Nunca,6.77,7.37,7.44
+0480,Bruno Zanetti,17,Masculino,7º Ano,Não,Nunca,5.2,7.85,9.92
+0481,João Nogueira,7,Masculino,2º Ano,Não,Nunca,5.33,7.3,7.46
+0482,Laura Ibarra,6,Feminino,1º Ano,Não,Nunca,6.68,7.8,7.31
+0483,Carla Fernandes,14,Feminino,9º Ano,Não,Nunca,6.38,7.46,5.54
+0484,Gabriela Pereira,14,Feminino,9º Ano,Sim,mais de 1 ano,9.58,6.32,9.61
+0485,Carla Henrique,7,Feminino,2º Ano,Não,Nunca,7.2,9.59,6.27
+0486,Carla Lima,7,Feminino,2º Ano,Não,Nunca,7.25,5.63,7.05
+0487,Sofia Lima,10,Feminino,5º Ano,Não,Nunca,9.75,5.3,5.21
+0488,Diego Costa,11,Masculino,6º Ano,Não,Nunca,5.96,8.59,8.86
+0489,Isabela Lima,13,Feminino,8º Ano,Não,Nunca,9.98,5.01,7.11
+0490,João Pereira,16,Masculino,6º Ano,Sim,Nunca,8.34,6.88,9.03
+0491,Henrique Henrique,6,Masculino,1º Ano,Não,Nunca,5.25,5.13,8.94
+0492,Carla Lima,12,Feminino,7º Ano,Não,Nunca,5.81,8.15,9.78
+0493,Rafael Dias,12,Masculino,7º Ano,Não,Nunca,7.83,8.47,5.76
+0494,Ana Pereira,12,Feminino,7º Ano,Não,Nunca,9.93,9.19,7.72
+0495,Isabela Nogueira,7,Feminino,2º Ano,Não,Nunca,9.9,9.85,8.27
+0496,Isabela Vieira,17,Feminino,7º Ano,Não,Nunca,5.62,6.08,5.67
+0497,Diego Gomes,7,Masculino,2º Ano,Não,Nunca,8.17,6.52,7.12
+0498,Henrique Lima,15,Masculino,10º Ano,Não,Nunca,8.47,7.55,7.6
+0499,Otávio Júnior,18,Masculino,8º Ano,Não,Nunca,5.19,6.73,8.7
+0500,Fernando Lima,6,Masculino,1º Ano,Sim,mais de 1 ano,9.89,5.12,5.77
+0501,Marcos Zanetti,11,Masculino,6º Ano,Não,Nunca,9.91,7.84,6.67
+0502,Isabela Nogueira,17,Feminino,7º Ano,Não,Nunca,5.78,8.53,8.93
+0503,Tiago Queiroz,7,Masculino,2º Ano,Não,Nunca,9.68,5.59,6.95
+0504,Sofia Vieira,17,Feminino,7º Ano,Sim,Nunca,8.28,5.2,6.24
+0505,Natália Queiroz,15,Feminino,10º Ano,Não,Nunca,8.05,6.86,5.5
+0506,Carla Gomes,10,Feminino,5º Ano,Não,Nunca,6.91,5.6,7.17
+0507,Tiago Ramos,13,Masculino,8º Ano,Não,Nunca,7.01,9.83,5.74
+0508,Vivian Júnior,14,Feminino,9º Ano,Não,Nunca,5.46,9.82,5.14
+0509,Marcos Barbosa,17,Masculino,7º Ano,Não,Nunca,8.01,6.83,8.59
+0510,Otávio Pereira,6,Masculino,1º Ano,Não,Nunca,9.44,8.87,6.14
+0511,Diego Nogueira,7,Masculino,2º Ano,Não,Nunca,6.35,7.07,7.85
+0512,Bruno Barbosa,8,Masculino,3º Ano,Não,Nunca,9.41,6.82,9.48
+0513,Bruno Almeida,14,Masculino,9º Ano,Não,Nunca,9.52,7.69,5.67
+0514,Rafael Lima,10,Masculino,5º Ano,Não,Nunca,7.76,6.7,9.58
+0515,Elisa Silva,13,Feminino,8º Ano,Não,Nunca,9.65,5.23,6.55
+0516,Ana Júnior,16,Feminino,6º Ano,Não,Nunca,8.11,8.92,9.5
+0517,Elisa Queiroz,18,Feminino,8º Ano,Não,Nunca,6.04,7.75,5.5
+0518,Sofia Barbosa,6,Feminino,1º Ano,Não,Nunca,6.93,9.88,8.24
+0519,Ana Martins,15,Feminino,10º Ano,Não,Nunca,6.81,5.71,5.66
+0520,Fernando Lima,18,Masculino,8º Ano,Não,Nunca,8.29,7.5,5.1
+0521,Vivian Ramos,6,Feminino,1º Ano,Sim,mais de 1 ano,5.7,7.63,5.7
+0522,Carla Teixeira,18,Feminino,8º Ano,Não,Nunca,9.28,9.32,7.43
+0523,Elisa Zanetti,11,Feminino,6º Ano,Não,Nunca,7.12,7.38,9.13
+0524,Carla Dias,12,Feminino,7º Ano,Não,Nunca,5.68,7.65,9.45
+0525,Gabriela Almeida,14,Feminino,9º Ano,Sim,mais de 1 ano,7.69,6.15,7.04
+0526,Laura Ramos,8,Feminino,3º Ano,Não,Nunca,8.12,5.08,8.51
+0527,Diego Vieira,16,Masculino,6º Ano,Sim,mais de 1 ano,5.34,8.83,6.76
+0528,Natália Silva,15,Feminino,10º Ano,Não,Nunca,6.48,9.02,7.84
+0529,Zeca Teixeira,6,Masculino,1º Ano,Não,Nunca,5.89,9.03,5.08
+0530,Elisa Nogueira,6,Feminino,1º Ano,Não,Nunca,5.02,8.72,8.06
+0531,Gabriela Gomes,6,Feminino,1º Ano,Não,Nunca,7.0,8.41,6.09
+0532,Isabela Almeida,12,Feminino,7º Ano,Não,Nunca,8.31,6.07,8.19
+0533,Henrique Silva,16,Masculino,6º Ano,Sim,mais de 1 ano,7.05,8.84,7.38
+0534,Marcos Dias,9,Masculino,4º Ano,Não,Nunca,9.22,9.31,7.88
+0535,Zeca Ramos,10,Masculino,5º Ano,Não,Nunca,7.43,9.62,6.89
+0536,Gabriela Henrique,10,Feminino,5º Ano,Sim,mais de 1 ano,6.62,6.79,9.29
+0537,Henrique Queiroz,10,Masculino,5º Ano,Não,Nunca,9.17,9.47,5.8
+0538,Otávio Costa,6,Masculino,1º Ano,Não,Nunca,7.24,8.08,6.64
+0539,Rafael Martins,10,Masculino,5º Ano,Não,Nunca,6.33,8.29,8.77
+0540,Fernando Oliveira,6,Masculino,1º Ano,Não,Nunca,5.66,7.77,8.93
+0541,Natália Pereira,12,Feminino,7º Ano,Não,Nunca,8.1,6.77,5.63
+0542,Isabela Gomes,8,Feminino,3º Ano,Não,Nunca,9.91,6.67,5.67
+0543,Rafael Henrique,11,Masculino,6º Ano,Não,Nunca,6.0,5.99,7.65
+0544,Gabriela Fernandes,7,Feminino,2º Ano,Não,Nunca,6.6,6.97,7.11
+0545,Carla Nogueira,11,Feminino,6º Ano,Não,Nunca,8.42,6.26,8.81
+0546,Otávio Costa,7,Masculino,2º Ano,Sim,Nunca,7.89,7.67,8.25
+0547,Laura Almeida,13,Feminino,8º Ano,Não,Nunca,8.87,6.35,7.0
+0548,Diego Dias,18,Masculino,8º Ano,Não,Nunca,9.06,9.29,6.6
+0549,Zeca Nogueira,12,Masculino,7º Ano,Sim,Nunca,6.82,9.68,6.28
+0550,Ana Fernandes,8,Feminino,3º Ano,Não,Nunca,5.31,9.95,5.81
+0551,Sofia Martins,12,Feminino,7º Ano,Não,Nunca,8.84,9.03,5.04
+0552,Zeca Nogueira,13,Masculino,8º Ano,Não,Nunca,5.4,7.44,9.21
+0553,Sofia Lima,15,Feminino,10º Ano,Não,Nunca,7.15,8.0,7.66
+0554,Zeca Henrique,17,Masculino,7º Ano,Não,Nunca,6.01,7.45,8.06
+0555,Fernando Zanetti,7,Masculino,2º Ano,Não,Nunca,8.37,5.09,8.0
+0556,Isabela Fernandes,8,Feminino,3º Ano,Sim,mais de 1 ano,7.23,6.3,6.74
+0557,Diego Lima,9,Masculino,4º Ano,Não,Nunca,6.35,8.22,7.51
+0558,Rafael Lima,13,Masculino,8º Ano,Não,Nunca,9.99,7.34,9.58
+0559,Rafael Lima,18,Masculino,8º Ano,Não,Nunca,6.69,6.84,7.69
+0560,Henrique Ramos,16,Masculino,6º Ano,Não,Nunca,5.02,7.69,5.79
+0561,Carla Costa,18,Feminino,8º Ano,Não,Nunca,5.91,5.13,8.2
+0562,Carla Zanetti,9,Feminino,4º Ano,Não,Nunca,6.24,9.43,5.59
+0563,Carla Costa,12,Feminino,7º Ano,Não,Nunca,6.52,9.46,7.97
+0564,Diego Vieira,13,Masculino,8º Ano,Não,Nunca,7.57,9.65,9.48
+0565,Sofia Fernandes,14,Feminino,9º Ano,Não,Nunca,9.12,9.86,6.86
+0566,Natália Teixeira,9,Feminino,4º Ano,Sim,Nunca,8.55,6.57,8.97
+0567,Gabriela Pereira,17,Feminino,7º Ano,Não,Nunca,9.61,6.55,5.42
+0568,Natália Lima,14,Feminino,9º Ano,Não,Nunca,9.11,8.01,9.77
+0569,Vivian Gomes,18,Feminino,8º Ano,Não,Nunca,6.16,9.15,6.89
+0570,João Lima,17,Masculino,7º Ano,Não,Nunca,5.63,6.18,5.1
+0571,Carla Queiroz,6,Feminino,1º Ano,Não,Nunca,6.09,8.51,7.35
+0572,João Martins,16,Masculino,6º Ano,Não,Nunca,8.78,8.85,7.66
+0573,Elisa Lima,11,Feminino,6º Ano,Não,Nunca,6.6,9.62,5.03
+0574,Fernando Zanetti,18,Masculino,8º Ano,Sim,mais de 1 ano,5.68,9.76,9.62
+0575,Carla Fernandes,12,Feminino,7º Ano,Sim,mais de 1 ano,5.08,9.39,6.66
+0576,Isabela Costa,7,Feminino,2º Ano,Não,Nunca,5.11,9.5,7.97
+0577,Carla Henrique,17,Feminino,7º Ano,Não,Nunca,6.28,5.71,8.77
+0578,Otávio Gomes,16,Masculino,6º Ano,Não,Nunca,8.05,8.9,8.11
+0579,Marcos Barbosa,13,Masculino,8º Ano,Não,Nunca,5.77,5.51,9.61
+0580,Diego Teixeira,14,Masculino,9º Ano,Não,Nunca,6.35,6.54,9.76
+0581,Natália Ibarra,14,Feminino,9º Ano,Não,Nunca,8.75,8.22,8.15
+0582,Tiago Queiroz,10,Masculino,5º Ano,Não,Nunca,7.38,5.13,7.97
+0583,Isabela Silva,6,Feminino,1º Ano,Não,Nunca,8.83,6.27,5.87
+0584,Diego Gomes,10,Masculino,5º Ano,Sim,Nunca,7.1,8.17,9.42
+0585,Ana Oliveira,6,Feminino,1º Ano,Não,Nunca,7.84,5.47,9.32
+0586,Diego Oliveira,10,Masculino,5º Ano,Não,Nunca,7.33,8.35,8.1
+0587,Rafael Gomes,15,Masculino,10º Ano,Sim,mais de 1 ano,6.94,9.25,7.73
+0588,Sofia Pereira,9,Feminino,4º Ano,Não,Nunca,9.99,6.07,7.1
+0589,Diego Oliveira,18,Masculino,8º Ano,Não,Nunca,5.29,8.1,8.91
+0590,João Zanetti,7,Masculino,2º Ano,Não,Nunca,5.15,9.27,5.58
+0591,Fernando Dias,7,Masculino,2º Ano,Não,Nunca,8.16,7.72,8.91
+0592,Patrícia Costa,17,Feminino,7º Ano,Não,Nunca,6.48,9.54,5.11
+0593,João Gomes,7,Masculino,2º Ano,Não,Nunca,7.89,5.39,9.18
+0594,Marcos Pereira,6,Masculino,1º Ano,Não,Nunca,5.88,6.85,6.39
+0595,Sofia Fernandes,13,Feminino,8º Ano,Sim,Nunca,6.43,6.96,5.96
+0596,Elisa Martins,9,Feminino,4º Ano,Não,Nunca,6.76,6.1,6.83
+0597,Fernando Dias,12,Masculino,7º Ano,Sim,mais de 1 ano,8.98,5.04,7.89
+0598,Fernando Costa,16,Masculino,6º Ano,Não,Nunca,8.19,6.55,6.46
+0599,Isabela Costa,13,Feminino,8º Ano,Não,Nunca,6.35,8.54,6.38
+0600,Natália Costa,11,Feminino,6º Ano,Não,Nunca,7.31,5.7,9.09
+0601,Gabriela Silva,12,Feminino,7º Ano,Sim,mais de 1 ano,9.9,7.55,5.64
+0602,Gabriela Júnior,17,Feminino,7º Ano,Não,Nunca,5.34,6.82,7.55
+0603,Rafael Lima,10,Masculino,5º Ano,Não,Nunca,6.2,6.97,9.96
+0604,Otávio Dias,18,Masculino,8º Ano,Sim,mais de 1 ano,5.15,8.94,7.15
+0605,Elisa Vieira,8,Feminino,3º Ano,Não,Nunca,5.66,5.09,5.72
+0606,Vivian Almeida,8,Feminino,3º Ano,Não,Nunca,6.07,8.32,7.93
+0607,Fernando Martins,8,Masculino,3º Ano,Não,Nunca,9.27,8.49,7.23
+0608,Natália Silva,11,Feminino,6º Ano,Não,Nunca,7.96,5.77,8.89
+0609,Fernando Júnior,16,Masculino,6º Ano,Sim,mais de 1 ano,5.35,5.98,6.24
+0610,Gabriela Silva,10,Feminino,5º Ano,Não,Nunca,8.48,6.19,7.48
+0611,Patrícia Queiroz,10,Feminino,5º Ano,Sim,mais de 1 ano,9.04,5.47,5.19
+0612,Carla Nogueira,7,Feminino,2º Ano,Não,Nunca,7.63,6.36,6.37
+0613,Natália Lima,10,Feminino,5º Ano,Sim,Nunca,6.06,6.58,6.42
+0614,João Ibarra,16,Masculino,6º Ano,Não,Nunca,7.35,6.9,8.23
+0615,Elisa Júnior,11,Feminino,6º Ano,Sim,mais de 1 ano,8.19,8.93,5.72
+0616,Sofia Pereira,13,Feminino,8º Ano,Não,Nunca,6.41,9.75,6.16
+0617,Sofia Júnior,18,Feminino,8º Ano,Não,Nunca,8.78,6.4,5.49
+0618,Henrique Silva,12,Masculino,7º Ano,Não,Nunca,9.29,7.81,7.34
+0619,Patrícia Teixeira,14,Feminino,9º Ano,Não,Nunca,6.77,7.24,6.68
+0620,Isabela Lima,13,Feminino,8º Ano,Não,Nunca,8.96,8.17,8.75
+0621,Tiago Dias,10,Masculino,5º Ano,Não,Nunca,5.06,6.38,6.71
+0622,Fernando Ibarra,18,Masculino,8º Ano,Sim,Nunca,7.22,5.25,6.16
+0623,Patrícia Oliveira,18,Feminino,8º Ano,Não,Nunca,7.39,6.93,8.44
+0624,João Ramos,17,Masculino,7º Ano,Não,Nunca,7.41,6.26,8.38
+0625,Isabela Teixeira,17,Feminino,7º Ano,Sim,Nunca,6.88,9.88,9.09
+0626,João Lima,6,Masculino,1º Ano,Não,Nunca,9.81,9.02,7.65
+0627,Tiago Júnior,7,Masculino,2º Ano,Sim,mais de 1 ano,8.6,8.59,9.91
+0628,Tiago Júnior,15,Masculino,10º Ano,Não,Nunca,6.91,5.6,6.58
+0629,Elisa Pereira,15,Feminino,10º Ano,Não,Nunca,6.62,9.24,6.5
+0630,Laura Zanetti,18,Feminino,8º Ano,Não,Nunca,6.37,7.15,5.59
+0631,Gabriela Vieira,7,Feminino,2º Ano,Não,Nunca,6.98,8.44,6.17
+0632,Marcos Costa,7,Masculino,2º Ano,Não,Nunca,5.68,6.57,8.65
+0633,Carla Zanetti,18,Feminino,8º Ano,Sim,mais de 1 ano,9.6,9.26,6.35
+0634,Marcos Barbosa,11,Masculino,6º Ano,Não,Nunca,8.35,7.37,7.63
+0635,Diego Gomes,13,Masculino,8º Ano,Não,Nunca,7.17,8.13,9.38
+0636,Laura Fernandes,11,Feminino,6º Ano,Não,Nunca,5.08,5.59,9.97
+0637,Fernando Queiroz,16,Masculino,6º Ano,Sim,mais de 1 ano,8.45,5.59,6.75
+0638,Carla Fernandes,14,Feminino,9º Ano,Não,Nunca,7.68,9.05,6.69
+0639,Isabela Pereira,13,Feminino,8º Ano,Não,Nunca,6.47,8.8,9.05
+0640,Carla Costa,6,Feminino,1º Ano,Sim,mais de 1 ano,6.29,7.89,6.49
+0641,Natália Pereira,6,Feminino,1º Ano,Não,Nunca,5.6,6.15,5.45
+0642,Ana Teixeira,12,Feminino,7º Ano,Não,Nunca,6.28,9.12,5.89
+0643,Rafael Fernandes,7,Masculino,2º Ano,Não,Nunca,9.42,5.2,8.22
+0644,Henrique Martins,17,Masculino,7º Ano,Não,Nunca,8.93,7.84,6.95
+0645,Henrique Oliveira,8,Masculino,3º Ano,Não,Nunca,6.9,5.04,9.15
+0646,João Nogueira,13,Masculino,8º Ano,Sim,mais de 1 ano,5.3,8.44,8.33
+0647,Fernando Dias,15,Masculino,10º Ano,Sim,Nunca,5.58,5.86,8.84
+0648,Bruno Júnior,14,Masculino,9º Ano,Não,Nunca,7.63,9.72,5.71
+0649,Elisa Pereira,14,Feminino,9º Ano,Não,Nunca,9.87,9.89,8.91
+0650,Elisa Vieira,6,Feminino,1º Ano,Não,Nunca,6.89,7.76,7.95
+0651,Tiago Pereira,18,Masculino,8º Ano,Não,Nunca,9.87,9.89,8.98
+0652,Rafael Vieira,15,Masculino,10º Ano,Não,Nunca,7.92,5.46,6.34
+0653,Tiago Vieira,13,Masculino,8º Ano,Sim,mais de 1 ano,9.58,7.46,6.02
+0654,Isabela Oliveira,7,Feminino,2º Ano,Sim,mais de 1 ano,5.61,5.05,8.7
+0655,Diego Costa,10,Masculino,5º Ano,Não,Nunca,9.56,8.35,6.37
+0656,Carla Almeida,18,Feminino,8º Ano,Não,Nunca,7.26,7.63,5.85
+0657,Ana Gomes,8,Feminino,3º Ano,Não,Nunca,7.78,7.95,6.43
+0658,Bruno Queiroz,10,Masculino,5º Ano,Sim,Nunca,5.27,5.17,7.79
+0659,Ana Pereira,18,Feminino,8º Ano,Não,Nunca,9.93,6.05,8.17
+0660,Gabriela Júnior,10,Feminino,5º Ano,Não,Nunca,6.02,5.67,5.63
+0661,Tiago Vieira,10,Masculino,5º Ano,Não,Nunca,6.75,8.02,5.9
+0662,Elisa Vieira,16,Feminino,6º Ano,Não,Nunca,5.44,9.44,6.92
+0663,Vivian Nogueira,10,Feminino,5º Ano,Não,Nunca,7.65,9.44,9.08
+0664,Zeca Oliveira,17,Masculino,7º Ano,Não,Nunca,7.4,6.37,8.13
+0665,João Oliveira,14,Masculino,9º Ano,Sim,mais de 1 ano,6.79,7.01,7.49
+0666,Ana Barbosa,17,Feminino,7º Ano,Não,Nunca,5.97,9.11,9.62
+0667,Ana Lima,18,Feminino,8º Ano,Não,Nunca,6.52,5.12,7.6
+0668,Zeca Ibarra,16,Masculino,6º Ano,Não,Nunca,7.48,6.53,5.57
+0669,Carla Vieira,16,Feminino,6º Ano,Não,Nunca,6.54,6.56,8.74
+0670,Zeca Teixeira,13,Masculino,8º Ano,Não,Nunca,8.3,7.08,6.5
+0671,Natália Zanetti,8,Feminino,3º Ano,Sim,mais de 1 ano,6.37,9.93,8.34
+0672,João Teixeira,15,Masculino,10º Ano,Não,Nunca,6.38,5.22,7.83
+0673,Tiago Júnior,13,Masculino,8º Ano,Não,Nunca,6.32,9.34,7.87
+0674,Marcos Costa,9,Masculino,4º Ano,Não,Nunca,6.52,7.48,6.82
+0675,Marcos Fernandes,6,Masculino,1º Ano,Sim,Nunca,9.12,7.38,6.89
+0676,Natália Teixeira,11,Feminino,6º Ano,Não,Nunca,9.92,6.34,6.18
+0677,Isabela Lima,12,Feminino,7º Ano,Não,Nunca,9.37,7.19,7.2
+0678,Marcos Barbosa,14,Masculino,9º Ano,Não,Nunca,8.52,6.74,6.43
+0679,Rafael Almeida,9,Masculino,4º Ano,Não,Nunca,7.0,6.06,5.76
+0680,Vivian Pereira,14,Feminino,9º Ano,Não,Nunca,5.58,6.4,7.95
+0681,Otávio Fernandes,13,Masculino,8º Ano,Não,Nunca,9.64,6.48,9.13
+0682,Isabela Gomes,12,Feminino,7º Ano,Não,Nunca,6.57,7.46,6.8
+0683,João Ramos,7,Masculino,2º Ano,Não,Nunca,6.23,5.95,5.78
+0684,Vivian Oliveira,6,Feminino,1º Ano,Não,Nunca,6.87,6.18,5.6
+0685,Laura Vieira,13,Feminino,8º Ano,Não,Nunca,6.86,5.42,6.83
+0686,Ana Pereira,11,Feminino,6º Ano,Não,Nunca,5.04,7.58,5.76
+0687,Rafael Vieira,16,Masculino,6º Ano,Não,Nunca,8.29,8.76,6.78
+0688,Tiago Silva,11,Masculino,6º Ano,Não,Nunca,5.37,9.54,5.48
+0689,Diego Barbosa,12,Masculino,7º Ano,Não,Nunca,5.62,8.58,9.5
+0690,Isabela Pereira,17,Feminino,7º Ano,Sim,mais de 1 ano,7.38,6.51,5.79
+0691,Natália Oliveira,9,Feminino,4º Ano,Não,Nunca,6.0,6.77,9.26
+0692,Otávio Nogueira,6,Masculino,1º Ano,Não,Nunca,6.06,7.23,7.24
+0693,Sofia Dias,9,Feminino,4º Ano,Não,Nunca,6.25,6.0,9.77
+0694,Natália Zanetti,18,Feminino,8º Ano,Não,Nunca,8.77,9.07,7.33
+0695,Diego Dias,9,Masculino,4º Ano,Sim,Nunca,6.66,8.76,8.31
+0696,Vivian Nogueira,16,Feminino,6º Ano,Não,Nunca,5.23,7.89,5.92
+0697,Bruno Queiroz,16,Masculino,6º Ano,Não,Nunca,6.98,5.81,5.85
+0698,Tiago Silva,14,Masculino,9º Ano,Não,Nunca,8.86,9.2,8.91
+0699,Tiago Dias,7,Masculino,2º Ano,Sim,mais de 1 ano,6.67,9.76,5.62
+0700,Ana Costa,15,Feminino,10º Ano,Não,Nunca,5.78,8.85,8.03
+0701,João Barbosa,14,Masculino,9º Ano,Não,Nunca,9.4,5.55,5.03
+0702,Fernando Lima,6,Masculino,1º Ano,Não,Nunca,7.23,7.73,8.5
+0703,Henrique Ibarra,9,Masculino,4º Ano,Não,Nunca,7.33,8.63,6.62
+0704,Zeca Queiroz,7,Masculino,2º Ano,Não,Nunca,7.29,8.61,7.02
+0705,Carla Júnior,16,Feminino,6º Ano,Não,Nunca,6.21,9.22,6.87
+0706,Elisa Oliveira,15,Feminino,10º Ano,Não,Nunca,5.97,8.12,9.49
+0707,Sofia Queiroz,8,Feminino,3º Ano,Não,Nunca,9.29,7.26,9.01
+0708,Isabela Ramos,10,Feminino,5º Ano,Não,Nunca,9.42,5.38,8.51
+0709,Henrique Ibarra,11,Masculino,6º Ano,Sim,Nunca,8.3,6.83,7.65
+0710,Bruno Martins,8,Masculino,3º Ano,Não,Nunca,5.62,5.81,8.48
+0711,Sofia Martins,13,Feminino,8º Ano,Não,Nunca,6.48,8.18,9.79
+0712,Otávio Júnior,7,Masculino,2º Ano,Não,Nunca,8.64,7.81,8.22
+0713,Fernando Fernandes,7,Masculino,2º Ano,Não,Nunca,8.72,6.94,6.28
+0714,Elisa Almeida,16,Feminino,6º Ano,Não,Nunca,9.49,7.62,5.47
+0715,João Martins,15,Masculino,10º Ano,Não,Nunca,6.79,6.97,6.33
+0716,Bruno Queiroz,13,Masculino,8º Ano,Não,Nunca,8.04,6.0,9.77
+0717,Marcos Fernandes,10,Masculino,5º Ano,Não,Nunca,7.68,5.27,5.22
+0718,Isabela Costa,7,Feminino,2º Ano,Sim,Nunca,7.03,8.67,7.4
+0719,João Ramos,17,Masculino,7º Ano,Não,Nunca,8.54,6.77,9.23
+0720,Natália Dias,7,Feminino,2º Ano,Não,Nunca,9.84,5.53,7.09
+0721,Tiago Oliveira,11,Masculino,6º Ano,Não,Nunca,6.5,6.15,8.24
+0722,Vivian Ibarra,13,Feminino,8º Ano,Não,Nunca,5.34,5.1,8.83
+0723,Marcos Lima,13,Masculino,8º Ano,Não,Nunca,6.02,6.46,5.33
+0724,Ana Nogueira,14,Feminino,9º Ano,Não,Nunca,8.85,9.04,9.46
+0725,Fernando Silva,15,Masculino,10º Ano,Sim,Nunca,8.19,7.51,5.2
+0726,Bruno Ibarra,12,Masculino,7º Ano,Não,Nunca,9.68,9.91,9.61
+0727,Carla Costa,6,Feminino,1º Ano,Não,Nunca,7.37,8.18,7.43
+0728,Otávio Henrique,9,Masculino,4º Ano,Não,Nunca,6.14,8.26,6.16
+0729,Otávio Henrique,10,Masculino,5º Ano,Não,Nunca,8.03,8.9,9.72
+0730,Elisa Costa,11,Feminino,6º Ano,Não,Nunca,5.12,6.37,6.35
+0731,Sofia Lima,6,Feminino,1º Ano,Não,Nunca,9.31,8.63,5.5
+0732,Bruno Pereira,9,Masculino,4º Ano,Sim,mais de 1 ano,9.79,7.46,8.27
+0733,Isabela Fernandes,11,Feminino,6º Ano,Não,Nunca,9.59,9.85,7.69
+0734,Natália Fernandes,14,Feminino,9º Ano,Não,Nunca,7.03,6.32,6.37
+0735,Otávio Henrique,11,Masculino,6º Ano,Sim,Nunca,5.79,7.24,7.43
+0736,Rafael Martins,15,Masculino,10º Ano,Não,Nunca,5.56,5.35,5.19
+0737,Tiago Gomes,8,Masculino,3º Ano,Não,Nunca,8.82,7.57,8.25
+0738,Patrícia Teixeira,8,Feminino,3º Ano,Sim,mais de 1 ano,5.05,9.01,9.21
+0739,Isabela Lima,8,Feminino,3º Ano,Não,Nunca,8.41,9.59,6.74
+0740,João Silva,6,Masculino,1º Ano,Sim,mais de 1 ano,6.58,9.45,8.58
+0741,Elisa Henrique,18,Feminino,8º Ano,Não,Nunca,7.07,9.36,6.64
+0742,Bruno Henrique,13,Masculino,8º Ano,Sim,Nunca,8.65,7.57,6.87
+0743,Vivian Henrique,10,Feminino,5º Ano,Não,Nunca,8.61,6.52,8.58
+0744,João Martins,11,Masculino,6º Ano,Não,Nunca,7.54,6.9,9.19
+0745,Patrícia Júnior,12,Feminino,7º Ano,Sim,mais de 1 ano,7.03,9.77,7.2
+0746,Diego Zanetti,17,Masculino,7º Ano,Não,Nunca,7.61,6.38,8.08
+0747,João Queiroz,15,Masculino,10º Ano,Não,Nunca,8.06,5.55,9.52
+0748,João Vieira,8,Masculino,3º Ano,Não,Nunca,7.49,7.28,6.38
+0749,Diego Zanetti,10,Masculino,5º Ano,Não,Nunca,6.57,5.72,5.54
+0750,Ana Fernandes,16,Feminino,6º Ano,Sim,Nunca,7.63,9.0,9.22
+0751,Gabriela Dias,8,Feminino,3º Ano,Não,Nunca,6.63,5.01,5.49
+0752,Bruno Pereira,8,Masculino,3º Ano,Não,Nunca,8.92,8.06,7.13
+0753,Sofia Júnior,9,Feminino,4º Ano,Não,Nunca,8.48,5.64,6.25
+0754,Isabela Ibarra,14,Feminino,9º Ano,Não,Nunca,5.37,7.62,5.81
+0755,Otávio Ramos,18,Masculino,8º Ano,Não,Nunca,5.76,7.97,6.74
+0756,Bruno Henrique,7,Masculino,2º Ano,Não,Nunca,5.12,7.12,9.35
+0757,João Teixeira,16,Masculino,6º Ano,Não,Nunca,5.78,9.23,5.17
+0758,Fernando Ramos,8,Masculino,3º Ano,Não,Nunca,5.09,5.19,5.36
+0759,Tiago Silva,13,Masculino,8º Ano,Não,Nunca,5.3,6.01,8.47
+0760,Vivian Queiroz,17,Feminino,7º Ano,Não,Nunca,6.19,5.62,5.78
+0761,Zeca Queiroz,15,Masculino,10º Ano,Não,Nunca,9.77,9.74,7.57
+0762,Tiago Vieira,9,Masculino,4º Ano,Não,Nunca,5.08,9.11,6.63
+0763,Fernando Ibarra,18,Masculino,8º Ano,Não,Nunca,9.37,5.86,9.62
+0764,Natália Júnior,9,Feminino,4º Ano,Não,Nunca,5.02,9.51,6.81
+0765,Henrique Ibarra,16,Masculino,6º Ano,Sim,mais de 1 ano,8.43,7.08,5.02
+0766,Diego Fernandes,7,Masculino,2º Ano,Não,Nunca,8.92,5.37,6.69
+0767,Fernando Oliveira,6,Masculino,1º Ano,Não,Nunca,8.87,5.36,9.95
+0768,Carla Barbosa,9,Feminino,4º Ano,Não,Nunca,9.63,7.47,7.48
+0769,Elisa Gomes,6,Feminino,1º Ano,Não,Nunca,7.08,8.63,9.39
+0770,Vivian Zanetti,17,Feminino,7º Ano,Não,Nunca,8.02,5.34,9.11
+0771,Elisa Fernandes,17,Feminino,7º Ano,Não,Nunca,7.63,7.0,9.12
+0772,Bruno Queiroz,15,Masculino,10º Ano,Não,Nunca,7.55,9.05,8.53
+0773,Marcos Costa,11,Masculino,6º Ano,Não,Nunca,5.75,8.74,6.99
+0774,Vivian Ramos,8,Feminino,3º Ano,Não,Nunca,5.24,9.6,5.03
+0775,Laura Costa,15,Feminino,10º Ano,Não,Nunca,6.65,9.49,7.71
+0776,Bruno Nogueira,16,Masculino,6º Ano,Não,Nunca,9.09,9.67,7.16
+0777,Isabela Teixeira,15,Feminino,10º Ano,Não,Nunca,7.79,9.2,8.63
+0778,Patrícia Costa,12,Feminino,7º Ano,Não,Nunca,6.88,8.29,5.95
+0779,Zeca Almeida,18,Masculino,8º Ano,Não,Nunca,5.68,8.71,7.36
+0780,Elisa Zanetti,7,Feminino,2º Ano,Sim,mais de 1 ano,6.6,9.81,8.27
+0781,Elisa Martins,8,Feminino,3º Ano,Não,Nunca,5.07,8.34,9.97
+0782,Tiago Queiroz,11,Masculino,6º Ano,Não,Nunca,6.39,8.79,5.71
+0783,Gabriela Silva,9,Feminino,4º Ano,Não,Nunca,6.11,5.71,5.72
+0784,Sofia Henrique,12,Feminino,7º Ano,Não,Nunca,8.9,7.19,9.14
+0785,Patrícia Fernandes,13,Feminino,8º Ano,Não,Nunca,9.05,5.04,8.18
+0786,Sofia Queiroz,14,Feminino,9º Ano,Sim,Nunca,7.02,8.0,8.73
+0787,Tiago Nogueira,13,Masculino,8º Ano,Não,Nunca,8.56,7.94,8.92
+0788,Henrique Henrique,14,Masculino,9º Ano,Não,Nunca,9.12,6.41,5.52
+0789,Marcos Ibarra,9,Masculino,4º Ano,Não,Nunca,6.14,7.36,6.63
+0790,Fernando Ibarra,7,Masculino,2º Ano,Sim,mais de 1 ano,5.28,5.75,7.42
+0791,Natália Martins,7,Feminino,2º Ano,Não,Nunca,5.96,5.7,9.25
+0792,Isabela Barbosa,11,Feminino,6º Ano,Não,Nunca,8.51,6.4,7.08
+0793,Isabela Teixeira,9,Feminino,4º Ano,Sim,Nunca,8.71,9.66,7.75
+0794,Marcos Queiroz,16,Masculino,6º Ano,Não,Nunca,5.17,5.6,9.07
+0795,Natália Costa,13,Feminino,8º Ano,Sim,Nunca,6.87,5.89,9.33
+0796,Zeca Oliveira,11,Masculino,6º Ano,Não,Nunca,9.25,9.61,8.48
+0797,Laura Martins,10,Feminino,5º Ano,Não,Nunca,9.91,9.59,5.2
+0798,Henrique Teixeira,13,Masculino,8º Ano,Não,Nunca,8.09,5.52,8.87
+0799,Henrique Zanetti,8,Masculino,3º Ano,Não,Nunca,8.76,8.0,8.59
+0800,Carla Zanetti,7,Feminino,2º Ano,Não,Nunca,7.71,7.28,8.93
+0801,Laura Lima,8,Feminino,3º Ano,Não,Nunca,6.49,8.79,7.5
+0802,João Silva,14,Masculino,9º Ano,Sim,Nunca,8.43,7.13,5.12
+0803,Patrícia Júnior,16,Feminino,6º Ano,Não,Nunca,5.45,9.93,8.82
+0804,Patrícia Gomes,15,Feminino,10º Ano,Não,Nunca,9.45,5.27,7.92
+0805,Carla Vieira,10,Feminino,5º Ano,Sim,Nunca,8.21,7.37,8.21
+0806,Gabriela Henrique,16,Feminino,6º Ano,Não,Nunca,5.66,5.11,9.19
+0807,João Almeida,17,Masculino,7º Ano,Não,Nunca,7.27,5.15,7.67
+0808,João Nogueira,9,Masculino,4º Ano,Sim,Nunca,9.9,5.14,8.68
+0809,Sofia Barbosa,14,Feminino,9º Ano,Não,Nunca,7.15,9.86,9.6
+0810,Diego Barbosa,10,Masculino,5º Ano,Não,Nunca,8.12,6.69,8.06
+0811,Patrícia Silva,10,Feminino,5º Ano,Não,Nunca,6.21,7.84,7.9
+0812,Vivian Barbosa,18,Feminino,8º Ano,Não,Nunca,9.44,9.16,8.13
+0813,Otávio Costa,15,Masculino,10º Ano,Não,Nunca,8.44,7.62,8.29
+0814,Elisa Gomes,10,Feminino,5º Ano,Não,Nunca,9.26,8.55,9.34
+0815,Tiago Barbosa,12,Masculino,7º Ano,Sim,mais de 1 ano,7.95,7.53,5.32
+0816,Diego Queiroz,18,Masculino,8º Ano,Não,Nunca,5.7,7.03,7.77
+0817,Rafael Henrique,16,Masculino,6º Ano,Não,Nunca,5.09,8.29,5.23
+0818,Laura Silva,8,Feminino,3º Ano,Sim,mais de 1 ano,7.94,8.45,8.17
+0819,Carla Martins,6,Feminino,1º Ano,Não,Nunca,7.98,8.26,5.85
+0820,Gabriela Dias,6,Feminino,1º Ano,Não,Nunca,8.74,5.78,8.59
+0821,Laura Barbosa,18,Feminino,8º Ano,Não,Nunca,7.9,5.77,9.82
+0822,Diego Vieira,6,Masculino,1º Ano,Não,Nunca,9.35,5.87,9.26
+0823,Gabriela Costa,6,Feminino,1º Ano,Não,Nunca,9.13,7.86,5.92
+0824,Zeca Queiroz,12,Masculino,7º Ano,Não,Nunca,8.53,7.46,5.52
+0825,Patrícia Zanetti,10,Feminino,5º Ano,Não,Nunca,9.54,5.78,6.28
+0826,Sofia Lima,17,Feminino,7º Ano,Não,Nunca,6.02,8.46,6.71
+0827,Sofia Silva,7,Feminino,2º Ano,Não,Nunca,7.08,5.28,7.82
+0828,Ana Silva,15,Feminino,10º Ano,Não,Nunca,7.29,5.03,8.03
+0829,Carla Costa,12,Feminino,7º Ano,Não,Nunca,5.83,9.34,7.03
+0830,Ana Oliveira,6,Feminino,1º Ano,Sim,mais de 1 ano,5.38,7.84,7.53
+0831,Zeca Vieira,16,Masculino,6º Ano,Não,Nunca,5.9,8.03,8.24
+0832,Otávio Silva,8,Masculino,3º Ano,Sim,mais de 1 ano,9.21,8.72,7.22
+0833,Vivian Ibarra,17,Feminino,7º Ano,Não,Nunca,9.4,5.86,7.54
+0834,Diego Pereira,18,Masculino,8º Ano,Não,Nunca,6.47,9.29,8.33
+0835,Sofia Vieira,18,Feminino,8º Ano,Não,Nunca,6.93,8.78,7.94
+0836,Marcos Ramos,11,Masculino,6º Ano,Sim,Nunca,7.66,9.74,8.36
+0837,Ana Barbosa,8,Feminino,3º Ano,Não,Nunca,8.01,6.08,9.05
+0838,Elisa Ibarra,11,Feminino,6º Ano,Não,Nunca,8.14,9.58,8.38
+0839,Rafael Ramos,15,Masculino,10º Ano,Não,Nunca,9.65,8.19,6.83
+0840,Diego Pereira,9,Masculino,4º Ano,Não,Nunca,7.18,7.14,8.38
+0841,Ana Martins,18,Feminino,8º Ano,Não,Nunca,5.15,5.84,6.53
+0842,Isabela Gomes,9,Feminino,4º Ano,Não,Nunca,6.15,9.16,9.31
+0843,Isabela Dias,7,Feminino,2º Ano,Não,Nunca,8.93,8.81,6.96
+0844,Zeca Oliveira,16,Masculino,6º Ano,Não,Nunca,5.14,8.06,9.05
+0845,Patrícia Júnior,16,Feminino,6º Ano,Não,Nunca,6.37,8.18,6.79
+0846,Ana Ramos,14,Feminino,9º Ano,Sim,mais de 1 ano,8.23,6.18,7.01
+0847,Elisa Pereira,6,Feminino,1º Ano,Não,Nunca,7.31,7.51,6.33
+0848,Zeca Nogueira,15,Masculino,10º Ano,Sim,mais de 1 ano,6.88,8.11,8.12
+0849,Vivian Costa,18,Feminino,8º Ano,Não,Nunca,8.17,6.18,6.62
+0850,Henrique Pereira,15,Masculino,10º Ano,Não,Nunca,6.22,5.4,8.28
+0851,Tiago Almeida,6,Masculino,1º Ano,Não,Nunca,6.75,5.26,9.34
+0852,Sofia Silva,11,Feminino,6º Ano,Não,Nunca,5.67,7.01,9.01
+0853,Tiago Henrique,8,Masculino,3º Ano,Não,Nunca,8.84,8.77,6.32
+0854,João Ramos,14,Masculino,9º Ano,Não,Nunca,9.61,5.96,8.22
+0855,Zeca Oliveira,17,Masculino,7º Ano,Não,Nunca,7.83,9.3,5.1
+0856,Isabela Queiroz,17,Feminino,7º Ano,Não,Nunca,5.22,8.3,6.45
+0857,Sofia Queiroz,15,Feminino,10º Ano,Não,Nunca,6.72,9.16,8.73
+0858,Gabriela Ibarra,11,Feminino,6º Ano,Sim,mais de 1 ano,7.26,7.19,6.72
+0859,Henrique Lima,18,Masculino,8º Ano,Não,Nunca,5.55,6.64,7.05
+0860,Isabela Zanetti,14,Feminino,9º Ano,Não,Nunca,9.16,9.97,5.26
+0861,Isabela Gomes,8,Feminino,3º Ano,Não,Nunca,8.38,5.11,5.05
+0862,Rafael Dias,17,Masculino,7º Ano,Sim,mais de 1 ano,9.76,7.89,6.62
+0863,Laura Vieira,13,Feminino,8º Ano,Sim,Nunca,5.08,9.31,7.05
+0864,Isabela Dias,15,Feminino,10º Ano,Não,Nunca,8.68,8.84,9.39
+0865,Bruno Oliveira,16,Masculino,6º Ano,Não,Nunca,7.95,7.91,6.66
+0866,Patrícia Pereira,7,Feminino,2º Ano,Não,Nunca,7.81,8.53,6.99
+0867,Fernando Pereira,6,Masculino,1º Ano,Não,Nunca,7.73,8.35,8.36
+0868,Bruno Queiroz,10,Masculino,5º Ano,Não,Nunca,5.81,9.78,5.34
+0869,Sofia Costa,8,Feminino,3º Ano,Não,Nunca,6.84,6.59,7.27
+0870,Rafael Lima,17,Masculino,7º Ano,Não,Nunca,6.99,8.26,5.28
+0871,Zeca Gomes,15,Masculino,10º Ano,Não,Nunca,6.92,8.21,7.27
+0872,Otávio Pereira,7,Masculino,2º Ano,Não,Nunca,7.14,5.57,8.31
+0873,João Oliveira,18,Masculino,8º Ano,Não,Nunca,6.86,8.25,6.85
+0874,Elisa Nogueira,18,Feminino,8º Ano,Não,Nunca,7.08,5.69,8.46
+0875,Natália Júnior,15,Feminino,10º Ano,Não,Nunca,9.52,5.63,8.21
+0876,Vivian Dias,14,Feminino,9º Ano,Não,Nunca,6.18,9.49,7.58
+0877,Otávio Gomes,6,Masculino,1º Ano,Não,Nunca,7.47,5.55,9.46
+0878,Laura Ramos,7,Feminino,2º Ano,Não,Nunca,5.07,9.44,8.0
+0879,João Pereira,16,Masculino,6º Ano,Sim,mais de 1 ano,9.51,7.84,8.94
+0880,João Almeida,14,Masculino,9º Ano,Não,Nunca,6.23,8.14,7.62
+0881,Fernando Vieira,6,Masculino,1º Ano,Não,Nunca,8.41,6.07,9.24
+0882,Laura Barbosa,10,Feminino,5º Ano,Não,Nunca,6.59,8.99,8.02
+0883,Henrique Júnior,17,Masculino,7º Ano,Não,Nunca,7.36,7.55,7.17
+0884,Sofia Almeida,14,Feminino,9º Ano,Não,Nunca,7.03,8.48,9.03
+0885,Bruno Júnior,16,Masculino,6º Ano,Não,Nunca,8.29,7.44,5.65
+0886,Isabela Fernandes,18,Feminino,8º Ano,Não,Nunca,6.73,6.77,5.78
+0887,Isabela Ramos,7,Feminino,2º Ano,Não,Nunca,7.79,8.82,6.33
+0888,Zeca Vieira,7,Masculino,2º Ano,Não,Nunca,8.14,8.44,8.35
+0889,Marcos Júnior,9,Masculino,4º Ano,Não,Nunca,6.67,9.88,7.55
+0890,Natália Silva,13,Feminino,8º Ano,Não,Nunca,8.35,9.98,5.29
+0891,Zeca Fernandes,11,Masculino,6º Ano,Não,Nunca,7.03,7.75,6.87
+0892,Tiago Barbosa,14,Masculino,9º Ano,Não,Nunca,6.38,7.63,8.5
+0893,Diego Oliveira,12,Masculino,7º Ano,Não,Nunca,6.01,7.03,7.67
+0894,Vivian Queiroz,6,Feminino,1º Ano,Não,Nunca,7.94,8.45,6.67
+0895,Bruno Júnior,18,Masculino,8º Ano,Não,Nunca,7.73,5.27,6.62
+0896,Laura Costa,8,Feminino,3º Ano,Não,Nunca,8.77,5.56,7.0
+0897,Patrícia Vieira,12,Feminino,7º Ano,Não,Nunca,9.77,8.73,9.41
+0898,Natália Dias,9,Feminino,4º Ano,Não,Nunca,5.61,5.93,9.98
+0899,Patrícia Martins,12,Feminino,7º Ano,Não,Nunca,5.14,7.23,9.82
+0900,Tiago Lima,10,Masculino,5º Ano,Não,Nunca,6.28,5.11,9.57
+0901,Fernando Costa,11,Masculino,6º Ano,Não,Nunca,9.62,9.05,6.45
+0902,Zeca Nogueira,11,Masculino,6º Ano,Não,Nunca,7.63,7.85,8.44
+0903,Rafael Henrique,10,Masculino,5º Ano,Não,Nunca,7.65,9.78,6.87
+0904,Isabela Henrique,10,Feminino,5º Ano,Sim,Nunca,8.0,6.35,9.81
+0905,Isabela Júnior,9,Feminino,4º Ano,Não,Nunca,5.53,5.24,8.34
+0906,Rafael Costa,7,Masculino,2º Ano,Não,Nunca,7.13,9.42,9.5
+0907,Isabela Gomes,18,Feminino,8º Ano,Sim,Nunca,5.56,8.82,6.21
+0908,Carla Gomes,14,Feminino,9º Ano,Não,Nunca,7.49,8.36,7.67
+0909,Diego Teixeira,17,Masculino,7º Ano,Não,Nunca,6.04,7.45,8.64
+0910,Carla Dias,8,Feminino,3º Ano,Não,Nunca,6.29,9.03,9.78
+0911,Natália Lima,17,Feminino,7º Ano,Não,Nunca,6.05,7.7,6.74
+0912,Elisa Lima,12,Feminino,7º Ano,Sim,mais de 1 ano,5.99,6.56,7.27
+0913,Tiago Martins,7,Masculino,2º Ano,Não,Nunca,6.13,9.87,7.21
+0914,Marcos Henrique,17,Masculino,7º Ano,Sim,Nunca,5.5,9.19,7.42
+0915,Natália Dias,13,Feminino,8º Ano,Não,Nunca,5.95,5.91,9.23
+0916,Gabriela Ramos,16,Feminino,6º Ano,Não,Nunca,7.74,8.91,6.99
+0917,Sofia Gomes,6,Feminino,1º Ano,Não,Nunca,7.55,5.18,8.49
+0918,Patrícia Dias,18,Feminino,8º Ano,Não,Nunca,7.21,8.68,7.78
+0919,Natália Martins,18,Feminino,8º Ano,Não,Nunca,8.21,5.83,5.33
+0920,Carla Barbosa,7,Feminino,2º Ano,Sim,mais de 1 ano,8.71,6.39,8.66
+0921,Natália Pereira,8,Feminino,3º Ano,Não,Nunca,9.69,5.42,9.74
+0922,Natália Henrique,9,Feminino,4º Ano,Sim,mais de 1 ano,6.72,8.24,5.57
+0923,Vivian Fernandes,9,Feminino,4º Ano,Não,Nunca,7.78,9.74,8.17
+0924,João Queiroz,13,Masculino,8º Ano,Não,Nunca,5.59,7.16,5.68
+0925,Elisa Pereira,17,Feminino,7º Ano,Não,Nunca,9.93,5.07,7.96
+0926,Bruno Martins,10,Masculino,5º Ano,Não,Nunca,6.11,6.06,7.06
+0927,João Pereira,18,Masculino,8º Ano,Sim,mais de 1 ano,7.03,5.24,5.07
+0928,Carla Júnior,16,Feminino,6º Ano,Sim,mais de 1 ano,7.94,6.62,5.38
+0929,Sofia Henrique,18,Feminino,8º Ano,Não,Nunca,5.73,5.69,6.31
+0930,Laura Ibarra,16,Feminino,6º Ano,Não,Nunca,9.41,6.98,9.48
+0931,Henrique Nogueira,17,Masculino,7º Ano,Não,Nunca,8.45,7.34,5.0
+0932,Fernando Queiroz,9,Masculino,4º Ano,Não,Nunca,5.11,7.23,9.8
+0933,Marcos Gomes,10,Masculino,5º Ano,Não,Nunca,6.56,9.64,7.81
+0934,Zeca Queiroz,10,Masculino,5º Ano,Não,Nunca,8.58,5.3,9.6
+0935,Ana Fernandes,7,Feminino,2º Ano,Não,Nunca,8.19,9.01,9.0
+0936,Rafael Lima,9,Masculino,4º Ano,Não,Nunca,9.27,9.66,8.88
+0937,Zeca Ramos,13,Masculino,8º Ano,Não,Nunca,7.59,9.81,7.63
+0938,Bruno Ibarra,14,Masculino,9º Ano,Sim,Nunca,9.78,6.54,7.25
+0939,Rafael Gomes,10,Masculino,5º Ano,Não,Nunca,8.74,7.31,7.11
+0940,Otávio Ramos,12,Masculino,7º Ano,Não,Nunca,7.77,7.76,9.75
+0941,Marcos Queiroz,15,Masculino,10º Ano,Não,Nunca,6.74,8.0,5.31
+0942,Isabela Ramos,18,Feminino,8º Ano,Sim,Nunca,9.85,7.3,7.47
+0943,Gabriela Zanetti,6,Feminino,1º Ano,Não,Nunca,7.64,7.37,6.74
+0944,Rafael Martins,15,Masculino,10º Ano,Não,Nunca,8.15,5.24,6.81
+0945,Rafael Zanetti,17,Masculino,7º Ano,Sim,Nunca,5.88,5.6,5.95
+0946,Isabela Pereira,13,Feminino,8º Ano,Não,Nunca,6.5,9.78,6.1
+0947,Otávio Dias,17,Masculino,7º Ano,Não,Nunca,7.1,5.94,7.67
+0948,Zeca Ibarra,18,Masculino,8º Ano,Não,Nunca,8.76,5.93,9.68
+0949,Diego Fernandes,17,Masculino,7º Ano,Não,Nunca,7.39,5.03,8.07
+0950,Natália Barbosa,7,Feminino,2º Ano,Não,Nunca,6.03,7.63,5.91
+0951,Elisa Vieira,10,Feminino,5º Ano,Não,Nunca,6.37,8.67,9.11
+0952,Zeca Nogueira,16,Masculino,6º Ano,Não,Nunca,7.93,5.81,5.33
+0953,João Vieira,15,Masculino,10º Ano,Não,Nunca,9.33,5.9,6.82
+0954,Zeca Ramos,16,Masculino,6º Ano,Não,Nunca,9.44,6.91,5.71
+0955,Natália Teixeira,17,Feminino,7º Ano,Não,Nunca,8.99,9.66,9.58
+0956,Gabriela Júnior,7,Feminino,2º Ano,Não,Nunca,8.59,9.47,7.06
+0957,Laura Henrique,6,Feminino,1º Ano,Não,Nunca,8.21,8.38,7.94
+0958,Elisa Ibarra,18,Feminino,8º Ano,Não,Nunca,6.92,6.6,5.01
+0959,Otávio Gomes,7,Masculino,2º Ano,Não,Nunca,7.63,5.83,6.52
+0960,Laura Zanetti,14,Feminino,9º Ano,Sim,mais de 1 ano,8.95,6.79,8.45
+0961,Diego Ramos,7,Masculino,2º Ano,Não,Nunca,8.87,5.64,10.0
+0962,Elisa Almeida,9,Feminino,4º Ano,Sim,mais de 1 ano,5.65,8.06,5.92
+0963,Natália Ibarra,8,Feminino,3º Ano,Não,Nunca,9.2,6.37,7.29
+0964,Henrique Pereira,8,Masculino,3º Ano,Sim,mais de 1 ano,6.52,8.72,9.25
+0965,Vivian Henrique,8,Feminino,3º Ano,Sim,Nunca,9.1,6.3,9.42
+0966,Elisa Dias,18,Feminino,8º Ano,Não,Nunca,9.26,9.2,6.89
+0967,Carla Júnior,7,Feminino,2º Ano,Não,Nunca,7.37,7.66,7.99
+0968,Isabela Zanetti,14,Feminino,9º Ano,Sim,mais de 1 ano,9.42,7.6,9.4
+0969,Laura Dias,11,Feminino,6º Ano,Não,Nunca,6.28,6.92,9.87
+0970,Carla Almeida,15,Feminino,10º Ano,Não,Nunca,9.2,8.67,6.5
+0971,Elisa Almeida,13,Feminino,8º Ano,Não,Nunca,9.61,6.38,5.1
+0972,Patrícia Nogueira,18,Feminino,8º Ano,Não,Nunca,9.38,7.59,6.42
+0973,Ana Júnior,11,Feminino,6º Ano,Não,Nunca,8.9,7.88,10.0
+0974,Elisa Barbosa,16,Feminino,6º Ano,Não,Nunca,9.41,9.0,7.79
+0975,Elisa Júnior,7,Feminino,2º Ano,Não,Nunca,5.58,7.25,5.02
+0976,Patrícia Nogueira,13,Feminino,8º Ano,Não,Nunca,8.36,8.45,7.33
+0977,Sofia Henrique,7,Feminino,2º Ano,Não,Nunca,5.43,6.51,5.02
+0978,Diego Oliveira,16,Masculino,6º Ano,Sim,mais de 1 ano,9.28,7.88,8.94
+0979,Laura Pereira,18,Feminino,8º Ano,Não,Nunca,7.12,7.95,9.63
+0980,Sofia Queiroz,17,Feminino,7º Ano,Não,Nunca,7.43,8.71,5.02
+0981,Elisa Oliveira,14,Feminino,9º Ano,Não,Nunca,5.32,5.29,8.62
+0982,Gabriela Almeida,13,Feminino,8º Ano,Não,Nunca,7.04,7.78,5.35
+0983,Fernando Fernandes,15,Masculino,10º Ano,Não,Nunca,6.61,6.69,9.85
+0984,Sofia Gomes,13,Feminino,8º Ano,Não,Nunca,8.62,5.67,6.73
+0985,Sofia Teixeira,13,Feminino,8º Ano,Sim,mais de 1 ano,5.25,5.38,8.35
+0986,Fernando Júnior,11,Masculino,6º Ano,Não,Nunca,5.73,7.38,6.01
+0987,Otávio Oliveira,12,Masculino,7º Ano,Não,Nunca,5.09,9.24,8.31
+0988,Elisa Costa,16,Feminino,6º Ano,Não,Nunca,8.72,7.54,8.82
+0989,Bruno Silva,9,Masculino,4º Ano,Não,Nunca,6.55,7.4,9.91
+0990,Otávio Lima,12,Masculino,7º Ano,Não,Nunca,8.23,8.68,9.05
+0991,Isabela Lima,9,Feminino,4º Ano,Não,Nunca,5.14,7.17,5.75
+0992,Diego Pereira,9,Masculino,4º Ano,Sim,Nunca,8.5,9.7,7.92
+0993,João Henrique,13,Masculino,8º Ano,Não,Nunca,9.47,5.35,5.66
+0994,Patrícia Ibarra,6,Feminino,1º Ano,Não,Nunca,9.44,8.67,9.14
+0995,Vivian Dias,14,Feminino,9º Ano,Sim,Nunca,7.83,9.88,6.5
+0996,Gabriela Oliveira,8,Feminino,3º Ano,Não,Nunca,6.84,7.35,5.74
+0997,Bruno Zanetti,9,Masculino,4º Ano,Não,Nunca,9.31,9.37,6.19
+0998,Isabela Nogueira,13,Feminino,8º Ano,Não,Nunca,8.54,7.17,9.21
+0999,Rafael Barbosa,18,Masculino,8º Ano,Não,Nunca,7.71,5.01,7.02
+1000,Elisa Barbosa,15,Feminino,10º Ano,Não,Nunca,5.93,9.91,5.69
+1001,Zeca Silva,15,Masculino,10º Ano,Não,Nunca,6.36,7.9,8.04
+1002,Rafael Gomes,16,Masculino,6º Ano,Não,Nunca,6.15,8.38,8.15
+1003,Zeca Ibarra,14,Masculino,9º Ano,Sim,mais de 1 ano,6.57,8.04,6.73
+1004,Fernando Zanetti,15,Masculino,10º Ano,Não,Nunca,5.24,5.36,9.32
+1005,Vivian Queiroz,15,Feminino,10º Ano,Sim,Nunca,5.6,8.9,5.24
+1006,Rafael Nogueira,11,Masculino,6º Ano,Não,Nunca,9.27,6.26,6.35
+1007,Isabela Dias,14,Feminino,9º Ano,Sim,mais de 1 ano,6.3,6.36,6.96
+1008,Tiago Barbosa,10,Masculino,5º Ano,Não,Nunca,8.76,5.11,7.65
+1009,Sofia Nogueira,18,Feminino,8º Ano,Sim,mais de 1 ano,5.94,8.17,5.03
+1010,Zeca Henrique,13,Masculino,8º Ano,Sim,mais de 1 ano,8.53,8.85,7.54
+1011,Fernando Ramos,11,Masculino,6º Ano,Não,Nunca,9.71,8.61,8.29
+1012,Patrícia Nogueira,11,Feminino,6º Ano,Não,Nunca,8.5,7.25,6.76
+1013,Laura Oliveira,12,Feminino,7º Ano,Sim,Nunca,9.56,9.05,6.88
+1014,Zeca Zanetti,8,Masculino,3º Ano,Não,Nunca,8.53,9.78,7.16
+1015,Ana Vieira,16,Feminino,6º Ano,Não,Nunca,5.26,5.6,6.24
+1016,Zeca Dias,11,Masculino,6º Ano,Não,Nunca,5.05,5.75,9.18
+1017,Elisa Martins,16,Feminino,6º Ano,Não,Nunca,9.25,8.62,7.71
+1018,Zeca Zanetti,13,Masculino,8º Ano,Não,Nunca,8.42,8.78,8.96
+1019,Vivian Henrique,16,Feminino,6º Ano,Não,Nunca,7.53,8.36,9.97
+1020,Gabriela Gomes,15,Feminino,10º Ano,Sim,Nunca,8.77,8.91,5.2
+1021,Patrícia Dias,13,Feminino,8º Ano,Não,Nunca,9.71,6.29,7.15
+1022,Zeca Gomes,13,Masculino,8º Ano,Não,Nunca,8.51,9.7,6.72
+1023,Rafael Fernandes,9,Masculino,4º Ano,Sim,Nunca,8.61,9.37,9.67
+1024,Tiago Júnior,17,Masculino,7º Ano,Não,Nunca,7.21,7.08,9.34
+1025,Laura Oliveira,7,Feminino,2º Ano,Sim,mais de 1 ano,9.4,7.2,8.31
+1026,Fernando Júnior,16,Masculino,6º Ano,Não,Nunca,9.23,8.89,7.44
+1027,Sofia Lima,18,Feminino,8º Ano,Não,Nunca,6.49,8.11,8.85
+1028,Marcos Almeida,15,Masculino,10º Ano,Sim,mais de 1 ano,8.78,9.22,9.21
+1029,Fernando Júnior,16,Masculino,6º Ano,Não,Nunca,5.11,8.08,8.42
+1030,Elisa Nogueira,9,Feminino,4º Ano,Não,Nunca,6.85,7.05,8.84
+1031,João Pereira,7,Masculino,2º Ano,Não,Nunca,7.95,8.47,9.55
+1032,Marcos Martins,7,Masculino,2º Ano,Sim,mais de 1 ano,6.46,6.9,5.14
+1033,Henrique Dias,7,Masculino,2º Ano,Não,Nunca,7.45,7.41,8.53
+1034,Henrique Gomes,7,Masculino,2º Ano,Não,Nunca,9.17,5.38,9.75
+1035,Patrícia Queiroz,13,Feminino,8º Ano,Sim,Nunca,5.23,5.6,8.95
+1036,Laura Ibarra,11,Feminino,6º Ano,Não,Nunca,6.22,7.21,6.41
+1037,Ana Lima,16,Feminino,6º Ano,Não,Nunca,7.33,5.53,9.74
+1038,Laura Ibarra,17,Feminino,7º Ano,Não,Nunca,6.71,5.66,7.81
+1039,Marcos Oliveira,10,Masculino,5º Ano,Não,Nunca,5.26,5.5,7.13
+1040,João Teixeira,13,Masculino,8º Ano,Sim,mais de 1 ano,9.58,8.24,5.75
+1041,Rafael Dias,16,Masculino,6º Ano,Não,Nunca,7.91,9.7,5.66
+1042,Otávio Queiroz,15,Masculino,10º Ano,Não,Nunca,8.27,7.01,5.02
+1043,Bruno Lima,12,Masculino,7º Ano,Não,Nunca,8.84,8.23,7.76
+1044,Laura Martins,9,Feminino,4º Ano,Não,Nunca,5.31,9.42,7.31
+1045,Gabriela Barbosa,15,Feminino,10º Ano,Não,Nunca,7.26,8.9,6.93
+1046,Tiago Júnior,13,Masculino,8º Ano,Sim,mais de 1 ano,7.51,8.97,8.23
+1047,Ana Dias,14,Feminino,9º Ano,Não,Nunca,6.04,9.78,8.34
+1048,Tiago Júnior,8,Masculino,3º Ano,Sim,mais de 1 ano,5.37,5.86,8.61
+1049,Elisa Nogueira,12,Feminino,7º Ano,Não,Nunca,6.8,8.79,8.79
+1050,Elisa Fernandes,8,Feminino,3º Ano,Não,Nunca,9.73,6.76,5.59
+1051,Tiago Silva,7,Masculino,2º Ano,Sim,mais de 1 ano,9.38,7.07,7.06
+1052,Fernando Oliveira,9,Masculino,4º Ano,Não,Nunca,5.17,6.21,8.6
+1053,Marcos Nogueira,14,Masculino,9º Ano,Não,Nunca,6.17,9.45,8.88
+1054,Zeca Zanetti,17,Masculino,7º Ano,Não,Nunca,8.19,9.87,8.59
+1055,Fernando Nogueira,17,Masculino,7º Ano,Não,Nunca,8.41,6.01,9.31
+1056,Marcos Henrique,6,Masculino,1º Ano,Não,Nunca,7.64,8.64,8.9
+1057,Diego Queiroz,10,Masculino,5º Ano,Não,Nunca,6.11,8.42,9.6
+1058,Patrícia Fernandes,18,Feminino,8º Ano,Não,Nunca,7.97,8.79,5.81
+1059,Marcos Nogueira,10,Masculino,5º Ano,Não,Nunca,6.78,6.94,8.73
+1060,Isabela Queiroz,18,Feminino,8º Ano,Sim,mais de 1 ano,8.05,6.61,8.93
+1061,Carla Oliveira,18,Feminino,8º Ano,Não,Nunca,9.91,6.14,8.38
+1062,Laura Oliveira,16,Feminino,6º Ano,Não,Nunca,6.55,7.01,7.71
+1063,João Queiroz,10,Masculino,5º Ano,Não,Nunca,6.33,8.65,6.24
+1064,Natália Dias,6,Feminino,1º Ano,Não,Nunca,6.31,8.89,9.22
+1065,Fernando Oliveira,14,Masculino,9º Ano,Não,Nunca,7.4,8.68,9.02
+1066,Rafael Dias,6,Masculino,1º Ano,Sim,mais de 1 ano,8.95,6.16,5.29
+1067,Laura Lima,9,Feminino,4º Ano,Não,Nunca,9.03,9.77,9.91
+1068,João Zanetti,8,Masculino,3º Ano,Não,Nunca,8.22,5.45,9.62
+1069,Diego Teixeira,13,Masculino,8º Ano,Não,Nunca,5.21,5.44,9.38
+1070,Elisa Lima,12,Feminino,7º Ano,Não,Nunca,9.89,7.75,7.02
+1071,Laura Fernandes,14,Feminino,9º Ano,Não,Nunca,5.24,8.53,5.12
+1072,Laura Teixeira,16,Feminino,6º Ano,Sim,Nunca,6.04,9.76,8.77
+1073,Zeca Costa,9,Masculino,4º Ano,Não,Nunca,7.59,9.86,9.68
+1074,João Fernandes,16,Masculino,6º Ano,Não,Nunca,6.51,7.71,6.56
+1075,Otávio Queiroz,7,Masculino,2º Ano,Não,Nunca,8.46,8.73,9.21
+1076,Elisa Nogueira,8,Feminino,3º Ano,Não,Nunca,7.65,6.26,9.63
+1077,Marcos Ibarra,15,Masculino,10º Ano,Não,Nunca,6.17,5.88,9.61
+1078,Gabriela Queiroz,18,Feminino,8º Ano,Não,Nunca,9.98,9.92,6.11
+1079,Elisa Nogueira,7,Feminino,2º Ano,Não,Nunca,6.36,8.98,9.31
+1080,Diego Barbosa,7,Masculino,2º Ano,Não,Nunca,8.12,5.29,6.99
+1081,Rafael Almeida,18,Masculino,8º Ano,Não,Nunca,8.23,7.24,8.99
+1082,Vivian Júnior,7,Feminino,2º Ano,Não,Nunca,8.23,5.67,7.45
+1083,Carla Henrique,11,Feminino,6º Ano,Sim,mais de 1 ano,5.71,5.53,7.02
+1084,Carla Fernandes,16,Feminino,6º Ano,Não,Nunca,6.95,5.44,9.73
+1085,Sofia Queiroz,9,Feminino,4º Ano,Não,Nunca,5.78,5.34,7.07
+1086,Marcos Silva,18,Masculino,8º Ano,Não,Nunca,8.01,9.83,7.69
+1087,Bruno Nogueira,13,Masculino,8º Ano,Não,Nunca,9.68,9.65,7.29
+1088,Fernando Gomes,8,Masculino,3º Ano,Não,Nunca,8.56,9.14,6.08
+1089,Laura Dias,6,Feminino,1º Ano,Não,Nunca,6.03,7.19,5.8
+1090,Henrique Vieira,15,Masculino,10º Ano,Não,Nunca,9.76,8.12,6.09
+1091,João Fernandes,18,Masculino,8º Ano,Não,Nunca,8.56,5.83,7.17
+1092,Marcos Júnior,15,Masculino,10º Ano,Não,Nunca,8.91,5.03,8.58
+1093,Ana Ramos,7,Feminino,2º Ano,Não,Nunca,5.8,5.29,9.08
+1094,Tiago Pereira,13,Masculino,8º Ano,Não,Nunca,9.23,9.29,8.62
+1095,Isabela Zanetti,11,Feminino,6º Ano,Não,Nunca,6.16,7.29,5.32
+1096,Otávio Ramos,13,Masculino,8º Ano,Não,Nunca,5.47,9.3,8.94
+1097,Natália Martins,16,Feminino,6º Ano,Sim,Nunca,8.98,7.66,6.99
+1098,Bruno Lima,12,Masculino,7º Ano,Sim,Nunca,7.14,6.08,7.55
+1099,Diego Vieira,14,Masculino,9º Ano,Não,Nunca,5.49,5.96,7.36
+1100,Marcos Costa,17,Masculino,7º Ano,Não,Nunca,5.67,8.74,9.17
+1101,Fernando Almeida,17,Masculino,7º Ano,Não,Nunca,5.85,6.05,8.89
+1102,Gabriela Zanetti,12,Feminino,7º Ano,Não,Nunca,7.18,6.33,7.04
+1103,Bruno Martins,15,Masculino,10º Ano,Não,Nunca,7.12,8.69,6.0
+1104,Gabriela Lima,17,Feminino,7º Ano,Não,Nunca,9.6,5.97,9.96
+1105,Sofia Nogueira,18,Feminino,8º Ano,Não,Nunca,6.54,6.75,8.56
+1106,Isabela Vieira,16,Feminino,6º Ano,Sim,Nunca,8.52,9.49,8.14
+1107,Marcos Queiroz,14,Masculino,9º Ano,Não,Nunca,8.85,7.58,5.43
+1108,Carla Gomes,12,Feminino,7º Ano,Não,Nunca,9.96,9.64,8.51
+1109,Marcos Costa,14,Masculino,9º Ano,Sim,Nunca,9.24,9.83,5.85
+1110,Zeca Nogueira,8,Masculino,3º Ano,Não,Nunca,7.16,7.79,7.46
+1111,Bruno Costa,10,Masculino,5º Ano,Não,Nunca,6.16,9.33,8.62
+1112,Fernando Oliveira,14,Masculino,9º Ano,Sim,mais de 1 ano,8.5,7.3,7.39
+1113,Bruno Oliveira,13,Masculino,8º Ano,Não,Nunca,9.61,8.79,9.43
+1114,Otávio Zanetti,15,Masculino,10º Ano,Não,Nunca,9.01,9.58,6.89
+1115,Bruno Queiroz,8,Masculino,3º Ano,Não,Nunca,6.21,6.29,8.79
+1116,Elisa Fernandes,8,Feminino,3º Ano,Não,Nunca,8.82,6.82,8.07
+1117,Bruno Gomes,16,Masculino,6º Ano,Não,Nunca,7.81,7.14,8.44
+1118,Bruno Vieira,18,Masculino,8º Ano,Não,Nunca,8.8,7.52,8.15
+1119,Otávio Oliveira,7,Masculino,2º Ano,Sim,mais de 1 ano,9.04,7.27,8.85
+1120,Elisa Martins,7,Feminino,2º Ano,Não,Nunca,9.9,7.02,8.67
+1121,Zeca Ibarra,16,Masculino,6º Ano,Não,Nunca,7.75,7.63,8.89
+1122,Marcos Dias,18,Masculino,8º Ano,Não,Nunca,5.55,5.16,9.59
+1123,Elisa Henrique,7,Feminino,2º Ano,Não,Nunca,5.94,9.28,9.03
+1124,Elisa Barbosa,8,Feminino,3º Ano,Não,Nunca,7.36,9.23,6.72
+1125,Patrícia Lima,6,Feminino,1º Ano,Não,Nunca,6.74,6.03,9.7
+1126,Elisa Fernandes,16,Feminino,6º Ano,Não,Nunca,6.7,9.34,9.71
+1127,Henrique Ibarra,12,Masculino,7º Ano,Não,Nunca,5.17,9.67,6.13
+1128,Otávio Costa,16,Masculino,6º Ano,Não,Nunca,5.66,5.31,5.76
+1129,Laura Silva,8,Feminino,3º Ano,Não,Nunca,5.95,8.26,6.5
+1130,Henrique Oliveira,15,Masculino,10º Ano,Não,Nunca,7.54,6.56,8.3
+1131,Zeca Ramos,18,Masculino,8º Ano,Não,Nunca,6.69,7.56,9.57
+1132,Patrícia Teixeira,16,Feminino,6º Ano,Não,Nunca,9.57,5.21,6.07
+1133,Fernando Teixeira,16,Masculino,6º Ano,Não,Nunca,9.84,8.15,5.54
+1134,Marcos Vieira,6,Masculino,1º Ano,Não,Nunca,5.84,8.86,7.46
+1135,Elisa Nogueira,8,Feminino,3º Ano,Não,Nunca,8.37,8.37,6.87
+1136,Ana Gomes,6,Feminino,1º Ano,Não,Nunca,7.77,6.32,8.51
+1137,Diego Teixeira,7,Masculino,2º Ano,Não,Nunca,7.02,7.96,9.13
+1138,Fernando Lima,14,Masculino,9º Ano,Não,Nunca,8.39,9.29,9.85
+1139,Diego Dias,7,Masculino,2º Ano,Não,Nunca,9.25,8.4,9.68
+1140,Tiago Lima,6,Masculino,1º Ano,Não,Nunca,7.89,6.5,9.42
+1141,Ana Lima,15,Feminino,10º Ano,Não,Nunca,5.25,9.33,6.97
+1142,Patrícia Teixeira,16,Feminino,6º Ano,Não,Nunca,5.06,8.73,5.76
+1143,Sofia Ibarra,14,Feminino,9º Ano,Não,Nunca,9.15,8.09,5.34
+1144,Diego Teixeira,9,Masculino,4º Ano,Sim,mais de 1 ano,9.46,6.46,6.69
+1145,Elisa Fernandes,9,Feminino,4º Ano,Não,Nunca,9.36,6.21,7.33
+1146,Henrique Costa,11,Masculino,6º Ano,Não,Nunca,9.71,6.25,8.36
+1147,Sofia Fernandes,17,Feminino,7º Ano,Não,Nunca,9.28,7.24,9.42
+1148,Bruno Oliveira,7,Masculino,2º Ano,Não,Nunca,9.02,5.93,6.44
+1149,João Pereira,14,Masculino,9º Ano,Não,Nunca,9.18,9.26,6.83
+1150,Zeca Vieira,10,Masculino,5º Ano,Não,Nunca,7.16,7.06,8.88
+1151,Tiago Queiroz,15,Masculino,10º Ano,Não,Nunca,7.62,5.81,9.77
+1152,Patrícia Costa,14,Feminino,9º Ano,Não,Nunca,8.7,5.75,9.67
+1153,Tiago Vieira,15,Masculino,10º Ano,Não,Nunca,6.86,9.47,7.3
+1154,Natália Queiroz,7,Feminino,2º Ano,Não,Nunca,8.5,9.03,8.72
+1155,Carla Costa,17,Feminino,7º Ano,Não,Nunca,7.05,9.19,6.04
+1156,Laura Costa,12,Feminino,7º Ano,Sim,Nunca,7.33,7.61,5.02
+1157,Rafael Ibarra,13,Masculino,8º Ano,Não,Nunca,5.84,6.86,6.81
+1158,Fernando Ramos,18,Masculino,8º Ano,Não,Nunca,8.86,6.25,9.22
+1159,Isabela Silva,12,Feminino,7º Ano,Não,Nunca,5.21,5.62,7.66
+1160,Zeca Almeida,16,Masculino,6º Ano,Não,Nunca,5.68,9.08,6.72
+1161,Ana Pereira,11,Feminino,6º Ano,Sim,Nunca,9.78,6.32,8.36
+1162,Rafael Queiroz,14,Masculino,9º Ano,Não,Nunca,5.69,8.95,5.62
+1163,Diego Almeida,16,Masculino,6º Ano,Não,Nunca,5.82,6.17,6.51
+1164,Marcos Oliveira,16,Masculino,6º Ano,Não,Nunca,6.63,9.91,5.95
+1165,Bruno Fernandes,9,Masculino,4º Ano,Não,Nunca,7.84,6.09,6.42
+1166,Gabriela Nogueira,14,Feminino,9º Ano,Não,Nunca,8.77,6.49,8.17
+1167,Natália Zanetti,10,Feminino,5º Ano,Não,Nunca,8.97,6.73,9.96
+1168,Sofia Queiroz,13,Feminino,8º Ano,Sim,mais de 1 ano,9.12,6.28,6.82
+1169,Vivian Almeida,17,Feminino,7º Ano,Não,Nunca,8.64,9.7,5.73
+1170,Rafael Lima,10,Masculino,5º Ano,Não,Nunca,9.56,5.52,9.28
+1171,Vivian Júnior,9,Feminino,4º Ano,Não,Nunca,8.74,7.69,7.88
+1172,Marcos Fernandes,15,Masculino,10º Ano,Não,Nunca,8.25,9.34,6.86
+1173,Sofia Ramos,11,Feminino,6º Ano,Sim,Nunca,5.02,9.68,9.29
+1174,Natália Martins,10,Feminino,5º Ano,Não,Nunca,7.08,6.43,7.15
+1175,Bruno Zanetti,17,Masculino,7º Ano,Não,Nunca,7.76,6.7,7.95
+1176,Zeca Queiroz,6,Masculino,1º Ano,Sim,Nunca,8.07,7.11,6.47
+1177,Zeca Gomes,8,Masculino,3º Ano,Não,Nunca,8.53,9.41,9.47
+1178,Bruno Zanetti,11,Masculino,6º Ano,Não,Nunca,5.26,7.61,5.1
+1179,Isabela Queiroz,16,Feminino,6º Ano,Não,Nunca,7.95,5.52,8.42
+1180,Bruno Zanetti,9,Masculino,4º Ano,Não,Nunca,9.47,7.96,7.96
+1181,Tiago Gomes,10,Masculino,5º Ano,Não,Nunca,8.24,6.97,6.22
+1182,Vivian Fernandes,7,Feminino,2º Ano,Sim,mais de 1 ano,5.22,9.06,5.08
+1183,Zeca Costa,16,Masculino,6º Ano,Não,Nunca,6.84,7.78,7.42
+1184,Carla Almeida,10,Feminino,5º Ano,Não,Nunca,8.85,8.67,7.07
+1185,Henrique Lima,12,Masculino,7º Ano,Não,Nunca,7.8,7.46,7.65
+1186,Ana Ramos,6,Feminino,1º Ano,Não,Nunca,9.15,5.29,7.2
+1187,Henrique Júnior,16,Masculino,6º Ano,Não,Nunca,5.09,8.83,9.47
+1188,Gabriela Vieira,8,Feminino,3º Ano,Não,Nunca,6.23,6.87,9.35
+1189,Carla Henrique,6,Feminino,1º Ano,Não,Nunca,6.5,6.71,9.44
+1190,Bruno Henrique,10,Masculino,5º Ano,Não,Nunca,5.05,8.26,6.17
+1191,Marcos Gomes,17,Masculino,7º Ano,Não,Nunca,9.17,8.56,9.4
+1192,João Costa,14,Masculino,9º Ano,Sim,mais de 1 ano,8.59,8.83,8.07
+1193,João Lima,18,Masculino,8º Ano,Não,Nunca,6.02,7.75,9.55
+1194,Rafael Gomes,8,Masculino,3º Ano,Não,Nunca,9.17,6.87,6.14
+1195,Otávio Ibarra,10,Masculino,5º Ano,Não,Nunca,8.0,9.0,8.63
+1196,Carla Martins,14,Feminino,9º Ano,Não,Nunca,9.57,9.75,9.44
+1197,Isabela Teixeira,8,Feminino,3º Ano,Sim,Nunca,6.57,8.01,9.44
+1198,Marcos Almeida,9,Masculino,4º Ano,Sim,Nunca,8.69,7.93,6.01
+1199,Laura Fernandes,10,Feminino,5º Ano,Sim,Nunca,6.38,9.12,6.15
+1200,Carla Fernandes,6,Feminino,1º Ano,Não,Nunca,8.0,9.47,7.84
+1201,Otávio Almeida,11,Masculino,6º Ano,Não,Nunca,6.68,5.44,7.26
+1202,Patrícia Nogueira,16,Feminino,6º Ano,Não,Nunca,6.78,6.01,8.59
+1203,Marcos Almeida,8,Masculino,3º Ano,Não,Nunca,5.81,5.64,7.5
+1204,Laura Ibarra,12,Feminino,7º Ano,Não,Nunca,6.75,7.31,5.98
+1205,Henrique Lima,12,Masculino,7º Ano,Não,Nunca,6.01,7.62,8.36
+1206,Rafael Oliveira,10,Masculino,5º Ano,Não,Nunca,8.06,6.39,6.44
+1207,Isabela Silva,7,Feminino,2º Ano,Sim,mais de 1 ano,8.94,8.83,7.42
+1208,Vivian Fernandes,11,Feminino,6º Ano,Não,Nunca,7.21,7.53,6.04
+1209,Henrique Fernandes,12,Masculino,7º Ano,Não,Nunca,5.93,5.57,7.62
+1210,Tiago Ramos,13,Masculino,8º Ano,Não,Nunca,6.26,7.83,5.32
+1211,Tiago Ibarra,18,Masculino,8º Ano,Não,Nunca,5.75,8.59,9.85
+1212,Tiago Pereira,14,Masculino,9º Ano,Não,Nunca,9.75,9.03,7.55
+1213,Patrícia Pereira,7,Feminino,2º Ano,Não,Nunca,5.29,9.93,8.28
+1214,Vivian Teixeira,16,Feminino,6º Ano,Não,Nunca,9.52,5.79,6.23
+1215,Fernando Queiroz,8,Masculino,3º Ano,Não,Nunca,7.81,5.61,7.09
+1216,Natália Ibarra,7,Feminino,2º Ano,Sim,mais de 1 ano,7.52,6.84,8.43
+1217,Laura Fernandes,15,Feminino,10º Ano,Sim,mais de 1 ano,5.97,9.11,7.81
+1218,João Júnior,13,Masculino,8º Ano,Não,Nunca,9.84,6.67,9.73
+1219,Sofia Queiroz,6,Feminino,1º Ano,Não,Nunca,7.75,8.38,6.41
+1220,Isabela Silva,10,Feminino,5º Ano,Não,Nunca,8.15,8.41,5.47
+1221,Rafael Júnior,9,Masculino,4º Ano,Sim,Nunca,8.7,8.57,6.12
+1222,Marcos Martins,16,Masculino,6º Ano,Não,Nunca,8.88,5.38,9.22
+1223,Sofia Barbosa,14,Feminino,9º Ano,Sim,mais de 1 ano,9.15,7.03,8.38
+1224,Elisa Barbosa,17,Feminino,7º Ano,Não,Nunca,6.57,7.76,7.44
+1225,Henrique Barbosa,13,Masculino,8º Ano,Não,Nunca,8.88,8.57,9.83
+1226,João Queiroz,15,Masculino,10º Ano,Não,Nunca,8.52,9.73,6.32
+1227,Laura Nogueira,7,Feminino,2º Ano,Não,Nunca,7.5,5.67,6.05
+1228,Carla Vieira,9,Feminino,4º Ano,Sim,mais de 1 ano,5.35,5.32,7.43
+1229,Patrícia Lima,13,Feminino,8º Ano,Não,Nunca,6.32,5.41,8.95
+1230,Otávio Pereira,15,Masculino,10º Ano,Não,Nunca,9.4,6.15,8.55
+1231,Zeca Lima,7,Masculino,2º Ano,Não,Nunca,9.07,5.83,9.22
+1232,Laura Vieira,15,Feminino,10º Ano,Sim,mais de 1 ano,7.6,8.05,6.14
+1233,Rafael Teixeira,10,Masculino,5º Ano,Não,Nunca,7.26,7.77,9.28
+1234,Bruno Martins,10,Masculino,5º Ano,Não,Nunca,5.46,8.21,9.05
+1235,Henrique Costa,6,Masculino,1º Ano,Não,Nunca,7.6,9.55,8.26
+1236,Rafael Nogueira,7,Masculino,2º Ano,Não,Nunca,7.21,5.27,6.34
+1237,Diego Henrique,6,Masculino,1º Ano,Não,Nunca,5.84,7.98,6.41
+1238,Tiago Henrique,18,Masculino,8º Ano,Não,Nunca,7.22,9.12,6.23
+1239,Vivian Pereira,17,Feminino,7º Ano,Não,Nunca,9.34,9.36,8.2
+1240,Vivian Costa,13,Feminino,8º Ano,Não,Nunca,8.77,9.02,9.22
+1241,Sofia Silva,14,Feminino,9º Ano,Sim,mais de 1 ano,7.38,8.26,9.53
+1242,Vivian Silva,8,Feminino,3º Ano,Não,Nunca,6.93,9.86,7.95
+1243,Ana Gomes,18,Feminino,8º Ano,Sim,mais de 1 ano,7.84,7.74,5.04
+1244,Vivian Pereira,6,Feminino,1º Ano,Não,Nunca,7.98,9.64,5.87
+1245,Ana Gomes,9,Feminino,4º Ano,Não,Nunca,9.5,7.22,5.6
+1246,Bruno Lima,10,Masculino,5º Ano,Não,Nunca,9.19,6.1,7.8
+1247,Rafael Queiroz,18,Masculino,8º Ano,Não,Nunca,5.67,6.93,9.74
+1248,Henrique Fernandes,6,Masculino,1º Ano,Não,Nunca,6.62,5.15,5.58
+1249,Vivian Henrique,14,Feminino,9º Ano,Sim,mais de 1 ano,5.84,7.41,6.0
+1250,Fernando Vieira,17,Masculino,7º Ano,Não,Nunca,5.04,8.49,5.86
+1251,Marcos Júnior,16,Masculino,6º Ano,Não,Nunca,5.42,6.07,9.31
+1252,Fernando Vieira,10,Masculino,5º Ano,Não,Nunca,7.07,9.71,5.46
+1253,Fernando Almeida,10,Masculino,5º Ano,Não,Nunca,5.63,5.96,6.51
+1254,Sofia Henrique,17,Feminino,7º Ano,Não,Nunca,8.11,9.7,7.23
+1255,Otávio Lima,11,Masculino,6º Ano,Não,Nunca,9.38,5.86,9.14
+1256,Patrícia Fernandes,11,Feminino,6º Ano,Não,Nunca,8.33,5.45,6.32
+1257,Ana Zanetti,17,Feminino,7º Ano,Não,Nunca,8.43,8.31,7.94
+1258,Elisa Vieira,7,Feminino,2º Ano,Não,Nunca,9.59,6.18,5.42
+1259,Marcos Nogueira,10,Masculino,5º Ano,Não,Nunca,7.55,5.0,7.25
+1260,Rafael Nogueira,15,Masculino,10º Ano,Não,Nunca,6.6,7.2,9.0
+1261,Ana Lima,7,Feminino,2º Ano,Não,Nunca,8.2,7.59,9.35
+1262,Ana Gomes,6,Feminino,1º Ano,Não,Nunca,9.56,8.44,8.27
+1263,Natália Lima,13,Feminino,8º Ano,Não,Nunca,8.21,8.59,7.97
+1264,Patrícia Barbosa,15,Feminino,10º Ano,Não,Nunca,6.73,9.29,6.88
+1265,Diego Dias,8,Masculino,3º Ano,Não,Nunca,8.93,7.3,9.42
+1266,Carla Ramos,9,Feminino,4º Ano,Não,Nunca,8.73,9.17,8.68
+1267,Otávio Dias,15,Masculino,10º Ano,Não,Nunca,9.41,5.38,9.59
+1268,Fernando Dias,9,Masculino,4º Ano,Sim,Nunca,9.3,5.1,9.62
+1269,Vivian Zanetti,18,Feminino,8º Ano,Não,Nunca,7.51,5.25,6.81
+1270,Henrique Almeida,18,Masculino,8º Ano,Não,Nunca,9.58,8.69,7.66
+1271,Isabela Nogueira,17,Feminino,7º Ano,Não,Nunca,6.51,5.51,9.46
+1272,Tiago Barbosa,12,Masculino,7º Ano,Não,Nunca,8.4,9.12,8.18
+1273,Ana Costa,15,Feminino,10º Ano,Não,Nunca,8.93,6.4,5.18
+1274,Marcos Costa,10,Masculino,5º Ano,Sim,mais de 1 ano,6.83,5.64,5.19
+1275,Ana Oliveira,7,Feminino,2º Ano,Não,Nunca,9.71,7.73,6.52
+1276,Zeca Oliveira,12,Masculino,7º Ano,Não,Nunca,8.34,6.5,8.04
+1277,Fernando Gomes,16,Masculino,6º Ano,Sim,mais de 1 ano,9.81,7.24,5.73
+1278,Gabriela Vieira,11,Feminino,6º Ano,Sim,Nunca,5.36,6.39,6.41
+1279,Gabriela Silva,11,Feminino,6º Ano,Não,Nunca,8.51,5.95,7.85
+1280,Henrique Gomes,10,Masculino,5º Ano,Não,Nunca,8.04,7.13,9.74
+1281,Natália Dias,9,Feminino,4º Ano,Sim,mais de 1 ano,9.6,8.21,7.43
+1282,Diego Oliveira,13,Masculino,8º Ano,Não,Nunca,7.25,5.91,6.87
+1283,Diego Zanetti,9,Masculino,4º Ano,Não,Nunca,9.68,7.17,8.02
+1284,Marcos Silva,9,Masculino,4º Ano,Não,Nunca,5.98,8.7,7.99
+1285,Otávio Nogueira,13,Masculino,8º Ano,Não,Nunca,6.69,6.25,9.19
+1286,Rafael Fernandes,15,Masculino,10º Ano,Sim,mais de 1 ano,8.49,6.85,5.71
+1287,Bruno Silva,11,Masculino,6º Ano,Não,Nunca,9.5,5.99,5.99
+1288,Rafael Martins,13,Masculino,8º Ano,Não,Nunca,5.1,7.64,6.2
+1289,Otávio Vieira,9,Masculino,4º Ano,Não,Nunca,9.21,7.98,7.61
+1290,Diego Dias,13,Masculino,8º Ano,Não,Nunca,6.31,9.3,6.82
+1291,Rafael Teixeira,7,Masculino,2º Ano,Não,Nunca,6.51,9.72,5.04
+1292,Sofia Teixeira,16,Feminino,6º Ano,Não,Nunca,7.73,6.74,5.3
+1293,Vivian Costa,12,Feminino,7º Ano,Não,Nunca,5.41,9.88,7.27
+1294,Sofia Vieira,10,Feminino,5º Ano,Não,Nunca,7.71,9.09,7.47
+1295,Zeca Queiroz,9,Masculino,4º Ano,Não,Nunca,8.19,7.35,6.49
+1296,Elisa Ibarra,15,Feminino,10º Ano,Não,Nunca,6.51,7.3,5.51
+1297,Bruno Nogueira,11,Masculino,6º Ano,Não,Nunca,9.78,5.51,9.35
+1298,Ana Teixeira,14,Feminino,9º Ano,Não,Nunca,5.43,9.35,6.48
+1299,Tiago Ramos,18,Masculino,8º Ano,Sim,mais de 1 ano,8.02,7.65,5.01
+1300,Marcos Zanetti,16,Masculino,6º Ano,Não,Nunca,8.08,9.62,6.81
+1301,Zeca Oliveira,12,Masculino,7º Ano,Não,Nunca,5.49,9.26,5.49
+1302,Otávio Dias,12,Masculino,7º Ano,Não,Nunca,8.21,9.45,7.83
+1303,Patrícia Martins,12,Feminino,7º Ano,Sim,mais de 1 ano,9.43,7.84,8.99
+1304,Patrícia Ramos,12,Feminino,7º Ano,Não,Nunca,8.44,8.95,6.55
+1305,Ana Queiroz,11,Feminino,6º Ano,Sim,Nunca,7.33,6.22,5.97
+1306,João Almeida,16,Masculino,6º Ano,Não,Nunca,6.97,5.98,6.54
+1307,Carla Júnior,15,Feminino,10º Ano,Não,Nunca,6.46,5.07,8.07
+1308,Fernando Silva,13,Masculino,8º Ano,Não,Nunca,5.28,6.01,7.22
+1309,Bruno Costa,13,Masculino,8º Ano,Não,Nunca,8.96,7.76,9.32
+1310,Patrícia Vieira,12,Feminino,7º Ano,Não,Nunca,9.54,6.33,6.69
+1311,Otávio Vieira,11,Masculino,6º Ano,Não,Nunca,8.78,5.48,8.16
+1312,Laura Pereira,15,Feminino,10º Ano,Não,Nunca,5.81,8.53,8.21
+1313,Bruno Silva,11,Masculino,6º Ano,Sim,Nunca,9.62,6.54,6.5
+1314,Laura Silva,17,Feminino,7º Ano,Sim,mais de 1 ano,9.18,8.81,6.94
+1315,Henrique Gomes,14,Masculino,9º Ano,Não,Nunca,7.54,9.55,8.6
+1316,Laura Teixeira,17,Feminino,7º Ano,Não,Nunca,9.38,7.83,9.92
+1317,Tiago Barbosa,8,Masculino,3º Ano,Não,Nunca,6.91,6.97,7.1
+1318,Bruno Oliveira,18,Masculino,8º Ano,Não,Nunca,5.37,9.33,9.1
+1319,Ana Barbosa,10,Feminino,5º Ano,Não,Nunca,6.97,5.13,6.92
+1320,Elisa Ramos,9,Feminino,4º Ano,Não,Nunca,6.7,5.31,9.57
+1321,Laura Zanetti,17,Feminino,7º Ano,Não,Nunca,8.98,9.23,6.66
+1322,Vivian Vieira,18,Feminino,8º Ano,Não,Nunca,8.82,9.33,7.82
+1323,Rafael Almeida,18,Masculino,8º Ano,Não,Nunca,9.9,5.31,6.64
+1324,Ana Zanetti,11,Feminino,6º Ano,Sim,Nunca,9.48,7.5,6.17
+1325,Otávio Vieira,18,Masculino,8º Ano,Não,Nunca,8.85,6.91,7.5
+1326,Natália Fernandes,6,Feminino,1º Ano,Sim,Nunca,8.65,7.29,8.1
+1327,Natália Henrique,9,Feminino,4º Ano,Não,Nunca,9.6,9.17,6.66
+1328,Gabriela Costa,10,Feminino,5º Ano,Sim,Nunca,8.43,8.54,7.39
+1329,Isabela Dias,17,Feminino,7º Ano,Não,Nunca,8.65,9.61,5.97
+1330,Patrícia Nogueira,7,Feminino,2º Ano,Não,Nunca,7.94,9.97,9.21
+1331,Isabela Teixeira,16,Feminino,6º Ano,Não,Nunca,6.2,5.45,8.82
+1332,Isabela Almeida,17,Feminino,7º Ano,Sim,mais de 1 ano,9.34,5.14,9.11
+1333,Patrícia Júnior,16,Feminino,6º Ano,Não,Nunca,9.84,5.11,8.12
+1334,Henrique Pereira,12,Masculino,7º Ano,Sim,Nunca,5.29,7.2,7.37
+1335,Laura Fernandes,15,Feminino,10º Ano,Não,Nunca,6.39,6.5,7.09
+1336,Gabriela Gomes,15,Feminino,10º Ano,Não,Nunca,6.8,7.2,5.05
+1337,Rafael Lima,12,Masculino,7º Ano,Não,Nunca,5.52,9.48,8.18
+1338,João Barbosa,18,Masculino,8º Ano,Não,Nunca,9.68,9.61,7.0
+1339,Vivian Teixeira,10,Feminino,5º Ano,Sim,Nunca,8.44,7.19,6.66
+1340,Elisa Fernandes,9,Feminino,4º Ano,Não,Nunca,6.72,6.44,8.32
+1341,Zeca Lima,15,Masculino,10º Ano,Sim,Nunca,9.67,6.91,6.67
+1342,Gabriela Zanetti,18,Feminino,8º Ano,Não,Nunca,5.55,8.22,7.3
+1343,Fernando Ramos,17,Masculino,7º Ano,Sim,mais de 1 ano,7.5,9.95,8.76
+1344,Gabriela Zanetti,13,Feminino,8º Ano,Não,Nunca,9.37,7.23,6.93
+1345,Marcos Queiroz,16,Masculino,6º Ano,Não,Nunca,8.27,7.46,8.65
+1346,Carla Oliveira,10,Feminino,5º Ano,Não,Nunca,8.65,6.13,7.47
+1347,Tiago Oliveira,9,Masculino,4º Ano,Não,Nunca,6.01,8.95,6.72
+1348,Otávio Zanetti,11,Masculino,6º Ano,Não,Nunca,8.78,9.4,8.67
+1349,Rafael Júnior,8,Masculino,3º Ano,Não,Nunca,7.64,6.18,8.26
+1350,Natália Ibarra,9,Feminino,4º Ano,Não,Nunca,8.89,7.81,6.6
+1351,Ana Nogueira,7,Feminino,2º Ano,Não,Nunca,6.42,6.69,5.77
+1352,Diego Ramos,7,Masculino,2º Ano,Não,Nunca,8.08,8.91,6.2
+1353,Tiago Pereira,9,Masculino,4º Ano,Não,Nunca,9.79,9.71,6.43
+1354,Tiago Queiroz,8,Masculino,3º Ano,Não,Nunca,7.81,6.66,9.01
+1355,Carla Pereira,9,Feminino,4º Ano,Não,Nunca,6.44,9.47,9.22
+1356,Isabela Ramos,6,Feminino,1º Ano,Não,Nunca,6.77,8.47,6.1
+1357,Sofia Barbosa,15,Feminino,10º Ano,Sim,mais de 1 ano,5.76,5.43,8.63
+1358,Marcos Dias,15,Masculino,10º Ano,Sim,mais de 1 ano,6.06,6.91,7.32
+1359,Marcos Teixeira,10,Masculino,5º Ano,Não,Nunca,7.19,5.45,5.67
+1360,Isabela Zanetti,14,Feminino,9º Ano,Sim,mais de 1 ano,7.82,9.61,7.97
+1361,Patrícia Teixeira,13,Feminino,8º Ano,Não,Nunca,7.21,6.81,9.05
+1362,Elisa Oliveira,9,Feminino,4º Ano,Não,Nunca,8.07,6.89,8.81
+1363,Patrícia Zanetti,6,Feminino,1º Ano,Sim,mais de 1 ano,8.07,8.04,9.99
+1364,João Silva,14,Masculino,9º Ano,Não,Nunca,9.75,8.4,6.35
+1365,Gabriela Queiroz,6,Feminino,1º Ano,Não,Nunca,6.13,6.67,5.37
+1366,Diego Teixeira,9,Masculino,4º Ano,Não,Nunca,7.58,6.15,9.77
+1367,Natália Júnior,15,Feminino,10º Ano,Não,Nunca,9.85,9.96,8.44
+1368,Otávio Vieira,6,Masculino,1º Ano,Sim,mais de 1 ano,6.48,9.93,6.16
+1369,Zeca Nogueira,17,Masculino,7º Ano,Não,Nunca,8.18,5.74,7.91
+1370,Isabela Martins,9,Feminino,4º Ano,Não,Nunca,5.07,8.44,9.7
+1371,Diego Júnior,18,Masculino,8º Ano,Não,Nunca,6.4,8.86,8.02
+1372,Gabriela Almeida,12,Feminino,7º Ano,Não,Nunca,8.25,8.78,5.32
+1373,João Martins,16,Masculino,6º Ano,Não,Nunca,6.72,7.58,6.02
+1374,Carla Ibarra,18,Feminino,8º Ano,Não,Nunca,7.92,9.6,5.85
+1375,Bruno Teixeira,6,Masculino,1º Ano,Não,Nunca,5.5,9.67,7.33
+1376,Tiago Costa,18,Masculino,8º Ano,Sim,mais de 1 ano,8.57,9.6,7.86
+1377,Diego Vieira,12,Masculino,7º Ano,Não,Nunca,9.76,9.77,7.9
+1378,Diego Martins,6,Masculino,1º Ano,Não,Nunca,5.49,7.34,7.99
+1379,Patrícia Pereira,13,Feminino,8º Ano,Não,Nunca,7.55,5.99,5.28
+1380,Sofia Ibarra,12,Feminino,7º Ano,Não,Nunca,9.93,6.98,7.6
+1381,Marcos Barbosa,17,Masculino,7º Ano,Não,Nunca,8.92,7.77,9.39
+1382,Carla Ramos,6,Feminino,1º Ano,Não,Nunca,9.29,6.87,8.07
+1383,Patrícia Ibarra,7,Feminino,2º Ano,Não,Nunca,9.55,8.09,6.7
+1384,Ana Zanetti,8,Feminino,3º Ano,Não,Nunca,8.92,6.92,8.63
+1385,Rafael Fernandes,17,Masculino,7º Ano,Não,Nunca,8.9,5.63,7.18
+1386,Laura Pereira,18,Feminino,8º Ano,Sim,mais de 1 ano,5.94,7.07,9.48
+1387,Marcos Barbosa,7,Masculino,2º Ano,Não,Nunca,7.09,6.52,7.28
+1388,Laura Costa,18,Feminino,8º Ano,Sim,mais de 1 ano,8.67,9.38,5.27
+1389,Diego Gomes,14,Masculino,9º Ano,Não,Nunca,7.04,8.55,7.77
+1390,Laura Queiroz,11,Feminino,6º Ano,Sim,Nunca,8.99,5.94,8.21
+1391,Laura Teixeira,12,Feminino,7º Ano,Não,Nunca,5.99,5.97,5.77
+1392,Otávio Ibarra,14,Masculino,9º Ano,Não,Nunca,5.3,7.37,5.08
+1393,Sofia Barbosa,17,Feminino,7º Ano,Não,Nunca,7.86,6.18,9.88
+1394,Gabriela Queiroz,11,Feminino,6º Ano,Não,Nunca,6.4,5.36,9.52
+1395,João Júnior,12,Masculino,7º Ano,Não,Nunca,9.94,8.7,9.76
+1396,Isabela Zanetti,6,Feminino,1º Ano,Sim,mais de 1 ano,6.5,6.17,8.95
+1397,João Teixeira,12,Masculino,7º Ano,Não,Nunca,9.94,5.03,7.98
+1398,Rafael Pereira,16,Masculino,6º Ano,Não,Nunca,9.44,9.36,9.19
+1399,João Silva,17,Masculino,7º Ano,Não,Nunca,6.11,5.61,9.65
+1400,Henrique Vieira,16,Masculino,6º Ano,Não,Nunca,6.39,7.61,8.78
+1401,Bruno Nogueira,8,Masculino,3º Ano,Sim,Nunca,9.34,7.19,6.11
+1402,Patrícia Fernandes,8,Feminino,3º Ano,Não,Nunca,9.2,8.75,9.74
+1403,Marcos Pereira,16,Masculino,6º Ano,Não,Nunca,6.38,5.66,8.4
+1404,Otávio Lima,9,Masculino,4º Ano,Não,Nunca,7.71,9.08,9.97
+1405,Tiago Costa,7,Masculino,2º Ano,Não,Nunca,7.16,6.78,7.56
+1406,Marcos Barbosa,12,Masculino,7º Ano,Não,Nunca,6.44,7.19,6.33
+1407,Marcos Vieira,8,Masculino,3º Ano,Sim,mais de 1 ano,9.41,7.59,8.17
+1408,Patrícia Pereira,15,Feminino,10º Ano,Não,Nunca,7.99,7.82,8.63
+1409,Sofia Gomes,14,Feminino,9º Ano,Não,Nunca,8.97,5.27,8.72
+1410,Tiago Dias,13,Masculino,8º Ano,Sim,mais de 1 ano,5.05,5.6,7.28
+1411,Zeca Silva,10,Masculino,5º Ano,Não,Nunca,6.79,6.7,6.12
+1412,Henrique Henrique,11,Masculino,6º Ano,Não,Nunca,9.13,5.29,7.95
+1413,Carla Almeida,13,Feminino,8º Ano,Não,Nunca,5.99,5.21,6.74
+1414,Sofia Lima,10,Feminino,5º Ano,Não,Nunca,8.91,6.3,8.66
+1415,Sofia Barbosa,7,Feminino,2º Ano,Não,Nunca,6.04,5.09,9.74
+1416,Elisa Costa,10,Feminino,5º Ano,Sim,Nunca,7.27,5.34,5.59
+1417,Tiago Lima,18,Masculino,8º Ano,Não,Nunca,8.39,7.0,6.45
+1418,Gabriela Gomes,8,Feminino,3º Ano,Não,Nunca,7.93,6.16,6.7
+1419,Isabela Júnior,11,Feminino,6º Ano,Sim,mais de 1 ano,9.71,5.16,5.38
+1420,Zeca Ibarra,16,Masculino,6º Ano,Não,Nunca,7.78,8.6,6.49
+1421,Gabriela Júnior,8,Feminino,3º Ano,Não,Nunca,6.12,9.16,7.88
+1422,Marcos Ibarra,14,Masculino,9º Ano,Não,Nunca,9.85,6.34,7.58
+1423,Tiago Teixeira,11,Masculino,6º Ano,Não,Nunca,5.81,9.37,5.66
+1424,João Lima,13,Masculino,8º Ano,Não,Nunca,5.18,9.89,8.07
+1425,Natália Fernandes,10,Feminino,5º Ano,Não,Nunca,5.34,9.23,9.22
+1426,Otávio Júnior,11,Masculino,6º Ano,Não,Nunca,6.4,6.66,8.75
+1427,Bruno Almeida,13,Masculino,8º Ano,Não,Nunca,8.28,5.93,8.85
+1428,Patrícia Costa,8,Feminino,3º Ano,Não,Nunca,6.92,8.59,7.07
+1429,Patrícia Oliveira,10,Feminino,5º Ano,Não,Nunca,7.42,6.73,7.33
+1430,Marcos Dias,13,Masculino,8º Ano,Sim,mais de 1 ano,9.74,7.38,9.21
+1431,Laura Martins,17,Feminino,7º Ano,Não,Nunca,9.29,7.2,9.35
+1432,Rafael Teixeira,18,Masculino,8º Ano,Não,Nunca,8.3,6.47,7.34
+1433,Diego Nogueira,18,Masculino,8º Ano,Não,Nunca,7.97,9.97,9.97
+1434,João Ibarra,11,Masculino,6º Ano,Não,Nunca,8.68,6.92,5.7
+1435,Henrique Zanetti,12,Masculino,7º Ano,Não,Nunca,5.37,7.76,9.32
+1436,Sofia Martins,7,Feminino,2º Ano,Não,Nunca,5.76,5.27,8.8
+1437,Henrique Henrique,7,Masculino,2º Ano,Não,Nunca,5.22,9.47,9.58
+1438,Tiago Costa,14,Masculino,9º Ano,Não,Nunca,5.97,6.7,9.69
+1439,Isabela Fernandes,13,Feminino,8º Ano,Não,Nunca,7.64,8.7,9.55
+1440,Fernando Almeida,15,Masculino,10º Ano,Não,Nunca,7.5,5.88,7.44
+1441,Diego Ramos,18,Masculino,8º Ano,Sim,mais de 1 ano,5.22,6.92,9.8
+1442,Zeca Júnior,12,Masculino,7º Ano,Sim,Nunca,6.07,9.99,7.65
+1443,Isabela Dias,7,Feminino,2º Ano,Não,Nunca,8.9,7.49,7.92
+1444,Laura Zanetti,11,Feminino,6º Ano,Não,Nunca,6.37,8.38,7.71
+1445,Tiago Oliveira,8,Masculino,3º Ano,Não,Nunca,7.24,9.22,8.64
+1446,Isabela Barbosa,17,Feminino,7º Ano,Sim,mais de 1 ano,9.53,6.12,6.88
+1447,Fernando Martins,18,Masculino,8º Ano,Não,Nunca,8.03,8.05,6.0
+1448,Otávio Júnior,9,Masculino,4º Ano,Sim,Nunca,6.15,7.94,9.64
+1449,Diego Júnior,15,Masculino,10º Ano,Não,Nunca,6.86,5.5,8.11
+1450,Natália Barbosa,17,Feminino,7º Ano,Não,Nunca,6.87,5.51,8.95
+1451,Tiago Barbosa,11,Masculino,6º Ano,Não,Nunca,5.0,7.21,6.5
+1452,Vivian Zanetti,17,Feminino,7º Ano,Sim,mais de 1 ano,7.06,6.89,7.07
+1453,Isabela Teixeira,10,Feminino,5º Ano,Não,Nunca,8.37,7.39,5.42
+1454,Natália Pereira,13,Feminino,8º Ano,Não,Nunca,5.87,8.06,6.08
+1455,Laura Costa,12,Feminino,7º Ano,Não,Nunca,9.06,5.69,9.33
+1456,Rafael Costa,12,Masculino,7º Ano,Não,Nunca,9.25,5.56,9.01
+1457,Laura Dias,13,Feminino,8º Ano,Não,Nunca,9.96,7.5,5.25
+1458,João Almeida,11,Masculino,6º Ano,Não,Nunca,9.0,9.41,6.43
+1459,Laura Dias,13,Feminino,8º Ano,Não,Nunca,8.0,8.92,5.97
+1460,Sofia Lima,17,Feminino,7º Ano,Não,Nunca,5.86,8.9,5.63
+1461,Henrique Ramos,16,Masculino,6º Ano,Não,Nunca,7.45,7.35,6.58
+1462,Marcos Martins,17,Masculino,7º Ano,Não,Nunca,9.63,5.07,5.23
+1463,Carla Pereira,11,Feminino,6º Ano,Não,Nunca,8.6,5.13,7.32
+1464,Tiago Pereira,6,Masculino,1º Ano,Sim,mais de 1 ano,9.9,8.06,9.09
+1465,Henrique Pereira,11,Masculino,6º Ano,Não,Nunca,5.77,8.14,8.79
+1466,Diego Silva,18,Masculino,8º Ano,Não,Nunca,7.7,8.92,8.16
+1467,Isabela Lima,16,Feminino,6º Ano,Não,Nunca,7.35,8.12,7.02
+1468,Laura Vieira,11,Feminino,6º Ano,Sim,Nunca,6.59,8.24,5.51
+1469,Elisa Barbosa,15,Feminino,10º Ano,Não,Nunca,6.9,6.94,9.59
+1470,Carla Vieira,6,Feminino,1º Ano,Não,Nunca,9.24,9.59,9.22
+1471,Natália Martins,13,Feminino,8º Ano,Não,Nunca,5.56,7.21,6.99
+1472,Bruno Martins,12,Masculino,7º Ano,Não,Nunca,6.07,8.64,8.95
+1473,Tiago Gomes,7,Masculino,2º Ano,Não,Nunca,7.75,8.69,8.12
+1474,Otávio Queiroz,16,Masculino,6º Ano,Não,Nunca,5.85,5.22,5.67
+1475,Marcos Dias,16,Masculino,6º Ano,Não,Nunca,7.82,7.88,8.45
+1476,Carla Ibarra,14,Feminino,9º Ano,Não,Nunca,9.15,8.64,9.4
+1477,Isabela Zanetti,18,Feminino,8º Ano,Não,Nunca,6.05,6.92,6.97
+1478,Bruno Martins,9,Masculino,4º Ano,Não,Nunca,7.78,6.77,8.03
+1479,Bruno Nogueira,17,Masculino,7º Ano,Não,Nunca,6.2,9.91,9.95
+1480,Marcos Gomes,11,Masculino,6º Ano,Não,Nunca,8.89,9.87,9.38
+1481,Diego Ramos,9,Masculino,4º Ano,Não,Nunca,5.64,7.1,8.22
+1482,Laura Ramos,17,Feminino,7º Ano,Não,Nunca,8.98,6.64,5.79
+1483,Gabriela Vieira,16,Feminino,6º Ano,Não,Nunca,7.08,8.53,8.4
+1484,Elisa Júnior,18,Feminino,8º Ano,Não,Nunca,6.67,5.49,6.26
+1485,Otávio Ibarra,13,Masculino,8º Ano,Sim,Nunca,7.73,5.54,6.79
+1486,João Ramos,11,Masculino,6º Ano,Não,Nunca,9.74,6.61,7.9
+1487,Elisa Fernandes,7,Feminino,2º Ano,Não,Nunca,7.9,5.54,5.45
+1488,Zeca Costa,16,Masculino,6º Ano,Não,Nunca,9.09,8.25,6.54
+1489,Zeca Lima,9,Masculino,4º Ano,Não,Nunca,8.09,7.13,6.7
+1490,Diego Teixeira,12,Masculino,7º Ano,Não,Nunca,9.68,8.96,6.27
+1491,Natália Almeida,8,Feminino,3º Ano,Sim,Nunca,9.97,5.9,5.05
+1492,Bruno Almeida,8,Masculino,3º Ano,Não,Nunca,8.5,5.56,5.01
+1493,Elisa Pereira,14,Feminino,9º Ano,Não,Nunca,7.69,6.96,9.27
+1494,Sofia Barbosa,14,Feminino,9º Ano,Não,Nunca,9.56,8.76,5.03
+1495,Patrícia Queiroz,8,Feminino,3º Ano,Não,Nunca,8.64,7.42,5.98
+1496,Diego Oliveira,9,Masculino,4º Ano,Não,Nunca,6.46,9.46,5.31
+1497,Patrícia Costa,7,Feminino,2º Ano,Não,Nunca,6.42,6.08,7.94
+1498,Marcos Teixeira,9,Masculino,4º Ano,Não,Nunca,7.48,8.2,6.62
+1499,Fernando Zanetti,8,Masculino,3º Ano,Não,Nunca,8.66,7.66,6.58
+1500,Otávio Queiroz,17,Masculino,7º Ano,Não,Nunca,7.34,8.11,7.0
+1501,Henrique Nogueira,12,Masculino,7º Ano,Não,Nunca,7.69,9.03,8.9
+1502,Otávio Vieira,13,Masculino,8º Ano,Não,Nunca,5.81,6.82,8.16
+1503,Zeca Pereira,16,Masculino,6º Ano,Não,Nunca,5.98,5.59,6.6
+1504,Ana Barbosa,11,Feminino,6º Ano,Sim,mais de 1 ano,7.85,9.24,5.61
+1505,Elisa Ramos,12,Feminino,7º Ano,Sim,mais de 1 ano,5.41,5.88,9.28
+1506,Isabela Queiroz,13,Feminino,8º Ano,Não,Nunca,8.7,6.53,6.05
+1507,Gabriela Henrique,13,Feminino,8º Ano,Não,Nunca,6.03,7.82,7.32
+1508,Laura Almeida,8,Feminino,3º Ano,Não,Nunca,6.91,5.76,8.36
+1509,Ana Henrique,18,Feminino,8º Ano,Não,Nunca,6.2,5.89,5.11
+1510,Elisa Almeida,17,Feminino,7º Ano,Não,Nunca,8.89,7.24,9.19
+1511,Patrícia Lima,9,Feminino,4º Ano,Não,Nunca,9.17,8.59,8.59
+1512,Patrícia Almeida,7,Feminino,2º Ano,Não,Nunca,6.52,8.92,7.71
+1513,Tiago Júnior,13,Masculino,8º Ano,Não,Nunca,5.32,7.39,7.84
+1514,Henrique Lima,17,Masculino,7º Ano,Sim,mais de 1 ano,9.86,6.09,9.78
+1515,Carla Martins,9,Feminino,4º Ano,Não,Nunca,7.79,9.55,9.55
+1516,João Dias,14,Masculino,9º Ano,Não,Nunca,6.05,9.99,7.75
+1517,Ana Júnior,18,Feminino,8º Ano,Não,Nunca,5.8,7.64,8.37
+1518,Bruno Oliveira,9,Masculino,4º Ano,Sim,mais de 1 ano,9.7,6.7,6.37
+1519,Rafael Lima,6,Masculino,1º Ano,Sim,mais de 1 ano,7.65,5.19,9.58
+1520,Tiago Ramos,11,Masculino,6º Ano,Não,Nunca,6.33,8.5,9.87
+1521,Elisa Lima,8,Feminino,3º Ano,Não,Nunca,9.15,8.92,9.64
+1522,João Almeida,17,Masculino,7º Ano,Não,Nunca,8.83,6.27,8.69
+1523,Otávio Silva,13,Masculino,8º Ano,Não,Nunca,8.6,5.43,6.24
+1524,Laura Silva,6,Feminino,1º Ano,Não,Nunca,8.35,7.59,5.99
+1525,Zeca Zanetti,16,Masculino,6º Ano,Não,Nunca,9.36,9.32,5.77
+1526,Diego Ramos,8,Masculino,3º Ano,Não,Nunca,8.86,9.32,6.22
+1527,Fernando Gomes,13,Masculino,8º Ano,Não,Nunca,7.59,9.42,5.97
+1528,Isabela Zanetti,13,Feminino,8º Ano,Não,Nunca,5.93,9.15,6.54
+1529,Sofia Silva,14,Feminino,9º Ano,Não,Nunca,5.27,7.71,8.42
+1530,Marcos Pereira,7,Masculino,2º Ano,Não,Nunca,5.78,9.53,9.65
+1531,Otávio Costa,8,Masculino,3º Ano,Sim,mais de 1 ano,9.33,7.68,9.81
+1532,Tiago Silva,18,Masculino,8º Ano,Não,Nunca,5.21,8.51,8.34
+1533,Sofia Nogueira,9,Feminino,4º Ano,Não,Nunca,5.92,8.28,9.09
+1534,Carla Pereira,18,Feminino,8º Ano,Não,Nunca,7.38,7.03,7.54
+1535,Patrícia Lima,12,Feminino,7º Ano,Sim,Nunca,7.55,6.6,9.45
+1536,Elisa Barbosa,15,Feminino,10º Ano,Sim,mais de 1 ano,5.84,8.44,9.64
+1537,Marcos Silva,16,Masculino,6º Ano,Não,Nunca,9.7,5.23,9.48
+1538,Gabriela Silva,18,Feminino,8º Ano,Não,Nunca,5.05,8.86,6.39
+1539,Marcos Oliveira,14,Masculino,9º Ano,Não,Nunca,8.05,7.08,9.08
+1540,Isabela Dias,16,Feminino,6º Ano,Não,Nunca,8.85,6.62,7.97
+1541,Sofia Almeida,13,Feminino,8º Ano,Não,Nunca,9.08,8.25,7.96
+1542,Isabela Lima,8,Feminino,3º Ano,Não,Nunca,7.04,5.4,9.05
+1543,Fernando Oliveira,16,Masculino,6º Ano,Não,Nunca,6.41,6.56,6.66
+1544,Natália Fernandes,6,Feminino,1º Ano,Não,Nunca,6.4,7.7,9.51
+1545,Bruno Oliveira,10,Masculino,5º Ano,Sim,Nunca,8.86,9.36,7.98
+1546,Fernando Ramos,7,Masculino,2º Ano,Não,Nunca,8.64,9.4,8.2
+1547,Otávio Henrique,7,Masculino,2º Ano,Não,Nunca,9.4,8.82,5.52
+1548,Zeca Lima,10,Masculino,5º Ano,Não,Nunca,7.72,6.7,7.52
+1549,Elisa Henrique,14,Feminino,9º Ano,Não,Nunca,6.36,9.09,8.97
+1550,Natália Silva,17,Feminino,7º Ano,Não,Nunca,9.4,9.15,8.11
+1551,Fernando Oliveira,11,Masculino,6º Ano,Não,Nunca,8.53,6.19,6.92
+1552,Isabela Nogueira,18,Feminino,8º Ano,Sim,mais de 1 ano,7.69,8.74,9.02
+1553,Laura Zanetti,13,Feminino,8º Ano,Não,Nunca,7.02,5.98,6.13
+1554,Zeca Ibarra,6,Masculino,1º Ano,Não,Nunca,9.09,8.77,6.09
+1555,Marcos Gomes,16,Masculino,6º Ano,Não,Nunca,6.45,8.7,8.03
+1556,Natália Henrique,17,Feminino,7º Ano,Não,Nunca,9.8,6.83,9.03
+1557,Isabela Gomes,7,Feminino,2º Ano,Não,Nunca,9.25,5.92,9.44
+1558,Gabriela Vieira,16,Feminino,6º Ano,Não,Nunca,9.2,5.65,6.8
+1559,Zeca Fernandes,16,Masculino,6º Ano,Sim,mais de 1 ano,8.39,5.22,5.22
+1560,Laura Gomes,8,Feminino,3º Ano,Não,Nunca,9.22,6.23,8.34
+1561,Sofia Queiroz,11,Feminino,6º Ano,Não,Nunca,8.77,8.99,6.71
+1562,Vivian Henrique,12,Feminino,7º Ano,Sim,mais de 1 ano,8.74,8.33,5.65
+1563,Zeca Queiroz,8,Masculino,3º Ano,Não,Nunca,6.59,8.61,8.13
+1564,Isabela Ramos,10,Feminino,5º Ano,Sim,mais de 1 ano,8.54,9.39,5.93
+1565,Ana Dias,13,Feminino,8º Ano,Não,Nunca,6.22,9.39,8.92
+1566,Ana Teixeira,9,Feminino,4º Ano,Não,Nunca,5.24,5.63,7.74
+1567,Isabela Martins,17,Feminino,7º Ano,Não,Nunca,6.49,5.34,5.31
+1568,Marcos Ramos,11,Masculino,6º Ano,Não,Nunca,5.07,5.39,5.75
+1569,Gabriela Pereira,17,Feminino,7º Ano,Não,Nunca,8.67,8.6,9.47
+1570,Sofia Henrique,17,Feminino,7º Ano,Sim,mais de 1 ano,6.65,7.52,8.62
+1571,Sofia Zanetti,8,Feminino,3º Ano,Não,Nunca,5.63,7.13,8.67
+1572,Vivian Teixeira,12,Feminino,7º Ano,Não,Nunca,6.45,5.34,8.81
+1573,Fernando Zanetti,16,Masculino,6º Ano,Não,Nunca,5.33,5.15,7.84
+1574,Ana Pereira,8,Feminino,3º Ano,Não,Nunca,6.89,6.74,9.93
+1575,João Fernandes,14,Masculino,9º Ano,Não,Nunca,5.92,8.51,9.09
+1576,Isabela Silva,10,Feminino,5º Ano,Não,Nunca,7.17,5.31,8.95
+1577,Elisa Vieira,15,Feminino,10º Ano,Não,Nunca,7.45,9.52,8.28
+1578,Natália Ibarra,17,Feminino,7º Ano,Não,Nunca,6.17,9.6,7.34
+1579,Gabriela Henrique,8,Feminino,3º Ano,Sim,mais de 1 ano,8.12,9.6,6.0
+1580,Tiago Júnior,11,Masculino,6º Ano,Não,Nunca,7.32,8.33,8.33
+1581,Gabriela Nogueira,18,Feminino,8º Ano,Não,Nunca,6.09,5.23,7.86
+1582,Carla Queiroz,16,Feminino,6º Ano,Sim,mais de 1 ano,5.45,5.06,8.77
+1583,Henrique Ibarra,14,Masculino,9º Ano,Não,Nunca,8.17,8.75,8.75
+1584,Fernando Fernandes,7,Masculino,2º Ano,Não,Nunca,9.45,5.53,7.92
+1585,Carla Almeida,7,Feminino,2º Ano,Não,Nunca,8.6,8.45,7.55
+1586,Bruno Almeida,13,Masculino,8º Ano,Não,Nunca,9.74,5.53,7.98
+1587,Elisa Oliveira,12,Feminino,7º Ano,Sim,Nunca,6.82,9.67,9.39
+1588,Otávio Fernandes,12,Masculino,7º Ano,Não,Nunca,7.36,5.49,7.33
+1589,Sofia Costa,13,Feminino,8º Ano,Não,Nunca,8.34,5.51,5.66
+1590,Rafael Gomes,13,Masculino,8º Ano,Não,Nunca,5.87,7.4,7.5
+1591,Diego Fernandes,11,Masculino,6º Ano,Não,Nunca,6.67,8.42,6.88
+1592,Isabela Silva,6,Feminino,1º Ano,Não,Nunca,5.48,7.12,5.17
+1593,Diego Zanetti,6,Masculino,1º Ano,Sim,mais de 1 ano,6.08,7.47,5.08
+1594,João Vieira,10,Masculino,5º Ano,Sim,Nunca,8.73,5.07,7.97
+1595,Bruno Costa,10,Masculino,5º Ano,Sim,mais de 1 ano,9.62,8.16,9.97
+1596,Elisa Ramos,8,Feminino,3º Ano,Sim,Nunca,6.46,9.14,9.76
+1597,Tiago Barbosa,9,Masculino,4º Ano,Não,Nunca,9.92,5.05,6.49
+1598,Isabela Fernandes,10,Feminino,5º Ano,Não,Nunca,6.92,6.86,7.21
+1599,Natália Queiroz,6,Feminino,1º Ano,Não,Nunca,5.28,6.21,9.86
+1600,Zeca Júnior,10,Masculino,5º Ano,Não,Nunca,9.03,8.84,7.46
+1601,Elisa Costa,6,Feminino,1º Ano,Sim,Nunca,9.53,7.92,6.58
+1602,Patrícia Costa,17,Feminino,7º Ano,Sim,mais de 1 ano,7.7,7.72,5.99
+1603,Ana Nogueira,11,Feminino,6º Ano,Não,Nunca,7.2,9.38,8.83
+1604,Rafael Fernandes,18,Masculino,8º Ano,Não,Nunca,5.97,8.42,5.09
+1605,Ana Lima,10,Feminino,5º Ano,Não,Nunca,7.66,6.24,8.89
+1606,Otávio Ibarra,8,Masculino,3º Ano,Não,Nunca,7.15,8.39,6.5
+1607,Gabriela Queiroz,12,Feminino,7º Ano,Não,Nunca,7.24,7.33,5.99
+1608,Zeca Pereira,10,Masculino,5º Ano,Não,Nunca,5.85,9.51,8.31
+1609,Sofia Barbosa,14,Feminino,9º Ano,Não,Nunca,9.05,7.41,6.75
+1610,João Henrique,8,Masculino,3º Ano,Não,Nunca,8.52,9.4,5.03
+1611,Fernando Gomes,17,Masculino,7º Ano,Não,Nunca,9.62,6.34,5.17
+1612,Tiago Lima,11,Masculino,6º Ano,Sim,Nunca,6.92,7.95,9.48
+1613,Tiago Ramos,16,Masculino,6º Ano,Não,Nunca,7.13,5.19,8.23
+1614,João Lima,13,Masculino,8º Ano,Não,Nunca,6.34,9.96,9.09
+1615,Vivian Henrique,12,Feminino,7º Ano,Não,Nunca,5.24,8.92,7.97
+1616,Vivian Queiroz,16,Feminino,6º Ano,Não,Nunca,7.78,6.61,5.33
+1617,Fernando Almeida,13,Masculino,8º Ano,Não,Nunca,8.89,5.81,7.17
+1618,Diego Henrique,8,Masculino,3º Ano,Não,Nunca,5.16,8.9,7.94
+1619,Marcos Queiroz,12,Masculino,7º Ano,Não,Nunca,5.86,9.49,5.15
+1620,Vivian Fernandes,7,Feminino,2º Ano,Sim,mais de 1 ano,9.01,7.69,8.15
+1621,Henrique Júnior,10,Masculino,5º Ano,Não,Nunca,6.32,9.3,6.89
+1622,Henrique Zanetti,14,Masculino,9º Ano,Não,Nunca,6.37,9.77,6.42
+1623,João Pereira,7,Masculino,2º Ano,Não,Nunca,9.45,9.56,5.88
+1624,Sofia Ibarra,8,Feminino,3º Ano,Sim,Nunca,7.19,7.05,9.64
+1625,Fernando Gomes,12,Masculino,7º Ano,Não,Nunca,6.55,9.99,5.15
+1626,Zeca Silva,13,Masculino,8º Ano,Não,Nunca,8.85,9.76,5.27
+1627,Bruno Silva,12,Masculino,7º Ano,Sim,mais de 1 ano,7.46,6.45,8.09
+1628,Bruno Ramos,16,Masculino,6º Ano,Não,Nunca,6.07,9.54,9.09
+1629,Henrique Almeida,7,Masculino,2º Ano,Sim,mais de 1 ano,6.93,9.15,5.41
+1630,Otávio Teixeira,12,Masculino,7º Ano,Não,Nunca,6.98,8.95,7.63
+1631,Bruno Vieira,14,Masculino,9º Ano,Sim,mais de 1 ano,6.15,9.29,7.93
+1632,Carla Almeida,11,Feminino,6º Ano,Não,Nunca,9.88,7.65,6.75
+1633,João Ibarra,16,Masculino,6º Ano,Não,Nunca,7.6,8.98,8.03
+1634,Bruno Ramos,15,Masculino,10º Ano,Não,Nunca,7.2,6.48,6.55
+1635,Gabriela Dias,8,Feminino,3º Ano,Não,Nunca,7.87,9.49,9.23
+1636,Isabela Barbosa,9,Feminino,4º Ano,Não,Nunca,5.56,6.31,6.8
+1637,Fernando Júnior,14,Masculino,9º Ano,Não,Nunca,6.29,5.77,7.03
+1638,Marcos Teixeira,18,Masculino,8º Ano,Sim,Nunca,6.89,7.54,8.82
+1639,Elisa Ibarra,17,Feminino,7º Ano,Não,Nunca,7.63,8.51,9.21
+1640,Tiago Lima,17,Masculino,7º Ano,Não,Nunca,9.75,7.54,7.64
+1641,Rafael Ramos,7,Masculino,2º Ano,Não,Nunca,9.76,7.14,6.03
+1642,Ana Gomes,8,Feminino,3º Ano,Não,Nunca,6.11,5.21,8.82
+1643,João Dias,16,Masculino,6º Ano,Não,Nunca,7.38,7.89,9.07
+1644,Otávio Fernandes,9,Masculino,4º Ano,Sim,mais de 1 ano,7.76,7.53,5.82
+1645,Henrique Queiroz,7,Masculino,2º Ano,Não,Nunca,8.13,5.61,5.87
+1646,Gabriela Barbosa,7,Feminino,2º Ano,Não,Nunca,7.58,9.34,7.67
+1647,Natália Silva,14,Feminino,9º Ano,Não,Nunca,7.59,7.88,7.92
+1648,Henrique Silva,12,Masculino,7º Ano,Não,Nunca,8.25,6.8,6.72
+1649,Ana Martins,9,Feminino,4º Ano,Sim,Nunca,6.73,6.95,6.88
+1650,Isabela Barbosa,9,Feminino,4º Ano,Não,Nunca,8.58,8.61,9.6
+1651,Isabela Martins,8,Feminino,3º Ano,Sim,mais de 1 ano,5.45,9.15,6.56
+1652,Rafael Pereira,11,Masculino,6º Ano,Sim,mais de 1 ano,6.45,9.56,9.88
+1653,Diego Barbosa,16,Masculino,6º Ano,Não,Nunca,9.26,5.59,7.04
+1654,Isabela Ramos,7,Feminino,2º Ano,Não,Nunca,9.51,7.16,6.99
+1655,Ana Barbosa,16,Feminino,6º Ano,Não,Nunca,9.86,9.4,8.38
+1656,Marcos Barbosa,14,Masculino,9º Ano,Sim,mais de 1 ano,5.48,6.14,9.31
+1657,João Lima,8,Masculino,3º Ano,Não,Nunca,5.76,8.69,7.62
+1658,Isabela Queiroz,17,Feminino,7º Ano,Não,Nunca,5.12,7.48,5.93
+1659,Isabela Pereira,7,Feminino,2º Ano,Não,Nunca,8.56,8.94,9.91
+1660,Gabriela Lima,7,Feminino,2º Ano,Sim,Nunca,7.73,6.56,7.81
+1661,Ana Queiroz,8,Feminino,3º Ano,Não,Nunca,7.11,6.02,6.96
+1662,Bruno Costa,13,Masculino,8º Ano,Não,Nunca,7.11,6.29,6.39
+1663,Henrique Fernandes,11,Masculino,6º Ano,Sim,Nunca,5.67,9.9,6.36
+1664,Patrícia Silva,6,Feminino,1º Ano,Não,Nunca,7.82,8.29,7.86
+1665,João Ibarra,13,Masculino,8º Ano,Não,Nunca,8.22,7.97,5.43
+1666,Fernando Júnior,11,Masculino,6º Ano,Não,Nunca,5.76,9.25,9.18
+1667,Isabela Pereira,16,Feminino,6º Ano,Não,Nunca,5.15,5.67,9.85
+1668,Zeca Pereira,10,Masculino,5º Ano,Não,Nunca,6.35,8.99,7.19
+1669,Tiago Vieira,11,Masculino,6º Ano,Não,Nunca,9.47,6.11,5.73
+1670,Ana Nogueira,18,Feminino,8º Ano,Não,Nunca,7.54,6.47,5.8
+1671,Vivian Nogueira,17,Feminino,7º Ano,Não,Nunca,9.92,6.73,7.59
+1672,Rafael Gomes,12,Masculino,7º Ano,Não,Nunca,8.61,5.35,8.43
+1673,Vivian Teixeira,15,Feminino,10º Ano,Não,Nunca,9.87,8.16,9.78
+1674,Rafael Ramos,17,Masculino,7º Ano,Não,Nunca,8.29,9.82,6.59
+1675,Diego Pereira,8,Masculino,3º Ano,Sim,mais de 1 ano,9.88,9.11,8.96
+1676,Henrique Costa,17,Masculino,7º Ano,Sim,mais de 1 ano,9.73,5.04,7.78
+1677,Ana Costa,18,Feminino,8º Ano,Não,Nunca,7.3,8.5,5.28
+1678,Zeca Queiroz,9,Masculino,4º Ano,Sim,mais de 1 ano,5.93,8.43,9.04
+1679,Vivian Vieira,14,Feminino,9º Ano,Não,Nunca,9.72,8.56,5.83
+1680,Zeca Gomes,6,Masculino,1º Ano,Não,Nunca,5.11,9.1,8.81
+1681,Elisa Barbosa,12,Feminino,7º Ano,Não,Nunca,9.4,9.22,7.22
+1682,Tiago Ramos,13,Masculino,8º Ano,Sim,mais de 1 ano,7.5,6.8,7.39
+1683,Laura Ramos,9,Feminino,4º Ano,Não,Nunca,5.18,7.32,6.7
+1684,Henrique Gomes,6,Masculino,1º Ano,Não,Nunca,5.49,5.68,6.34
+1685,Bruno Vieira,17,Masculino,7º Ano,Não,Nunca,7.51,9.47,5.43
+1686,Ana Gomes,7,Feminino,2º Ano,Não,Nunca,7.3,7.27,6.18
+1687,Otávio Henrique,7,Masculino,2º Ano,Não,Nunca,7.12,6.12,6.15
+1688,Carla Vieira,12,Feminino,7º Ano,Sim,Nunca,9.45,7.41,8.39
+1689,Sofia Júnior,9,Feminino,4º Ano,Não,Nunca,9.5,7.96,9.01
+1690,Ana Dias,12,Feminino,7º Ano,Sim,mais de 1 ano,5.24,7.59,7.87
+1691,Carla Júnior,16,Feminino,6º Ano,Não,Nunca,7.79,9.8,6.23
+1692,Rafael Oliveira,15,Masculino,10º Ano,Sim,mais de 1 ano,7.18,8.89,8.84
+1693,Marcos Costa,9,Masculino,4º Ano,Não,Nunca,8.3,5.5,6.39
+1694,Gabriela Henrique,10,Feminino,5º Ano,Não,Nunca,8.68,5.05,7.75
+1695,Isabela Martins,12,Feminino,7º Ano,Não,Nunca,8.65,8.76,8.92
+1696,Carla Costa,17,Feminino,7º Ano,Não,Nunca,7.18,6.26,9.03
+1697,Elisa Costa,13,Feminino,8º Ano,Não,Nunca,7.48,5.63,9.92
+1698,Laura Gomes,13,Feminino,8º Ano,Não,Nunca,6.52,7.15,5.56
+1699,Natália Queiroz,9,Feminino,4º Ano,Não,Nunca,9.13,6.58,5.8
+1700,Rafael Lima,6,Masculino,1º Ano,Não,Nunca,6.22,5.93,8.41
+1701,Isabela Júnior,18,Feminino,8º Ano,Não,Nunca,7.19,7.51,6.26
+1702,Carla Queiroz,18,Feminino,8º Ano,Sim,Nunca,9.63,5.21,6.74
+1703,Isabela Júnior,15,Feminino,10º Ano,Não,Nunca,8.11,9.15,9.24
+1704,Rafael Martins,11,Masculino,6º Ano,Não,Nunca,6.58,6.33,7.88
+1705,Vivian Almeida,10,Feminino,5º Ano,Não,Nunca,5.79,6.64,8.28
+1706,Carla Júnior,6,Feminino,1º Ano,Não,Nunca,5.3,6.9,9.95
+1707,Ana Ramos,12,Feminino,7º Ano,Não,Nunca,9.16,5.34,8.77
+1708,Patrícia Dias,14,Feminino,9º Ano,Não,Nunca,9.27,9.82,7.96
+1709,Zeca Henrique,10,Masculino,5º Ano,Não,Nunca,5.31,8.1,9.26
+1710,Rafael Silva,7,Masculino,2º Ano,Sim,mais de 1 ano,7.68,7.17,9.31
+1711,Laura Silva,10,Feminino,5º Ano,Não,Nunca,8.1,9.58,8.97
+1712,Patrícia Dias,16,Feminino,6º Ano,Não,Nunca,5.11,6.08,8.21
+1713,Zeca Oliveira,11,Masculino,6º Ano,Sim,Nunca,8.54,6.22,6.03
+1714,Natália Dias,17,Feminino,7º Ano,Não,Nunca,6.99,7.94,5.93
+1715,Patrícia Barbosa,7,Feminino,2º Ano,Não,Nunca,9.7,9.58,5.0
+1716,Zeca Vieira,15,Masculino,10º Ano,Não,Nunca,6.3,8.85,8.96
+1717,Fernando Lima,14,Masculino,9º Ano,Não,Nunca,7.92,9.88,8.65
+1718,Elisa Almeida,8,Feminino,3º Ano,Não,Nunca,5.89,7.67,6.91
+1719,Laura Lima,12,Feminino,7º Ano,Sim,mais de 1 ano,6.57,6.17,8.25
+1720,Bruno Almeida,16,Masculino,6º Ano,Não,Nunca,5.85,8.11,6.49
+1721,Isabela Dias,6,Feminino,1º Ano,Não,Nunca,9.87,7.75,8.56
+1722,Rafael Zanetti,18,Masculino,8º Ano,Não,Nunca,8.19,5.9,5.27
+1723,Ana Ramos,8,Feminino,3º Ano,Não,Nunca,7.79,9.04,9.88
+1724,Henrique Costa,14,Masculino,9º Ano,Não,Nunca,5.06,8.83,6.93
+1725,Henrique Ibarra,16,Masculino,6º Ano,Não,Nunca,6.79,7.24,5.61
+1726,Rafael Dias,9,Masculino,4º Ano,Não,Nunca,8.44,7.5,6.15
+1727,Natália Dias,15,Feminino,10º Ano,Não,Nunca,6.25,8.69,9.71
+1728,Gabriela Zanetti,9,Feminino,4º Ano,Não,Nunca,9.78,5.76,8.6
+1729,Rafael Queiroz,14,Masculino,9º Ano,Não,Nunca,5.25,8.14,8.55
+1730,Gabriela Barbosa,12,Feminino,7º Ano,Sim,mais de 1 ano,6.93,7.51,8.34
+1731,Elisa Costa,16,Feminino,6º Ano,Não,Nunca,5.12,9.61,5.64
+1732,Sofia Fernandes,18,Feminino,8º Ano,Não,Nunca,8.45,7.86,8.07
+1733,Vivian Costa,11,Feminino,6º Ano,Não,Nunca,7.5,5.05,6.11
+1734,Vivian Almeida,9,Feminino,4º Ano,Não,Nunca,6.28,6.43,7.84
+1735,João Almeida,17,Masculino,7º Ano,Não,Nunca,7.78,9.8,9.13
+1736,Rafael Silva,16,Masculino,6º Ano,Não,Nunca,6.8,5.69,8.55
+1737,Marcos Lima,6,Masculino,1º Ano,Sim,mais de 1 ano,8.91,9.97,7.76
+1738,Fernando Dias,16,Masculino,6º Ano,Não,Nunca,8.56,5.1,8.26
+1739,Tiago Dias,7,Masculino,2º Ano,Não,Nunca,6.77,9.35,5.72
+1740,Vivian Nogueira,10,Feminino,5º Ano,Não,Nunca,8.69,9.29,7.24
+1741,Carla Nogueira,18,Feminino,8º Ano,Sim,Nunca,8.07,7.87,7.09
+1742,Patrícia Fernandes,12,Feminino,7º Ano,Não,Nunca,8.31,6.43,7.39
+1743,Natália Zanetti,15,Feminino,10º Ano,Não,Nunca,8.87,5.26,7.25
+1744,Tiago Barbosa,17,Masculino,7º Ano,Sim,mais de 1 ano,5.6,9.34,5.26
+1745,Zeca Ibarra,18,Masculino,8º Ano,Não,Nunca,7.75,7.78,8.14
+1746,Fernando Lima,11,Masculino,6º Ano,Não,Nunca,6.56,8.86,6.73
+1747,Tiago Pereira,8,Masculino,3º Ano,Não,Nunca,6.25,5.79,5.81
+1748,Natália Gomes,7,Feminino,2º Ano,Não,Nunca,5.09,7.77,6.89
+1749,Henrique Vieira,6,Masculino,1º Ano,Não,Nunca,8.05,6.87,5.89
+1750,Patrícia Oliveira,15,Feminino,10º Ano,Não,Nunca,8.48,6.45,5.46
+1751,Diego Lima,14,Masculino,9º Ano,Não,Nunca,8.84,7.02,7.95
+1752,Zeca Ramos,7,Masculino,2º Ano,Não,Nunca,5.03,7.09,5.04
+1753,Isabela Fernandes,7,Feminino,2º Ano,Não,Nunca,7.63,6.25,8.98
+1754,Isabela Almeida,11,Feminino,6º Ano,Não,Nunca,5.24,7.88,8.48
+1755,Ana Teixeira,13,Feminino,8º Ano,Não,Nunca,8.01,8.68,9.48
+1756,Elisa Vieira,17,Feminino,7º Ano,Não,Nunca,6.5,8.54,8.39
+1757,Rafael Costa,9,Masculino,4º Ano,Não,Nunca,7.88,5.35,7.24
+1758,Bruno Nogueira,10,Masculino,5º Ano,Não,Nunca,5.33,7.8,8.17
+1759,Sofia Lima,17,Feminino,7º Ano,Não,Nunca,9.32,9.31,6.67
+1760,Gabriela Ibarra,18,Feminino,8º Ano,Não,Nunca,8.34,8.99,8.34
+1761,Carla Oliveira,13,Feminino,8º Ano,Não,Nunca,9.08,7.13,9.13
+1762,Laura Vieira,12,Feminino,7º Ano,Não,Nunca,7.66,7.77,9.93
+1763,Otávio Queiroz,17,Masculino,7º Ano,Não,Nunca,6.09,6.7,5.44
+1764,Zeca Zanetti,6,Masculino,1º Ano,Não,Nunca,6.25,9.54,7.06
+1765,Diego Oliveira,7,Masculino,2º Ano,Não,Nunca,8.44,6.07,7.01
+1766,Laura Costa,8,Feminino,3º Ano,Não,Nunca,9.98,6.13,9.98
+1767,Zeca Zanetti,10,Masculino,5º Ano,Sim,mais de 1 ano,8.89,9.12,9.79
+1768,Laura Vieira,11,Feminino,6º Ano,Não,Nunca,7.49,6.05,8.34
+1769,Carla Vieira,9,Feminino,4º Ano,Não,Nunca,5.54,9.15,8.39
+1770,Patrícia Gomes,6,Feminino,1º Ano,Não,Nunca,9.54,5.47,9.02
+1771,Fernando Almeida,13,Masculino,8º Ano,Não,Nunca,5.06,5.78,6.4
+1772,Rafael Gomes,14,Masculino,9º Ano,Não,Nunca,9.01,7.62,5.49
+1773,Natália Ramos,8,Feminino,3º Ano,Não,Nunca,5.45,7.53,5.14
+1774,Natália Zanetti,11,Feminino,6º Ano,Não,Nunca,6.79,6.1,9.11
+1775,Vivian Fernandes,18,Feminino,8º Ano,Não,Nunca,9.07,9.47,5.33
+1776,Bruno Dias,11,Masculino,6º Ano,Não,Nunca,9.75,7.09,8.69
+1777,Isabela Barbosa,14,Feminino,9º Ano,Não,Nunca,6.15,7.11,9.31
+1778,Patrícia Teixeira,10,Feminino,5º Ano,Não,Nunca,7.17,5.74,5.34
+1779,Tiago Lima,9,Masculino,4º Ano,Não,Nunca,5.17,5.94,6.77
+1780,Ana Fernandes,16,Feminino,6º Ano,Não,Nunca,7.78,6.41,9.53
+1781,Laura Lima,6,Feminino,1º Ano,Não,Nunca,6.69,9.51,6.81
+1782,Vivian Ibarra,16,Feminino,6º Ano,Não,Nunca,5.54,6.55,8.64
+1783,Natália Nogueira,13,Feminino,8º Ano,Sim,mais de 1 ano,7.46,9.78,9.54
+1784,Natália Teixeira,11,Feminino,6º Ano,Não,Nunca,5.57,5.54,5.47
+1785,Natália Teixeira,14,Feminino,9º Ano,Não,Nunca,9.04,6.22,6.56
+1786,Rafael Pereira,18,Masculino,8º Ano,Não,Nunca,6.83,6.86,9.1
+1787,Vivian Pereira,18,Feminino,8º Ano,Sim,mais de 1 ano,9.65,7.4,9.05
+1788,Laura Nogueira,8,Feminino,3º Ano,Não,Nunca,9.84,7.94,6.38
+1789,Diego Martins,6,Masculino,1º Ano,Não,Nunca,8.59,6.46,7.26
+1790,Carla Nogueira,15,Feminino,10º Ano,Sim,mais de 1 ano,9.49,5.92,9.84
+1791,Elisa Gomes,18,Feminino,8º Ano,Sim,mais de 1 ano,8.12,7.18,6.09
+1792,Laura Costa,7,Feminino,2º Ano,Sim,mais de 1 ano,6.17,7.79,8.93
+1793,Fernando Dias,12,Masculino,7º Ano,Sim,mais de 1 ano,5.98,9.33,5.88
+1794,Carla Henrique,13,Feminino,8º Ano,Não,Nunca,7.64,9.13,5.86
+1795,Marcos Costa,16,Masculino,6º Ano,Não,Nunca,6.79,6.17,8.68
+1796,João Vieira,11,Masculino,6º Ano,Não,Nunca,6.95,9.55,6.79
+1797,João Fernandes,6,Masculino,1º Ano,Não,Nunca,6.43,9.42,7.57
+1798,Natália Zanetti,11,Feminino,6º Ano,Sim,mais de 1 ano,7.93,8.36,9.01
+1799,Ana Silva,13,Feminino,8º Ano,Não,Nunca,8.11,6.03,6.26
+1800,Marcos Almeida,8,Masculino,3º Ano,Sim,mais de 1 ano,7.79,6.09,8.36
+1801,Fernando Nogueira,8,Masculino,3º Ano,Não,Nunca,7.69,6.25,5.5
+1802,João Ibarra,17,Masculino,7º Ano,Sim,mais de 1 ano,8.9,9.11,9.31
+1803,Sofia Fernandes,7,Feminino,2º Ano,Não,Nunca,7.98,9.73,8.09
+1804,Carla Ibarra,17,Feminino,7º Ano,Não,Nunca,7.22,9.95,8.33
+1805,Isabela Silva,14,Feminino,9º Ano,Sim,Nunca,9.54,6.72,7.87
+1806,Vivian Ibarra,17,Feminino,7º Ano,Sim,mais de 1 ano,8.55,5.53,6.36
+1807,Patrícia Costa,15,Feminino,10º Ano,Não,Nunca,8.89,7.94,8.38
+1808,Zeca Martins,14,Masculino,9º Ano,Não,Nunca,6.44,5.42,8.79
+1809,Natália Fernandes,15,Feminino,10º Ano,Não,Nunca,5.94,9.68,9.41
+1810,Vivian Henrique,17,Feminino,7º Ano,Sim,Nunca,9.3,9.85,7.34
+1811,Bruno Almeida,17,Masculino,7º Ano,Não,Nunca,6.58,8.22,7.8
+1812,Zeca Martins,12,Masculino,7º Ano,Não,Nunca,5.2,7.12,5.74
+1813,Isabela Barbosa,6,Feminino,1º Ano,Não,Nunca,7.03,9.81,5.53
+1814,Sofia Queiroz,7,Feminino,2º Ano,Não,Nunca,7.13,8.43,6.9
+1815,Fernando Fernandes,9,Masculino,4º Ano,Não,Nunca,6.57,6.71,6.87
+1816,Isabela Júnior,9,Feminino,4º Ano,Não,Nunca,6.64,5.41,7.36
+1817,Vivian Ramos,15,Feminino,10º Ano,Sim,Nunca,8.68,8.0,9.91
+1818,João Martins,10,Masculino,5º Ano,Não,Nunca,7.26,7.99,7.75
+1819,Bruno Nogueira,18,Masculino,8º Ano,Não,Nunca,6.67,8.22,9.88
+1820,Sofia Costa,13,Feminino,8º Ano,Sim,mais de 1 ano,6.42,7.99,7.32
+1821,Elisa Gomes,11,Feminino,6º Ano,Não,Nunca,6.49,8.1,6.22
+1822,Gabriela Gomes,15,Feminino,10º Ano,Sim,Nunca,5.17,5.29,7.67
+1823,Henrique Almeida,7,Masculino,2º Ano,Sim,mais de 1 ano,7.76,9.31,7.08
+1824,Patrícia Queiroz,8,Feminino,3º Ano,Não,Nunca,9.58,9.54,5.63
+1825,Marcos Dias,13,Masculino,8º Ano,Não,Nunca,6.61,5.51,7.91
+1826,Bruno Ibarra,14,Masculino,9º Ano,Não,Nunca,7.11,5.01,7.35
+1827,Tiago Gomes,13,Masculino,8º Ano,Sim,Nunca,8.68,9.09,9.55
+1828,João Fernandes,11,Masculino,6º Ano,Não,Nunca,8.1,9.45,8.38
+1829,Carla Silva,14,Feminino,9º Ano,Não,Nunca,5.69,8.47,8.81
+1830,Bruno Pereira,17,Masculino,7º Ano,Não,Nunca,8.04,8.41,9.92
+1831,Elisa Júnior,16,Feminino,6º Ano,Não,Nunca,6.01,8.73,8.46
+1832,Marcos Oliveira,9,Masculino,4º Ano,Sim,Nunca,8.99,7.44,9.68
+1833,Sofia Oliveira,8,Feminino,3º Ano,Não,Nunca,7.0,5.84,7.55
+1834,Diego Zanetti,10,Masculino,5º Ano,Não,Nunca,5.92,5.01,9.27
+1835,Marcos Queiroz,10,Masculino,5º Ano,Não,Nunca,9.63,8.71,6.85
+1836,Henrique Oliveira,14,Masculino,9º Ano,Não,Nunca,6.27,9.89,9.4
+1837,Carla Pereira,11,Feminino,6º Ano,Não,Nunca,8.92,9.08,8.25
+1838,Sofia Barbosa,8,Feminino,3º Ano,Não,Nunca,6.84,8.77,7.11
+1839,João Teixeira,9,Masculino,4º Ano,Não,Nunca,5.21,8.87,9.58
+1840,Fernando Henrique,8,Masculino,3º Ano,Não,Nunca,5.69,8.18,9.6
+1841,Elisa Lima,7,Feminino,2º Ano,Não,Nunca,5.42,9.14,9.27
+1842,Bruno Pereira,7,Masculino,2º Ano,Não,Nunca,5.21,6.99,6.06
+1843,Diego Júnior,13,Masculino,8º Ano,Não,Nunca,5.68,6.23,7.74
+1844,Rafael Almeida,10,Masculino,5º Ano,Não,Nunca,9.33,6.77,8.88
+1845,Diego Fernandes,8,Masculino,3º Ano,Sim,mais de 1 ano,5.42,8.4,9.63
+1846,Diego Teixeira,10,Masculino,5º Ano,Sim,mais de 1 ano,6.06,7.61,9.64
+1847,Gabriela Silva,14,Feminino,9º Ano,Não,Nunca,5.95,5.53,8.51
+1848,Ana Lima,8,Feminino,3º Ano,Sim,Nunca,6.37,5.71,5.08
+1849,Ana Dias,13,Feminino,8º Ano,Não,Nunca,7.09,8.03,6.52
+1850,Bruno Costa,7,Masculino,2º Ano,Não,Nunca,6.89,5.1,6.33
+1851,Natália Nogueira,10,Feminino,5º Ano,Sim,mais de 1 ano,8.71,7.42,6.96
+1852,Sofia Fernandes,9,Feminino,4º Ano,Não,Nunca,7.31,7.8,9.33
+1853,Patrícia Zanetti,10,Feminino,5º Ano,Não,Nunca,5.58,6.01,9.46
+1854,Elisa Gomes,18,Feminino,8º Ano,Não,Nunca,9.18,9.96,7.88
+1855,Natália Oliveira,15,Feminino,10º Ano,Não,Nunca,5.11,5.71,7.93
+1856,Tiago Costa,14,Masculino,9º Ano,Não,Nunca,8.8,7.75,9.16
+1857,João Zanetti,13,Masculino,8º Ano,Não,Nunca,9.14,9.14,7.27
+1858,Ana Pereira,7,Feminino,2º Ano,Não,Nunca,7.47,9.8,9.0
+1859,Ana Nogueira,14,Feminino,9º Ano,Não,Nunca,8.04,9.16,6.95
+1860,Ana Dias,17,Feminino,7º Ano,Não,Nunca,9.58,8.58,5.64
+1861,Isabela Barbosa,7,Feminino,2º Ano,Sim,Nunca,9.54,9.04,8.75
+1862,Carla Júnior,9,Feminino,4º Ano,Sim,mais de 1 ano,5.1,9.34,6.13
+1863,Bruno Oliveira,14,Masculino,9º Ano,Não,Nunca,7.2,9.11,9.47
+1864,Bruno Henrique,16,Masculino,6º Ano,Sim,mais de 1 ano,6.83,7.89,6.82
+1865,Ana Gomes,9,Feminino,4º Ano,Sim,mais de 1 ano,6.44,7.79,7.49
+1866,Fernando Fernandes,15,Masculino,10º Ano,Sim,Nunca,5.17,9.3,5.74
+1867,Zeca Ramos,13,Masculino,8º Ano,Não,Nunca,6.63,8.97,6.96
+1868,Sofia Barbosa,15,Feminino,10º Ano,Não,Nunca,8.48,6.24,6.27
+1869,Rafael Pereira,9,Masculino,4º Ano,Não,Nunca,5.54,6.22,8.53
+1870,Carla Henrique,16,Feminino,6º Ano,Não,Nunca,5.96,7.0,7.88
+1871,Henrique Fernandes,6,Masculino,1º Ano,Não,Nunca,7.14,5.15,7.32
+1872,Sofia Martins,14,Feminino,9º Ano,Não,Nunca,9.94,7.18,9.02
+1873,Laura Vieira,17,Feminino,7º Ano,Sim,Nunca,5.16,6.07,5.29
+1874,Otávio Júnior,10,Masculino,5º Ano,Não,Nunca,7.89,8.59,9.15
+1875,Henrique Gomes,8,Masculino,3º Ano,Não,Nunca,6.4,6.32,9.06
+1876,Isabela Lima,15,Feminino,10º Ano,Não,Nunca,5.94,5.4,9.61
+1877,Gabriela Ibarra,14,Feminino,9º Ano,Não,Nunca,9.85,8.94,5.21
+1878,Patrícia Barbosa,7,Feminino,2º Ano,Não,Nunca,6.8,8.24,8.85
+1879,Tiago Queiroz,8,Masculino,3º Ano,Não,Nunca,5.69,8.54,9.48
+1880,Isabela Martins,6,Feminino,1º Ano,Não,Nunca,5.54,8.99,5.89
+1881,Natália Júnior,16,Feminino,6º Ano,Não,Nunca,7.31,5.72,6.53
+1882,Zeca Henrique,17,Masculino,7º Ano,Não,Nunca,9.67,9.12,9.35
+1883,Otávio Júnior,17,Masculino,7º Ano,Sim,mais de 1 ano,9.56,5.3,6.69
+1884,Diego Almeida,13,Masculino,8º Ano,Não,Nunca,8.43,7.6,7.73
+1885,Bruno Almeida,10,Masculino,5º Ano,Sim,Nunca,7.15,5.64,9.11
+1886,Isabela Fernandes,7,Feminino,2º Ano,Sim,mais de 1 ano,7.96,7.0,7.64
+1887,Isabela Dias,16,Feminino,6º Ano,Sim,Nunca,7.65,5.23,9.83
+1888,Ana Ramos,14,Feminino,9º Ano,Não,Nunca,7.95,8.05,9.87
+1889,Vivian Ramos,7,Feminino,2º Ano,Não,Nunca,6.85,6.43,7.32
+1890,Bruno Ramos,17,Masculino,7º Ano,Não,Nunca,5.01,7.1,5.27
+1891,Henrique Silva,14,Masculino,9º Ano,Não,Nunca,8.09,5.77,5.8
+1892,Tiago Fernandes,6,Masculino,1º Ano,Não,Nunca,9.74,7.65,9.56
+1893,Henrique Vieira,17,Masculino,7º Ano,Sim,mais de 1 ano,9.6,7.74,9.24
+1894,Fernando Martins,9,Masculino,4º Ano,Não,Nunca,5.7,9.02,7.33
+1895,Isabela Henrique,17,Feminino,7º Ano,Não,Nunca,6.15,9.85,7.0
+1896,Otávio Nogueira,11,Masculino,6º Ano,Não,Nunca,7.14,5.38,6.75
+1897,Diego Gomes,16,Masculino,6º Ano,Não,Nunca,8.27,6.17,5.68
+1898,Laura Ibarra,14,Feminino,9º Ano,Não,Nunca,9.48,5.59,9.14
+1899,Tiago Nogueira,13,Masculino,8º Ano,Não,Nunca,7.28,6.43,7.12
+1900,Fernando Fernandes,13,Masculino,8º Ano,Não,Nunca,6.94,5.8,6.66
+1901,Isabela Pereira,17,Feminino,7º Ano,Não,Nunca,7.04,7.84,9.44
+1902,Elisa Fernandes,16,Feminino,6º Ano,Não,Nunca,6.5,8.49,5.9
+1903,Natália Fernandes,16,Feminino,6º Ano,Não,Nunca,5.2,8.85,7.74
+1904,Henrique Ibarra,11,Masculino,6º Ano,Sim,mais de 1 ano,6.12,6.64,7.11
+1905,Fernando Lima,16,Masculino,6º Ano,Não,Nunca,9.93,9.81,5.31
+1906,Isabela Pereira,7,Feminino,2º Ano,Não,Nunca,5.85,5.71,6.37
+1907,Otávio Oliveira,14,Masculino,9º Ano,Não,Nunca,5.77,6.8,5.58
+1908,Isabela Teixeira,13,Feminino,8º Ano,Não,Nunca,8.19,7.97,8.23
+1909,Vivian Gomes,6,Feminino,1º Ano,Sim,mais de 1 ano,8.01,6.46,6.88
+1910,Patrícia Fernandes,18,Feminino,8º Ano,Não,Nunca,6.42,5.73,8.64
+1911,Zeca Zanetti,13,Masculino,8º Ano,Não,Nunca,5.02,5.28,6.49
+1912,Isabela Vieira,12,Feminino,7º Ano,Não,Nunca,9.18,5.85,8.33
+1913,Vivian Martins,12,Feminino,7º Ano,Não,Nunca,8.25,9.45,5.96
+1914,Vivian Dias,8,Feminino,3º Ano,Não,Nunca,6.14,5.72,9.49
+1915,Gabriela Ramos,17,Feminino,7º Ano,Não,Nunca,9.43,8.94,8.54
+1916,Patrícia Silva,7,Feminino,2º Ano,Não,Nunca,8.01,9.39,5.71
+1917,Ana Silva,6,Feminino,1º Ano,Sim,mais de 1 ano,7.38,9.59,9.2
+1918,Ana Ramos,6,Feminino,1º Ano,Não,Nunca,6.61,7.55,8.41
+1919,Natália Costa,11,Feminino,6º Ano,Não,Nunca,6.77,5.15,7.05
+1920,Vivian Queiroz,16,Feminino,6º Ano,Não,Nunca,7.24,7.69,8.74
+1921,Patrícia Dias,17,Feminino,7º Ano,Sim,Nunca,6.04,7.91,9.86
+1922,Laura Gomes,15,Feminino,10º Ano,Não,Nunca,6.98,7.58,8.49
+1923,Natália Pereira,10,Feminino,5º Ano,Não,Nunca,7.31,5.42,7.94
+1924,Marcos Zanetti,18,Masculino,8º Ano,Não,Nunca,8.74,6.01,5.83
+1925,Carla Queiroz,9,Feminino,4º Ano,Não,Nunca,7.46,6.5,6.21
+1926,João Fernandes,9,Masculino,4º Ano,Não,Nunca,9.28,6.88,6.83
+1927,Patrícia Júnior,12,Feminino,7º Ano,Sim,mais de 1 ano,8.29,7.61,6.58
+1928,Ana Lima,16,Feminino,6º Ano,Sim,mais de 1 ano,6.69,6.28,9.52
+1929,Tiago Ibarra,11,Masculino,6º Ano,Sim,mais de 1 ano,5.06,5.08,6.63
+1930,Marcos Costa,11,Masculino,6º Ano,Não,Nunca,6.45,5.85,9.07
+1931,Rafael Silva,10,Masculino,5º Ano,Não,Nunca,5.74,7.29,9.11
+1932,Otávio Henrique,7,Masculino,2º Ano,Não,Nunca,7.22,6.13,5.16
+1933,Isabela Queiroz,17,Feminino,7º Ano,Não,Nunca,9.85,5.72,5.19
+1934,Sofia Teixeira,18,Feminino,8º Ano,Não,Nunca,5.37,8.78,7.62
+1935,Patrícia Zanetti,15,Feminino,10º Ano,Não,Nunca,7.43,9.26,5.14
+1936,Henrique Barbosa,12,Masculino,7º Ano,Não,Nunca,8.71,5.02,6.5
+1937,Laura Henrique,15,Feminino,10º Ano,Sim,mais de 1 ano,8.71,9.04,8.69
+1938,Carla Almeida,11,Feminino,6º Ano,Não,Nunca,9.58,7.36,9.41
+1939,Rafael Costa,8,Masculino,3º Ano,Sim,Nunca,8.41,7.55,8.75
+1940,Bruno Teixeira,18,Masculino,8º Ano,Sim,Nunca,9.02,6.46,9.79
+1941,Bruno Henrique,6,Masculino,1º Ano,Não,Nunca,6.22,6.37,6.86
+1942,Ana Lima,8,Feminino,3º Ano,Sim,mais de 1 ano,8.32,8.05,8.76
+1943,João Nogueira,8,Masculino,3º Ano,Não,Nunca,5.96,9.11,5.28
+1944,Elisa Nogueira,10,Feminino,5º Ano,Não,Nunca,9.46,5.43,7.91
+1945,Gabriela Fernandes,11,Feminino,6º Ano,Não,Nunca,9.46,6.61,8.22
+1946,Rafael Júnior,6,Masculino,1º Ano,Não,Nunca,7.46,6.82,8.38
+1947,Tiago Júnior,18,Masculino,8º Ano,Não,Nunca,7.58,6.87,8.11
+1948,Henrique Henrique,12,Masculino,7º Ano,Sim,mais de 1 ano,8.2,7.67,5.94
+1949,Isabela Ramos,18,Feminino,8º Ano,Não,Nunca,9.14,7.63,6.81
+1950,Laura Dias,15,Feminino,10º Ano,Não,Nunca,5.16,7.03,5.56
+1951,Natália Teixeira,14,Feminino,9º Ano,Sim,mais de 1 ano,6.85,6.18,5.08
+1952,Isabela Silva,11,Feminino,6º Ano,Não,Nunca,8.55,5.45,7.8
+1953,Zeca Teixeira,13,Masculino,8º Ano,Não,Nunca,5.36,7.96,7.79
+1954,Henrique Ramos,14,Masculino,9º Ano,Sim,mais de 1 ano,8.61,8.09,7.19
+1955,Carla Silva,18,Feminino,8º Ano,Não,Nunca,5.86,6.6,9.44
+1956,Fernando Barbosa,7,Masculino,2º Ano,Não,Nunca,7.61,5.09,9.22
+1957,Henrique Nogueira,18,Masculino,8º Ano,Não,Nunca,7.63,9.96,8.37
+1958,Bruno Costa,7,Masculino,2º Ano,Não,Nunca,9.45,7.8,8.99
+1959,Patrícia Fernandes,9,Feminino,4º Ano,Não,Nunca,8.64,8.08,8.61
+1960,Elisa Gomes,7,Feminino,2º Ano,Sim,Nunca,8.2,7.67,9.51
+1961,Marcos Pereira,12,Masculino,7º Ano,Não,Nunca,5.23,9.89,6.7
+1962,Laura Costa,13,Feminino,8º Ano,Não,Nunca,6.18,9.32,9.46
+1963,Zeca Henrique,13,Masculino,8º Ano,Não,Nunca,6.05,5.11,7.71
+1964,Sofia Queiroz,15,Feminino,10º Ano,Não,Nunca,9.69,5.23,7.93
+1965,Elisa Gomes,18,Feminino,8º Ano,Sim,mais de 1 ano,6.51,8.2,6.23
+1966,Patrícia Fernandes,8,Feminino,3º Ano,Não,Nunca,9.87,7.59,9.03
+1967,Marcos Lima,15,Masculino,10º Ano,Não,Nunca,5.19,6.53,5.95
+1968,Henrique Queiroz,12,Masculino,7º Ano,Não,Nunca,6.75,9.25,7.62
+1969,Marcos Dias,7,Masculino,2º Ano,Não,Nunca,9.07,9.63,9.04
+1970,João Nogueira,17,Masculino,7º Ano,Não,Nunca,5.57,8.38,8.68
+1971,Bruno Almeida,13,Masculino,8º Ano,Não,Nunca,9.26,6.04,6.84
+1972,Patrícia Gomes,7,Feminino,2º Ano,Sim,mais de 1 ano,9.3,9.38,8.85
+1973,Vivian Fernandes,6,Feminino,1º Ano,Não,Nunca,5.46,9.98,9.36
+1974,Vivian Dias,14,Feminino,9º Ano,Não,Nunca,6.29,8.8,5.21
+1975,Tiago Silva,15,Masculino,10º Ano,Não,Nunca,6.4,5.36,8.69
+1976,João Barbosa,17,Masculino,7º Ano,Não,Nunca,6.63,5.58,5.9
+1977,Vivian Costa,11,Feminino,6º Ano,Não,Nunca,6.65,7.0,5.8
+1978,Elisa Costa,12,Feminino,7º Ano,Não,Nunca,8.59,5.44,6.12
+1979,Zeca Almeida,9,Masculino,4º Ano,Não,Nunca,7.05,9.96,6.89
+1980,Ana Queiroz,14,Feminino,9º Ano,Não,Nunca,5.81,7.64,5.89
+1981,Vivian Ibarra,6,Feminino,1º Ano,Não,Nunca,5.98,9.0,7.78
+1982,Tiago Pereira,13,Masculino,8º Ano,Não,Nunca,9.94,5.74,6.44
+1983,Bruno Queiroz,12,Masculino,7º Ano,Não,Nunca,5.08,7.89,5.17
+1984,Henrique Júnior,10,Masculino,5º Ano,Não,Nunca,9.73,7.52,5.65
+1985,Zeca Júnior,16,Masculino,6º Ano,Não,Nunca,8.68,7.02,9.4
+1986,Carla Teixeira,6,Feminino,1º Ano,Não,Nunca,5.23,9.19,6.49
+1987,Bruno Henrique,14,Masculino,9º Ano,Não,Nunca,8.91,6.2,8.22
+1988,Diego Almeida,9,Masculino,4º Ano,Não,Nunca,7.81,8.17,7.24
+1989,Carla Oliveira,7,Feminino,2º Ano,Sim,Nunca,8.96,6.41,5.86
+1990,Henrique Costa,14,Masculino,9º Ano,Sim,Nunca,7.46,8.26,7.85
+1991,Fernando Martins,13,Masculino,8º Ano,Não,Nunca,6.72,5.67,8.06
+1992,Fernando Dias,8,Masculino,3º Ano,Não,Nunca,8.46,6.5,10.0
+1993,Bruno Oliveira,13,Masculino,8º Ano,Não,Nunca,8.3,7.12,7.99
+1994,Henrique Vieira,16,Masculino,6º Ano,Não,Nunca,6.78,5.29,5.33
+1995,Elisa Lima,8,Feminino,3º Ano,Não,Nunca,8.8,5.09,6.26
+1996,Rafael Nogueira,7,Masculino,2º Ano,Sim,mais de 1 ano,9.49,5.9,5.89
+1997,Marcos Nogueira,8,Masculino,3º Ano,Sim,mais de 1 ano,9.59,7.76,8.46
+1998,Fernando Pereira,18,Masculino,8º Ano,Sim,mais de 1 ano,8.6,9.13,5.66
+1999,Laura Henrique,11,Feminino,6º Ano,Não,Nunca,6.13,6.96,6.08
+2000,Isabela Henrique,15,Feminino,10º Ano,Não,Nunca,6.39,5.73,9.4
