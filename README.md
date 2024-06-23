@@ -1,8 +1,8 @@
-<b>Análise da Correlação entre a Prática de Xadrez e o Desempenho Escolar</b>
+# Análise da Correlação entre a Prática de Xadrez e o Desempenho Escolar
 
 Este projeto analisa se há uma correlação entre a prática regular de xadrez e o desempenho escolar dos alunos. Utilizando um dataset que contém informações sobre a prática de xadrez e as notas dos alunos, exploramos as diferenças nas médias de notas gerais, de Matemática e de Língua Portuguesa entre alunos que praticam e que não praticam xadrez. Além disso, fazemos uma análise do perfil demográfico dos praticantes de xadrez.
 
-<b>Estrutura do Dataset</b>
+## Estrutura do Dataset
 
 O dataset contém as seguintes colunas relevantes:
 
