@@ -31,8 +31,8 @@ Visualizações da distribuição de idade, gênero e ano escolar dos alunos que
 
 # Resultados
 
-## Desempenho Escolar
-As médias das notas de alunos que praticam xadrez são ligeiramente superiores às daqueles que não praticam, mas a diferença não é estatisticamente significativa.
+## Desempenho escolar e Prática de Xadrez:
+Não há evidências estatisticamente significativas de que a prática de xadrez influencia diretamente as notas dos alunos em média geral, Matemática ou Língua Portuguesa.
 
-## Perfil Demográfico
- A prática de xadrez é distribuída de maneira relativamente uniforme em termos de idade, gênero e ano escolar.
+## Perfil dos Praticantes de Xadrez
+Os praticantes de xadrez são distribuídos de maneira relativamente uniforme em termos de idade, gênero e ano escolar, indicando que o interesse pelo xadrez é amplamente diversificado.
